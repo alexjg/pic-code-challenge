@@ -1,0 +1,54 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Disability Indicator , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_026_05.pdf"
+ 
+Cycle Year,Disability Indicator , Applicant Domicile (High Level),Number of Acceptances,
+2010,'Disability declared','England',22725
+2010,'Disability declared','Northern Ireland',595
+2010,'Disability declared','Scotland',1765
+2010,'Disability declared','Wales',1040
+2010,'No disability declared','England',321250
+2010,'No disability declared','Northern Ireland',12765
+2010,'No disability declared','Scotland',27485
+2010,'No disability declared','Wales',16500
+2011,'Disability declared','England',24460
+2011,'Disability declared','Northern Ireland',660
+2011,'Disability declared','Scotland',1795
+2011,'Disability declared','Wales',1130
+2011,'No disability declared','England',329355
+2011,'No disability declared','Northern Ireland',13010
+2011,'No disability declared','Scotland',26645
+2011,'No disability declared','Wales',16345
+2012,'Disability declared','England',24035
+2012,'Disability declared','Northern Ireland',710
+2012,'Disability declared','Scotland',1870
+2012,'Disability declared','Wales',1225
+2012,'No disability declared','England',299075
+2012,'No disability declared','Northern Ireland',12400
+2012,'No disability declared','Scotland',26675
+2012,'No disability declared','Wales',16635
+2013,'Disability declared','England',27630
+2013,'Disability declared','Northern Ireland',860
+2013,'Disability declared','Scotland',2150
+2013,'Disability declared','Wales',1305
+2013,'No disability declared','England',316600
+2013,'No disability declared','Northern Ireland',13500
+2013,'No disability declared','Scotland',26845
+2013,'No disability declared','Wales',16610
+2014,'Disability declared','England',30785
+2014,'Disability declared','Northern Ireland',925
+2014,'Disability declared','Scotland',2360
+2014,'Disability declared','Wales',1590
+2014,'No disability declared','England',326075
+2014,'No disability declared','Northern Ireland',13325
+2014,'No disability declared','Scotland',27350
+2014,'No disability declared','Wales',17155
+2015,'Disability declared','England',34425
+2015,'Disability declared','Northern Ireland',980
+2015,'Disability declared','Scotland',2820
+2015,'Disability declared','Wales',1675
+2015,'No disability declared','England',332035
+2015,'No disability declared','Northern Ireland',12910
+2015,'No disability declared','Scotland',29520
+2015,'No disability declared','Wales',17410

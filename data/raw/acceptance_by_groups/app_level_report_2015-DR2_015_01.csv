@@ -1,0 +1,66 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Sex , Applicant Domicile (UK / EU / Not EU) , Cycle Year"
+"Coverage:   All                                                                                                                                                                                                     "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_015_01.pdf"
+ 
+Cycle Year,Sex , Applicant Domicile (UK / EU / Not EU),Number of Acceptances,
+2006,'Men','UK',156315
+2006,'Men','EU (excluding UK)',8725
+2006,'Men','Not EU',15515
+2006,'Women','UK',188050
+2006,'Women','EU (excluding UK)',9555
+2006,'Women','Not EU',12730
+2007,'Men','UK',163995
+2007,'Men','EU (excluding UK)',9700
+2007,'Men','Not EU',15990
+2007,'Women','UK',199375
+2007,'Women','EU (excluding UK)',10960
+2007,'Women','Not EU',13410
+2008,'Men','UK',177780
+2008,'Men','EU (excluding UK)',10030
+2008,'Men','Not EU',16885
+2008,'Women','UK',226075
+2008,'Women','EU (excluding UK)',11330
+2008,'Women','Not EU',14525
+2009,'Men','UK',188900
+2009,'Men','EU (excluding UK)',11210
+2009,'Men','Not EU',18070
+2009,'Women','UK',235055
+2009,'Women','EU (excluding UK)',12595
+2009,'Women','Not EU',16020
+2010,'Men','UK',188520
+2010,'Men','EU (excluding UK)',11830
+2010,'Men','Not EU',19735
+2010,'Women','UK',234910
+2010,'Women','EU (excluding UK)',13775
+2010,'Women','Not EU',18555
+2011,'Men','UK',192465
+2011,'Men','EU (excluding UK)',12110
+2011,'Men','Not EU',17305
+2011,'Women','UK',237605
+2011,'Women','EU (excluding UK)',14595
+2011,'Women','Not EU',17955
+2012,'Men','UK',180435
+2012,'Men','EU (excluding UK)',10445
+2012,'Men','Not EU',17410
+2012,'Women','UK',225810
+2012,'Women','EU (excluding UK)',12790
+2012,'Women','Not EU',18025
+2013,'Men','UK',193030
+2013,'Men','EU (excluding UK)',10900
+2013,'Men','Not EU',18135
+2013,'Women','UK',240580
+2013,'Women','EU (excluding UK)',13605
+2013,'Women','Not EU',19340
+2014,'Men','UK',197420
+2014,'Men','EU (excluding UK)',11470
+2014,'Men','Not EU',18400
+2014,'Women','UK',250030
+2014,'Women','EU (excluding UK)',14915
+2014,'Women','Not EU',20135
+2015,'Men','UK',201960
+2015,'Men','EU (excluding UK)',12490
+2015,'Men','Not EU',18265
+2015,'Women','UK',261755
+2015,'Women','EU (excluding UK)',16810
+2015,'Women','Not EU',20985

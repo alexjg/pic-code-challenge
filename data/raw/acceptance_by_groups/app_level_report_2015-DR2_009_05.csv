@@ -1,0 +1,177 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Acceptance Route , Applicant Domicile (UK / EU / Not EU) , Cycle Year"
+"Coverage:   Applied before June deadline                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_009_05.pdf"
+ 
+Cycle Year,Acceptance Route , Applicant Domicile (UK / EU / Not EU),Number of Acceptances,
+2006,'Firm choice','UK',257690
+2006,'Firm choice','EU (excluding UK)',12525
+2006,'Firm choice','Not EU',16095
+2006,'Insurance choice','UK',19135
+2006,'Insurance choice','EU (excluding UK)',920
+2006,'Insurance choice','Not EU',1770
+2006,'Other main scheme choice','UK',11645
+2006,'Other main scheme choice','EU (excluding UK)',1930
+2006,'Other main scheme choice','Not EU',3370
+2006,'Extra','UK',2920
+2006,'Extra','EU (excluding UK)',155
+2006,'Extra','Not EU',190
+2006,'Main scheme Clearing','UK',25495
+2006,'Main scheme Clearing','EU (excluding UK)',1000
+2006,'Main scheme Clearing','Not EU',2290
+2007,'Firm choice','UK',271590
+2007,'Firm choice','EU (excluding UK)',14735
+2007,'Firm choice','Not EU',16650
+2007,'Insurance choice','UK',20615
+2007,'Insurance choice','EU (excluding UK)',1110
+2007,'Insurance choice','Not EU',2025
+2007,'Other main scheme choice','UK',12125
+2007,'Other main scheme choice','EU (excluding UK)',1760
+2007,'Other main scheme choice','Not EU',3220
+2007,'Extra','UK',3380
+2007,'Extra','EU (excluding UK)',155
+2007,'Extra','Not EU',230
+2007,'Main scheme Clearing','UK',26425
+2007,'Main scheme Clearing','EU (excluding UK)',1035
+2007,'Main scheme Clearing','Not EU',2220
+2008,'Firm choice','UK',297200
+2008,'Firm choice','EU (excluding UK)',15155
+2008,'Firm choice','Not EU',17850
+2008,'Insurance choice','UK',23600
+2008,'Insurance choice','EU (excluding UK)',1300
+2008,'Insurance choice','Not EU',2300
+2008,'Other main scheme choice','UK',13355
+2008,'Other main scheme choice','EU (excluding UK)',1500
+2008,'Other main scheme choice','Not EU',2840
+2008,'Extra','UK',4815
+2008,'Extra','EU (excluding UK)',230
+2008,'Extra','Not EU',280
+2008,'Main scheme Clearing','UK',29635
+2008,'Main scheme Clearing','EU (excluding UK)',1105
+2008,'Main scheme Clearing','Not EU',2520
+2009,'Firm choice','UK',308575
+2009,'Firm choice','EU (excluding UK)',16915
+2009,'Firm choice','Not EU',17960
+2009,'Insurance choice','UK',29385
+2009,'Insurance choice','EU (excluding UK)',1355
+2009,'Insurance choice','Not EU',2560
+2009,'Other main scheme choice','UK',17485
+2009,'Other main scheme choice','EU (excluding UK)',1970
+2009,'Other main scheme choice','Not EU',3065
+2009,'Extra','UK',5005
+2009,'Extra','EU (excluding UK)',300
+2009,'Extra','Not EU',315
+2009,'Adjustment','UK',340
+2009,'Adjustment','EU (excluding UK)',10
+2009,'Adjustment','Not EU',30
+2009,'Main scheme Clearing','UK',32920
+2009,'Main scheme Clearing','EU (excluding UK)',1250
+2009,'Main scheme Clearing','Not EU',2690
+2010,'Firm choice','UK',319610
+2010,'Firm choice','EU (excluding UK)',18990
+2010,'Firm choice','Not EU',20200
+2010,'Insurance choice','UK',32955
+2010,'Insurance choice','EU (excluding UK)',1740
+2010,'Insurance choice','Not EU',2770
+2010,'Other main scheme choice','UK',10060
+2010,'Other main scheme choice','EU (excluding UK)',1260
+2010,'Other main scheme choice','Not EU',2405
+2010,'Extra','UK',6280
+2010,'Extra','EU (excluding UK)',355
+2010,'Extra','Not EU',385
+2010,'Adjustment','UK',320
+2010,'Adjustment','EU (excluding UK)',10
+2010,'Adjustment','Not EU',45
+2010,'Main scheme Clearing','UK',34900
+2010,'Main scheme Clearing','EU (excluding UK)',1355
+2010,'Main scheme Clearing','Not EU',2705
+2011,'Firm choice','UK',319175
+2011,'Firm choice','EU (excluding UK)',20525
+2011,'Firm choice','Not EU',21070
+2011,'Insurance choice','UK',35555
+2011,'Insurance choice','EU (excluding UK)',2030
+2011,'Insurance choice','Not EU',2795
+2011,'Other main scheme choice','UK',10375
+2011,'Other main scheme choice','EU (excluding UK)',1270
+2011,'Other main scheme choice','Not EU',2545
+2011,'Extra','UK',8645
+2011,'Extra','EU (excluding UK)',440
+2011,'Extra','Not EU',450
+2011,'Adjustment','UK',505
+2011,'Adjustment','EU (excluding UK)',10
+2011,'Adjustment','Not EU',40
+2011,'Main scheme Clearing','UK',39150
+2011,'Main scheme Clearing','EU (excluding UK)',1225
+2011,'Main scheme Clearing','Not EU',2665
+2012,'Firm choice','UK',301585
+2012,'Firm choice','EU (excluding UK)',17635
+2012,'Firm choice','Not EU',22080
+2012,'Insurance choice','UK',25565
+2012,'Insurance choice','EU (excluding UK)',1595
+2012,'Insurance choice','Not EU',2840
+2012,'Other main scheme choice','UK',8135
+2012,'Other main scheme choice','EU (excluding UK)',875
+2012,'Other main scheme choice','Not EU',2220
+2012,'Extra','UK',7095
+2012,'Extra','EU (excluding UK)',375
+2012,'Extra','Not EU',390
+2012,'Adjustment','UK',1230
+2012,'Adjustment','EU (excluding UK)',35
+2012,'Adjustment','Not EU',65
+2012,'Main scheme Clearing','UK',39020
+2012,'Main scheme Clearing','EU (excluding UK)',1390
+2012,'Main scheme Clearing','Not EU',3015
+2013,'Firm choice','UK',320980
+2013,'Firm choice','EU (excluding UK)',18695
+2013,'Firm choice','Not EU',23575
+2013,'Insurance choice','UK',27900
+2013,'Insurance choice','EU (excluding UK)',1780
+2013,'Insurance choice','Not EU',3170
+2013,'Other main scheme choice','UK',10490
+2013,'Other main scheme choice','EU (excluding UK)',1105
+2013,'Other main scheme choice','Not EU',2685
+2013,'Extra','UK',7040
+2013,'Extra','EU (excluding UK)',365
+2013,'Extra','Not EU',410
+2013,'Adjustment','UK',1125
+2013,'Adjustment','EU (excluding UK)',35
+2013,'Adjustment','Not EU',60
+2013,'Main scheme Clearing','UK',37975
+2013,'Main scheme Clearing','EU (excluding UK)',1315
+2013,'Main scheme Clearing','Not EU',2995
+2014,'Firm choice','UK',327350
+2014,'Firm choice','EU (excluding UK)',20355
+2014,'Firm choice','Not EU',24455
+2014,'Insurance choice','UK',31405
+2014,'Insurance choice','EU (excluding UK)',1920
+2014,'Insurance choice','Not EU',3415
+2014,'Other main scheme choice','UK',10285
+2014,'Other main scheme choice','EU (excluding UK)',1075
+2014,'Other main scheme choice','Not EU',2235
+2014,'Extra','UK',6805
+2014,'Extra','EU (excluding UK)',375
+2014,'Extra','Not EU',435
+2014,'Adjustment','UK',1045
+2014,'Adjustment','EU (excluding UK)',35
+2014,'Adjustment','Not EU',85
+2014,'Main scheme Clearing','UK',42685
+2014,'Main scheme Clearing','EU (excluding UK)',1490
+2014,'Main scheme Clearing','Not EU',3335
+2015,'Firm choice','UK',335700
+2015,'Firm choice','EU (excluding UK)',22515
+2015,'Firm choice','Not EU',25915
+2015,'Insurance choice','UK',33655
+2015,'Insurance choice','EU (excluding UK)',2240
+2015,'Insurance choice','Not EU',3595
+2015,'Other main scheme choice','UK',10300
+2015,'Other main scheme choice','EU (excluding UK)',1110
+2015,'Other main scheme choice','Not EU',1965
+2015,'Extra','UK',6670
+2015,'Extra','EU (excluding UK)',420
+2015,'Extra','Not EU',400
+2015,'Adjustment','UK',1025
+2015,'Adjustment','EU (excluding UK)',35
+2015,'Adjustment','Not EU',70
+2015,'Main scheme Clearing','UK',44425
+2015,'Main scheme Clearing','EU (excluding UK)',1600
+2015,'Main scheme Clearing','Not EU',3105

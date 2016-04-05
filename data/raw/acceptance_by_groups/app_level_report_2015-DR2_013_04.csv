@@ -1,0 +1,206 @@
+"Statistic:   Number of Applicants"
+"Variables:   Age Band , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   UK domiciled                                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_013_04.pdf"
+ 
+Cycle Year,Age Band , Applicant Domicile (High Level),Number of Applicants,
+2006,'17 and under','England',1410
+2006,'17 and under','Northern Ireland',80
+2006,'17 and under','Scotland',1300
+2006,'17 and under','Wales',65
+2006,'18','England',189175
+2006,'18','Northern Ireland',11450
+2006,'18','Scotland',17830
+2006,'18','Wales',11470
+2006,'19','England',59080
+2006,'19','Northern Ireland',2055
+2006,'19','Scotland',4130
+2006,'19','Wales',3190
+2006,'20','England',24005
+2006,'20','Northern Ireland',955
+2006,'20','Scotland',2635
+2006,'20','Wales',1280
+2006,'21 and over','England',82960
+2006,'21 and over','Northern Ireland',2755
+2006,'21 and over','Scotland',9535
+2006,'21 and over','Wales',5395
+2007,'17 and under','England',1525
+2007,'17 and under','Northern Ireland',65
+2007,'17 and under','Scotland',1310
+2007,'17 and under','Wales',75
+2007,'18','England',192105
+2007,'18','Northern Ireland',11135
+2007,'18','Scotland',17045
+2007,'18','Wales',10985
+2007,'19','England',72070
+2007,'19','Northern Ireland',2325
+2007,'19','Scotland',4400
+2007,'19','Wales',3585
+2007,'20','England',26030
+2007,'20','Northern Ireland',925
+2007,'20','Scotland',2805
+2007,'20','Wales',1350
+2007,'21 and over','England',86945
+2007,'21 and over','Northern Ireland',2700
+2007,'21 and over','Scotland',9935
+2007,'21 and over','Wales',5430
+2008,'17 and under','England',1760
+2008,'17 and under','Northern Ireland',55
+2008,'17 and under','Scotland',1320
+2008,'17 and under','Wales',60
+2008,'18','England',203595
+2008,'18','Northern Ireland',10940
+2008,'18','Scotland',18110
+2008,'18','Wales',11420
+2008,'19','England',78535
+2008,'19','Northern Ireland',2310
+2008,'19','Scotland',4485
+2008,'19','Wales',3805
+2008,'20','England',32165
+2008,'20','Northern Ireland',1070
+2008,'20','Scotland',2995
+2008,'20','Wales',1595
+2008,'21 and over','England',107150
+2008,'21 and over','Northern Ireland',2745
+2008,'21 and over','Scotland',11120
+2008,'21 and over','Wales',5830
+2009,'17 and under','England',1710
+2009,'17 and under','Northern Ireland',60
+2009,'17 and under','Scotland',1295
+2009,'17 and under','Wales',60
+2009,'18','England',214790
+2009,'18','Northern Ireland',11600
+2009,'18','Scotland',18505
+2009,'18','Wales',12195
+2009,'19','England',84965
+2009,'19','Northern Ireland',2225
+2009,'19','Scotland',5015
+2009,'19','Wales',4095
+2009,'20','England',34315
+2009,'20','Northern Ireland',1085
+2009,'20','Scotland',3140
+2009,'20','Wales',1750
+2009,'21 and over','England',124270
+2009,'21 and over','Northern Ireland',2900
+2009,'21 and over','Scotland',12095
+2009,'21 and over','Wales',6845
+2010,'17 and under','England',1550
+2010,'17 and under','Northern Ireland',60
+2010,'17 and under','Scotland',1130
+2010,'17 and under','Wales',55
+2010,'18','England',225995
+2010,'18','Northern Ireland',12085
+2010,'18','Scotland',20205
+2010,'18','Wales',12065
+2010,'19','England',93110
+2010,'19','Northern Ireland',2690
+2010,'19','Scotland',5890
+2010,'19','Wales',4250
+2010,'20','England',36760
+2010,'20','Northern Ireland',1250
+2010,'20','Scotland',3590
+2010,'20','Wales',1700
+2010,'21 and over','England',136950
+2010,'21 and over','Northern Ireland',3595
+2010,'21 and over','Scotland',15530
+2010,'21 and over','Wales',6840
+2011,'17 and under','England',1315
+2011,'17 and under','Northern Ireland',45
+2011,'17 and under','Scotland',1000
+2011,'17 and under','Wales',55
+2011,'18','England',225935
+2011,'18','Northern Ireland',11975
+2011,'18','Scotland',19555
+2011,'18','Wales',11730
+2011,'19','England',97055
+2011,'19','Northern Ireland',3165
+2011,'19','Scotland',5830
+2011,'19','Wales',4460
+2011,'20','England',37625
+2011,'20','Northern Ireland',1355
+2011,'20','Scotland',3760
+2011,'20','Wales',1835
+2011,'21 and over','England',134700
+2011,'21 and over','Northern Ireland',3700
+2011,'21 and over','Scotland',15870
+2011,'21 and over','Wales',6900
+2012,'17 and under','England',1030
+2012,'17 and under','Northern Ireland',50
+2012,'17 and under','Scotland',960
+2012,'17 and under','Wales',40
+2012,'18','England',217560
+2012,'18','Northern Ireland',11720
+2012,'18','Scotland',19465
+2012,'18','Wales',11620
+2012,'19','England',80590
+2012,'19','Northern Ireland',2810
+2012,'19','Scotland',6055
+2012,'19','Wales',4375
+2012,'20','England',33015
+2012,'20','Northern Ireland',1390
+2012,'20','Scotland',3825
+2012,'20','Wales',1885
+2012,'21 and over','England',121805
+2012,'21 and over','Northern Ireland',3410
+2012,'21 and over','Scotland',14810
+2012,'21 and over','Wales',6930
+2013,'17 and under','England',1070
+2013,'17 and under','Northern Ireland',35
+2013,'17 and under','Scotland',810
+2013,'17 and under','Wales',55
+2013,'18','England',220385
+2013,'18','Northern Ireland',11720
+2013,'18','Scotland',19420
+2013,'18','Wales',11320
+2013,'19','England',91215
+2013,'19','Northern Ireland',3100
+2013,'19','Scotland',5890
+2013,'19','Wales',4450
+2013,'20','England',34065
+2013,'20','Northern Ireland',1530
+2013,'20','Scotland',4170
+2013,'20','Wales',1795
+2013,'21 and over','England',124380
+2013,'21 and over','Northern Ireland',4160
+2013,'21 and over','Scotland',15430
+2013,'21 and over','Wales',6980
+2014,'17 and under','England',1115
+2014,'17 and under','Northern Ireland',30
+2014,'17 and under','Scotland',715
+2014,'17 and under','Wales',35
+2014,'18','England',226115
+2014,'18','Northern Ireland',11510
+2014,'18','Scotland',19415
+2014,'18','Wales',11720
+2014,'19','England',92870
+2014,'19','Northern Ireland',3200
+2014,'19','Scotland',5625
+2014,'19','Wales',4525
+2014,'20','England',36350
+2014,'20','Northern Ireland',1665
+2014,'20','Scotland',3945
+2014,'20','Wales',1750
+2014,'21 and over','England',131425
+2014,'21 and over','Northern Ireland',4160
+2014,'21 and over','Scotland',15085
+2014,'21 and over','Wales',7035
+2015,'17 and under','England',1130
+2015,'17 and under','Northern Ireland',35
+2015,'17 and under','Scotland',890
+2015,'17 and under','Wales',25
+2015,'18','England',235225
+2015,'18','Northern Ireland',11990
+2015,'18','Scotland',20005
+2015,'18','Wales',12150
+2015,'19','England',94370
+2015,'19','Northern Ireland',3225
+2015,'19','Scotland',6085
+2015,'19','Wales',4445
+2015,'20','England',35155
+2015,'20','Northern Ireland',1525
+2015,'20','Scotland',4150
+2015,'20','Wales',1800
+2015,'21 and over','England',128615
+2015,'21 and over','Northern Ireland',4260
+2015,'21 and over','Scotland',20170
+2015,'21 and over','Wales',6780

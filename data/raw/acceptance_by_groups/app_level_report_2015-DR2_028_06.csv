@@ -1,0 +1,30 @@
+"Statistic:   Number of Applicants"
+"Variables:   Disability Indicator , Sex , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_028_06.pdf"
+ 
+Cycle Year,Disability Indicator , Sex,Number of Applicants,
+2010,'Disability declared','Men',17415
+2010,'Disability declared','Women',19560
+2010,'No disability declared','Men',221515
+2010,'No disability declared','Women',300745
+2011,'Disability declared','Men',18250
+2011,'Disability declared','Women',20930
+2011,'No disability declared','Men',223760
+2011,'No disability declared','Women',301075
+2012,'Disability declared','Men',17385
+2012,'Disability declared','Women',20670
+2012,'No disability declared','Men',200310
+2012,'No disability declared','Women',275515
+2013,'Disability declared','Men',19185
+2013,'Disability declared','Women',22735
+2013,'No disability declared','Men',205430
+2013,'No disability declared','Women',280285
+2014,'Disability declared','Men',20900
+2014,'Disability declared','Women',26150
+2014,'No disability declared','Men',209500
+2014,'No disability declared','Women',287960
+2015,'Disability declared','Men',22050
+2015,'Disability declared','Women',29585
+2015,'No disability declared','Men',210680
+2015,'No disability declared','Women',291195

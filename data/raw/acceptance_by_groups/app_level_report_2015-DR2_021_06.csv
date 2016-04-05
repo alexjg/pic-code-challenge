@@ -1,0 +1,306 @@
+"Statistic:   Number of Applicants"
+"Variables:   Ethnic Group (Summary Level) , Age Band , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_021_06.pdf"
+ 
+Cycle Year,Ethnic Group (Summary Level) , Age Band,Number of Applicants,
+2006,'Asian','17 and under',250
+2006,'Asian','18',20440
+2006,'Asian','19',9625
+2006,'Asian','20',3150
+2006,'Asian','21 and over',6265
+2006,'Black','17 and under',100
+2006,'Black','18',5880
+2006,'Black','19',3970
+2006,'Black','20',2195
+2006,'Black','21 and over',9790
+2006,'Mixed','17 and under',90
+2006,'Mixed','18',5715
+2006,'Mixed','19',2095
+2006,'Mixed','20',860
+2006,'Mixed','21 and over',2460
+2006,'White','17 and under',2025
+2006,'White','18',190365
+2006,'White','19',46090
+2006,'White','20',17915
+2006,'White','21 and over',60065
+2006,'Other','17 and under',35
+2006,'Other','18',1790
+2006,'Other','19',940
+2006,'Other','20',375
+2006,'Other','21 and over',1210
+2006,'Unknown','17 and under',100
+2006,'Unknown','18',2310
+2006,'Unknown','19',925
+2006,'Unknown','20',370
+2006,'Unknown','21 and over',1945
+2007,'Asian','17 and under',230
+2007,'Asian','18',20165
+2007,'Asian','19',9895
+2007,'Asian','20',3260
+2007,'Asian','21 and over',6440
+2007,'Black','17 and under',125
+2007,'Black','18',6635
+2007,'Black','19',4460
+2007,'Black','20',2610
+2007,'Black','21 and over',10425
+2007,'Mixed','17 and under',100
+2007,'Mixed','18',6345
+2007,'Mixed','19',2600
+2007,'Mixed','20',1000
+2007,'Mixed','21 and over',2685
+2007,'White','17 and under',2030
+2007,'White','18',190530
+2007,'White','19',57905
+2007,'White','20',19035
+2007,'White','21 and over',62105
+2007,'Other','17 and under',35
+2007,'Other','18',1825
+2007,'Other','19',1035
+2007,'Other','20',475
+2007,'Other','21 and over',1405
+2007,'Unknown','17 and under',115
+2007,'Unknown','18',2300
+2007,'Unknown','19',1135
+2007,'Unknown','20',460
+2007,'Unknown','21 and over',1940
+2008,'Asian','17 and under',245
+2008,'Asian','18',21570
+2008,'Asian','19',10630
+2008,'Asian','20',3890
+2008,'Asian','21 and over',7625
+2008,'Black','17 and under',120
+2008,'Black','18',7485
+2008,'Black','19',5265
+2008,'Black','20',2925
+2008,'Black','21 and over',14085
+2008,'Mixed','17 and under',95
+2008,'Mixed','18',6855
+2008,'Mixed','19',3015
+2008,'Mixed','20',1235
+2008,'Mixed','21 and over',3445
+2008,'White','17 and under',2090
+2008,'White','18',200045
+2008,'White','19',62180
+2008,'White','20',23700
+2008,'White','21 and over',73110
+2008,'Other','17 and under',30
+2008,'Other','18',1810
+2008,'Other','19',1055
+2008,'Other','20',455
+2008,'Other','21 and over',1470
+2008,'Unknown','17 and under',85
+2008,'Unknown','18',2255
+2008,'Unknown','19',1040
+2008,'Unknown','20',445
+2008,'Unknown','21 and over',1820
+2009,'Asian','17 and under',265
+2009,'Asian','18',22720
+2009,'Asian','19',11525
+2009,'Asian','20',4130
+2009,'Asian','21 and over',9160
+2009,'Black','17 and under',130
+2009,'Black','18',8300
+2009,'Black','19',5720
+2009,'Black','20',3335
+2009,'Black','21 and over',17795
+2009,'Mixed','17 and under',105
+2009,'Mixed','18',7610
+2009,'Mixed','19',3375
+2009,'Mixed','20',1410
+2009,'Mixed','21 and over',4095
+2009,'White','17 and under',2100
+2009,'White','18',211525
+2009,'White','19',68420
+2009,'White','20',25795
+2009,'White','21 and over',87610
+2009,'Other','17 and under',40
+2009,'Other','18',1830
+2009,'Other','19',1120
+2009,'Other','20',520
+2009,'Other','21 and over',1710
+2009,'Unknown','17 and under',25
+2009,'Unknown','18',1550
+2009,'Unknown','19',755
+2009,'Unknown','20',365
+2009,'Unknown','21 and over',1435
+2010,'Asian','17 and under',240
+2010,'Asian','18',24210
+2010,'Asian','19',12595
+2010,'Asian','20',4845
+2010,'Asian','21 and over',11145
+2010,'Black','17 and under',125
+2010,'Black','18',9355
+2010,'Black','19',6215
+2010,'Black','20',3480
+2010,'Black','21 and over',22475
+2010,'Mixed','17 and under',125
+2010,'Mixed','18',8125
+2010,'Mixed','19',3995
+2010,'Mixed','20',1680
+2010,'Mixed','21 and over',5040
+2010,'White','17 and under',1975
+2010,'White','18',223035
+2010,'White','19',77525
+2010,'White','20',29005
+2010,'White','21 and over',103710
+2010,'Other','17 and under',55
+2010,'Other','18',2125
+2010,'Other','19',1250
+2010,'Other','20',540
+2010,'Other','21 and over',1990
+2010,'Unknown','17 and under',35
+2010,'Unknown','18',1515
+2010,'Unknown','19',795
+2010,'Unknown','20',345
+2010,'Unknown','21 and over',1685
+2011,'Asian','17 and under',205
+2011,'Asian','18',25220
+2011,'Asian','19',13945
+2011,'Asian','20',5095
+2011,'Asian','21 and over',11705
+2011,'Black','17 and under',125
+2011,'Black','18',10225
+2011,'Black','19',6820
+2011,'Black','20',3630
+2011,'Black','21 and over',23700
+2011,'Mixed','17 and under',95
+2011,'Mixed','18',8885
+2011,'Mixed','19',4115
+2011,'Mixed','20',1815
+2011,'Mixed','21 and over',5200
+2011,'White','17 and under',1770
+2011,'White','18',219365
+2011,'White','19',80545
+2011,'White','20',30150
+2011,'White','21 and over',100805
+2011,'Other','17 and under',35
+2011,'Other','18',2320
+2011,'Other','19',1285
+2011,'Other','20',630
+2011,'Other','21 and over',2035
+2011,'Unknown','17 and under',30
+2011,'Unknown','18',1390
+2011,'Unknown','19',820
+2011,'Unknown','20',335
+2011,'Unknown','21 and over',1720
+2012,'Asian','17 and under',200
+2012,'Asian','18',25090
+2012,'Asian','19',12790
+2012,'Asian','20',4505
+2012,'Asian','21 and over',10425
+2012,'Black','17 and under',90
+2012,'Black','18',10290
+2012,'Black','19',6465
+2012,'Black','20',3215
+2012,'Black','21 and over',22185
+2012,'Mixed','17 and under',90
+2012,'Mixed','18',8685
+2012,'Mixed','19',3535
+2012,'Mixed','20',1490
+2012,'Mixed','21 and over',4640
+2012,'White','17 and under',1390
+2012,'White','18',209455
+2012,'White','19',64520
+2012,'White','20',26150
+2012,'White','21 and over',87805
+2012,'Other','17 and under',45
+2012,'Other','18',2680
+2012,'Other','19',1590
+2012,'Other','20',705
+2012,'Other','21 and over',2305
+2012,'Unknown','17 and under',15
+2012,'Unknown','18',1230
+2012,'Unknown','19',620
+2012,'Unknown','20',280
+2012,'Unknown','21 and over',1390
+2013,'Asian','17 and under',185
+2013,'Asian','18',26100
+2013,'Asian','19',13630
+2013,'Asian','20',4515
+2013,'Asian','21 and over',10345
+2013,'Black','17 and under',100
+2013,'Black','18',11600
+2013,'Black','19',6815
+2013,'Black','20',3270
+2013,'Black','21 and over',20380
+2013,'Mixed','17 and under',75
+2013,'Mixed','18',9150
+2013,'Mixed','19',4045
+2013,'Mixed','20',1490
+2013,'Mixed','21 and over',4715
+2013,'White','17 and under',1245
+2013,'White','18',208635
+2013,'White','19',72620
+2013,'White','20',26755
+2013,'White','21 and over',90975
+2013,'Other','17 and under',60
+2013,'Other','18',2805
+2013,'Other','19',1680
+2013,'Other','20',730
+2013,'Other','21 and over',2145
+2013,'Unknown','17 and under',25
+2013,'Unknown','18',1120
+2013,'Unknown','19',685
+2013,'Unknown','20',285
+2013,'Unknown','21 and over',1455
+2014,'Asian','17 and under',150
+2014,'Asian','18',27725
+2014,'Asian','19',14095
+2014,'Asian','20',4740
+2014,'Asian','21 and over',11040
+2014,'Black','17 and under',110
+2014,'Black','18',12295
+2014,'Black','19',7385
+2014,'Black','20',3240
+2014,'Black','21 and over',21260
+2014,'Mixed','17 and under',95
+2014,'Mixed','18',9830
+2014,'Mixed','19',4415
+2014,'Mixed','20',1710
+2014,'Mixed','21 and over',5065
+2014,'White','17 and under',1290
+2014,'White','18',211800
+2014,'White','19',73070
+2014,'White','20',28590
+2014,'White','21 and over',94860
+2014,'Other','17 and under',55
+2014,'Other','18',3240
+2014,'Other','19',1860
+2014,'Other','20',725
+2014,'Other','21 and over',2330
+2014,'Unknown','17 and under',20
+2014,'Unknown','18',1085
+2014,'Unknown','19',590
+2014,'Unknown','20',275
+2014,'Unknown','21 and over',1565
+2015,'Asian','17 and under',195
+2015,'Asian','18',29690
+2015,'Asian','19',14745
+2015,'Asian','20',4675
+2015,'Asian','21 and over',11220
+2015,'Black','17 and under',100
+2015,'Black','18',13430
+2015,'Black','19',7815
+2015,'Black','20',3280
+2015,'Black','21 and over',20870
+2015,'Mixed','17 and under',90
+2015,'Mixed','18',10950
+2015,'Mixed','19',4610
+2015,'Mixed','20',1715
+2015,'Mixed','21 and over',5150
+2015,'White','17 and under',1325
+2015,'White','18',216705
+2015,'White','19',72520
+2015,'White','20',26910
+2015,'White','21 and over',94270
+2015,'Other','17 and under',65
+2015,'Other','18',3530
+2015,'Other','19',2005
+2015,'Other','20',785
+2015,'Other','21 and over',2320
+2015,'Unknown','17 and under',20
+2015,'Unknown','18',1575
+2015,'Unknown','19',755
+2015,'Unknown','20',340
+2015,'Unknown','21 and over',1860

@@ -1,0 +1,106 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Sex , Age Band , Cycle Year"
+"Coverage:   Applied before June deadline                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_017_05.pdf"
+ 
+Cycle Year,Sex , Age Band,Number of Acceptances,
+2006,'Men','17 and under',1885
+2006,'Men','18',90530
+2006,'Men','19',29245
+2006,'Men','20',12480
+2006,'Men','21 and over',28070
+2006,'Women','17 and under',2360
+2006,'Women','18',111080
+2006,'Women','19',33005
+2006,'Women','20',12225
+2006,'Women','21 and over',36245
+2007,'Men','17 and under',1980
+2007,'Men','18',90650
+2007,'Men','19',35125
+2007,'Men','20',13360
+2007,'Men','21 and over',29340
+2007,'Women','17 and under',2545
+2007,'Women','18',112465
+2007,'Women','19',40200
+2007,'Women','20',13475
+2007,'Women','21 and over',38145
+2008,'Men','17 and under',1880
+2008,'Men','18',95175
+2008,'Men','19',37785
+2008,'Men','20',15630
+2008,'Men','21 and over',32140
+2008,'Women','17 and under',2640
+2008,'Women','18',121055
+2008,'Women','19',44325
+2008,'Women','20',16345
+2008,'Women','21 and over',46715
+2009,'Men','17 and under',2025
+2009,'Men','18',100005
+2009,'Men','19',41760
+2009,'Men','20',16660
+2009,'Men','21 and over',36805
+2009,'Women','17 and under',2755
+2009,'Women','18',124925
+2009,'Women','19',47215
+2009,'Women','20',17430
+2009,'Women','21 and over',52560
+2010,'Men','17 and under',1840
+2010,'Men','18',101365
+2010,'Men','19',45010
+2010,'Men','20',17470
+2010,'Men','21 and over',38090
+2010,'Women','17 and under',2665
+2010,'Women','18',125115
+2010,'Women','19',50865
+2010,'Women','20',18320
+2010,'Women','21 and over',55605
+2011,'Men','17 and under',1885
+2011,'Men','18',104135
+2011,'Men','19',47845
+2011,'Men','20',18205
+2011,'Men','21 and over',37875
+2011,'Women','17 and under',2615
+2011,'Women','18',128330
+2011,'Women','19',54050
+2011,'Women','20',19085
+2011,'Women','21 and over',54445
+2012,'Men','17 and under',1945
+2012,'Men','18',100070
+2012,'Men','19',40900
+2012,'Men','20',16500
+2012,'Men','21 and over',33360
+2012,'Women','17 and under',2655
+2012,'Women','18',126235
+2012,'Women','19',46795
+2012,'Women','20',17155
+2012,'Women','21 and over',49530
+2013,'Men','17 and under',2130
+2013,'Men','18',104130
+2013,'Men','19',46545
+2013,'Men','20',17240
+2013,'Men','21 and over',34820
+2013,'Women','17 and under',2745
+2013,'Women','18',130470
+2013,'Women','19',53070
+2013,'Women','20',18640
+2013,'Women','21 and over',51905
+2014,'Men','17 and under',2305
+2014,'Men','18',107190
+2014,'Men','19',47160
+2014,'Men','20',18110
+2014,'Men','21 and over',35440
+2014,'Women','17 and under',3140
+2014,'Women','18',134710
+2014,'Women','19',55060
+2014,'Women','20',20150
+2014,'Women','21 and over',55520
+2015,'Men','17 and under',2470
+2015,'Men','18',110880
+2015,'Men','19',48015
+2015,'Men','20',17400
+2015,'Men','21 and over',35825
+2015,'Women','17 and under',3370
+2015,'Women','18',143605
+2015,'Women','19',56650
+2015,'Women','20',19655
+2015,'Women','21 and over',56885

@@ -1,0 +1,267 @@
+"Statistic:   Number of Applicants"
+"Variables:   Acceptance Route , Applicant Domicile (UK / EU / Not EU) , Cycle Year"
+"Coverage:   All                                                                                                                                                                                                     "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_009_04.pdf"
+ 
+Cycle Year,Acceptance Route , Applicant Domicile (UK / EU / Not EU),Number of Applicants,
+2006,'Firm choice','UK',257690
+2006,'Firm choice','EU (excluding UK)',12525
+2006,'Firm choice','Not EU',16095
+2006,'Insurance choice','UK',19135
+2006,'Insurance choice','EU (excluding UK)',920
+2006,'Insurance choice','Not EU',1770
+2006,'Other main scheme choice','UK',11645
+2006,'Other main scheme choice','EU (excluding UK)',1930
+2006,'Other main scheme choice','Not EU',3370
+2006,'Extra','UK',2920
+2006,'Extra','EU (excluding UK)',155
+2006,'Extra','Not EU',190
+2006,'Main scheme Clearing','UK',25495
+2006,'Main scheme Clearing','EU (excluding UK)',1000
+2006,'Main scheme Clearing','Not EU',2290
+2006,'Direct Clearing','UK',8125
+2006,'Direct Clearing','EU (excluding UK)',655
+2006,'Direct Clearing','Not EU',460
+2006,'RPA','UK',19350
+2006,'RPA','EU (excluding UK)',1100
+2006,'RPA','Not EU',4070
+2006,'Unplaced','UK',86405
+2006,'Unplaced','EU (excluding UK)',11650
+2006,'Unplaced','Not EU',17360
+2007,'Firm choice','UK',271590
+2007,'Firm choice','EU (excluding UK)',14735
+2007,'Firm choice','Not EU',16650
+2007,'Insurance choice','UK',20615
+2007,'Insurance choice','EU (excluding UK)',1110
+2007,'Insurance choice','Not EU',2025
+2007,'Other main scheme choice','UK',12125
+2007,'Other main scheme choice','EU (excluding UK)',1760
+2007,'Other main scheme choice','Not EU',3220
+2007,'Extra','UK',3380
+2007,'Extra','EU (excluding UK)',155
+2007,'Extra','Not EU',230
+2007,'Main scheme Clearing','UK',26425
+2007,'Main scheme Clearing','EU (excluding UK)',1035
+2007,'Main scheme Clearing','Not EU',2220
+2007,'Direct Clearing','UK',8220
+2007,'Direct Clearing','EU (excluding UK)',515
+2007,'Direct Clearing','Not EU',440
+2007,'RPA','UK',21015
+2007,'RPA','EU (excluding UK)',1345
+2007,'RPA','Not EU',4610
+2007,'Unplaced','UK',89375
+2007,'Unplaced','EU (excluding UK)',12960
+2007,'Unplaced','Not EU',18730
+2008,'Firm choice','UK',297205
+2008,'Firm choice','EU (excluding UK)',15155
+2008,'Firm choice','Not EU',17855
+2008,'Insurance choice','UK',23600
+2008,'Insurance choice','EU (excluding UK)',1300
+2008,'Insurance choice','Not EU',2300
+2008,'Other main scheme choice','UK',13355
+2008,'Other main scheme choice','EU (excluding UK)',1500
+2008,'Other main scheme choice','Not EU',2840
+2008,'Extra','UK',4815
+2008,'Extra','EU (excluding UK)',230
+2008,'Extra','Not EU',280
+2008,'Main scheme Clearing','UK',29635
+2008,'Main scheme Clearing','EU (excluding UK)',1105
+2008,'Main scheme Clearing','Not EU',2520
+2008,'Direct Clearing','UK',9645
+2008,'Direct Clearing','EU (excluding UK)',540
+2008,'Direct Clearing','Not EU',445
+2008,'RPA','UK',25600
+2008,'RPA','EU (excluding UK)',1530
+2008,'RPA','Not EU',5175
+2008,'Unplaced','UK',97215
+2008,'Unplaced','EU (excluding UK)',13165
+2008,'Unplaced','Not EU',21680
+2009,'Firm choice','UK',308580
+2009,'Firm choice','EU (excluding UK)',16915
+2009,'Firm choice','Not EU',17965
+2009,'Insurance choice','UK',29385
+2009,'Insurance choice','EU (excluding UK)',1355
+2009,'Insurance choice','Not EU',2560
+2009,'Other main scheme choice','UK',17485
+2009,'Other main scheme choice','EU (excluding UK)',1970
+2009,'Other main scheme choice','Not EU',3065
+2009,'Extra','UK',5005
+2009,'Extra','EU (excluding UK)',300
+2009,'Extra','Not EU',315
+2009,'Adjustment','UK',340
+2009,'Adjustment','EU (excluding UK)',10
+2009,'Adjustment','Not EU',30
+2009,'Main scheme Clearing','UK',32920
+2009,'Main scheme Clearing','EU (excluding UK)',1250
+2009,'Main scheme Clearing','Not EU',2690
+2009,'Direct Clearing','UK',9870
+2009,'Direct Clearing','EU (excluding UK)',475
+2009,'Direct Clearing','Not EU',465
+2009,'RPA','UK',20375
+2009,'RPA','EU (excluding UK)',1520
+2009,'RPA','Not EU',7000
+2009,'Unplaced','UK',118960
+2009,'Unplaced','EU (excluding UK)',15695
+2009,'Unplaced','Not EU',23350
+2010,'Firm choice','UK',319610
+2010,'Firm choice','EU (excluding UK)',18990
+2010,'Firm choice','Not EU',20200
+2010,'Insurance choice','UK',32955
+2010,'Insurance choice','EU (excluding UK)',1740
+2010,'Insurance choice','Not EU',2770
+2010,'Other main scheme choice','UK',10060
+2010,'Other main scheme choice','EU (excluding UK)',1260
+2010,'Other main scheme choice','Not EU',2405
+2010,'Extra','UK',6280
+2010,'Extra','EU (excluding UK)',355
+2010,'Extra','Not EU',385
+2010,'Adjustment','UK',320
+2010,'Adjustment','EU (excluding UK)',10
+2010,'Adjustment','Not EU',45
+2010,'Main scheme Clearing','UK',34900
+2010,'Main scheme Clearing','EU (excluding UK)',1355
+2010,'Main scheme Clearing','Not EU',2705
+2010,'Direct Clearing','UK',7070
+2010,'Direct Clearing','EU (excluding UK)',405
+2010,'Direct Clearing','Not EU',495
+2010,'RPA','UK',12235
+2010,'RPA','EU (excluding UK)',1490
+2010,'RPA','Not EU',9290
+2010,'Unplaced','UK',161870
+2010,'Unplaced','EU (excluding UK)',21710
+2010,'Unplaced','Not EU',26440
+2011,'Firm choice','UK',319175
+2011,'Firm choice','EU (excluding UK)',20525
+2011,'Firm choice','Not EU',21070
+2011,'Insurance choice','UK',35555
+2011,'Insurance choice','EU (excluding UK)',2030
+2011,'Insurance choice','Not EU',2795
+2011,'Other main scheme choice','UK',10375
+2011,'Other main scheme choice','EU (excluding UK)',1270
+2011,'Other main scheme choice','Not EU',2545
+2011,'Extra','UK',8645
+2011,'Extra','EU (excluding UK)',440
+2011,'Extra','Not EU',450
+2011,'Adjustment','UK',505
+2011,'Adjustment','EU (excluding UK)',10
+2011,'Adjustment','Not EU',40
+2011,'Main scheme Clearing','UK',39150
+2011,'Main scheme Clearing','EU (excluding UK)',1225
+2011,'Main scheme Clearing','Not EU',2665
+2011,'Direct Clearing','UK',7335
+2011,'Direct Clearing','EU (excluding UK)',325
+2011,'Direct Clearing','Not EU',470
+2011,'RPA','UK',9330
+2011,'RPA','EU (excluding UK)',870
+2011,'RPA','Not EU',5230
+2011,'Unplaced','UK',157795
+2011,'Unplaced','EU (excluding UK)',22575
+2011,'Unplaced','Not EU',27760
+2012,'Firm choice','UK',301585
+2012,'Firm choice','EU (excluding UK)',17635
+2012,'Firm choice','Not EU',22085
+2012,'Insurance choice','UK',25565
+2012,'Insurance choice','EU (excluding UK)',1595
+2012,'Insurance choice','Not EU',2840
+2012,'Other main scheme choice','UK',8135
+2012,'Other main scheme choice','EU (excluding UK)',875
+2012,'Other main scheme choice','Not EU',2220
+2012,'Extra','UK',7095
+2012,'Extra','EU (excluding UK)',375
+2012,'Extra','Not EU',390
+2012,'Adjustment','UK',1230
+2012,'Adjustment','EU (excluding UK)',35
+2012,'Adjustment','Not EU',65
+2012,'Main scheme Clearing','UK',39020
+2012,'Main scheme Clearing','EU (excluding UK)',1390
+2012,'Main scheme Clearing','Not EU',3015
+2012,'Direct Clearing','UK',11220
+2012,'Direct Clearing','EU (excluding UK)',470
+2012,'Direct Clearing','Not EU',605
+2012,'RPA','UK',12390
+2012,'RPA','EU (excluding UK)',860
+2012,'RPA','Not EU',4215
+2012,'Unplaced','UK',137095
+2012,'Unplaced','EU (excluding UK)',19915
+2012,'Unplaced','Not EU',31715
+2013,'Firm choice','UK',320985
+2013,'Firm choice','EU (excluding UK)',18695
+2013,'Firm choice','Not EU',23575
+2013,'Insurance choice','UK',27900
+2013,'Insurance choice','EU (excluding UK)',1780
+2013,'Insurance choice','Not EU',3170
+2013,'Other main scheme choice','UK',10490
+2013,'Other main scheme choice','EU (excluding UK)',1105
+2013,'Other main scheme choice','Not EU',2685
+2013,'Extra','UK',7040
+2013,'Extra','EU (excluding UK)',365
+2013,'Extra','Not EU',410
+2013,'Adjustment','UK',1125
+2013,'Adjustment','EU (excluding UK)',35
+2013,'Adjustment','Not EU',60
+2013,'Main scheme Clearing','UK',37975
+2013,'Main scheme Clearing','EU (excluding UK)',1315
+2013,'Main scheme Clearing','Not EU',2995
+2013,'Direct Clearing','UK',13730
+2013,'Direct Clearing','EU (excluding UK)',480
+2013,'Direct Clearing','Not EU',605
+2013,'RPA','UK',14375
+2013,'RPA','EU (excluding UK)',730
+2013,'RPA','Not EU',3980
+2013,'Unplaced','UK',128370
+2013,'Unplaced','EU (excluding UK)',20330
+2013,'Unplaced','Not EU',33080
+2014,'Firm choice','UK',327350
+2014,'Firm choice','EU (excluding UK)',20355
+2014,'Firm choice','Not EU',24455
+2014,'Insurance choice','UK',31405
+2014,'Insurance choice','EU (excluding UK)',1920
+2014,'Insurance choice','Not EU',3415
+2014,'Other main scheme choice','UK',10285
+2014,'Other main scheme choice','EU (excluding UK)',1075
+2014,'Other main scheme choice','Not EU',2235
+2014,'Extra','UK',6805
+2014,'Extra','EU (excluding UK)',375
+2014,'Extra','Not EU',435
+2014,'Adjustment','UK',1045
+2014,'Adjustment','EU (excluding UK)',35
+2014,'Adjustment','Not EU',85
+2014,'Main scheme Clearing','UK',42685
+2014,'Main scheme Clearing','EU (excluding UK)',1490
+2014,'Main scheme Clearing','Not EU',3335
+2014,'Direct Clearing','UK',12730
+2014,'Direct Clearing','EU (excluding UK)',510
+2014,'Direct Clearing','Not EU',560
+2014,'RPA','UK',15150
+2014,'RPA','EU (excluding UK)',625
+2014,'RPA','Not EU',4015
+2014,'Unplaced','UK',130840
+2014,'Unplaced','EU (excluding UK)',20450
+2014,'Unplaced','Not EU',36025
+2015,'Firm choice','UK',335700
+2015,'Firm choice','EU (excluding UK)',22515
+2015,'Firm choice','Not EU',25915
+2015,'Insurance choice','UK',33655
+2015,'Insurance choice','EU (excluding UK)',2240
+2015,'Insurance choice','Not EU',3595
+2015,'Other main scheme choice','UK',10300
+2015,'Other main scheme choice','EU (excluding UK)',1110
+2015,'Other main scheme choice','Not EU',1965
+2015,'Extra','UK',6670
+2015,'Extra','EU (excluding UK)',420
+2015,'Extra','Not EU',400
+2015,'Adjustment','UK',1025
+2015,'Adjustment','EU (excluding UK)',35
+2015,'Adjustment','Not EU',70
+2015,'Main scheme Clearing','UK',44425
+2015,'Main scheme Clearing','EU (excluding UK)',1600
+2015,'Main scheme Clearing','Not EU',3105
+2015,'Direct Clearing','UK',14045
+2015,'Direct Clearing','EU (excluding UK)',535
+2015,'Direct Clearing','Not EU',630
+2015,'RPA','UK',17895
+2015,'RPA','EU (excluding UK)',840
+2015,'RPA','Not EU',3565
+2015,'Unplaced','UK',128310
+2015,'Unplaced','EU (excluding UK)',21405
+2015,'Unplaced','Not EU',36500

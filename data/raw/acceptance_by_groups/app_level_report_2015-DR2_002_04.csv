@@ -1,0 +1,1964 @@
+"Statistic:   Number of Applicants"
+"Variables:   Applicant Domicile (Low Level – Overseas Country Focus) , Cycle Year"
+"Coverage:   All                                                                                                                                                                                                     "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_002_04.pdf"
+ 
+Cycle Year,Applicant Domicile (Low Level – Overseas Country Focus),Number of Applicants,
+2006,'United Kingdom',430765
+2006,'Afghanistan',20
+2006,'Albania',60
+2006,'Alderney',10
+2006,'Algeria',35
+2006,'Angola',75
+2006,'Anguilla',20
+2006,'Antigua and Barbuda',10
+2006,'Argentina',25
+2006,'Armenia',10
+2006,'Australia',225
+2006,'Austria',365
+2006,'Azerbaijan',50
+2006,'Bahamas',55
+2006,'Bahrain',275
+2006,'Bangladesh',445
+2006,'Barbados',95
+2006,'Belarus',25
+2006,'Belgium',710
+2006,'Belize',5
+2006,'Benin',5
+2006,'Bermuda',70
+2006,'Bolivia',10
+2006,'Bosnia and Herzegovina',15
+2006,'Botswana',230
+2006,'Brazil',135
+2006,'British Antarctic Territory',20
+2006,'British Virgin Islands',25
+2006,'Brunei',535
+2006,'Bulgaria',185
+2006,'Burkina Faso',5
+2006,'Burma',65
+2006,'Burundi',5
+2006,'Cameroon',175
+2006,'Canada',1185
+2006,'Cayman Islands',30
+2006,'Chile',10
+2006,'China',6165
+2006,'Colombia',25
+2006,'Congo (Democratic Republic)',15
+2006,'Congo (Peoples Republic)',10
+2006,'Costa Rica',5
+2006,'Croatia',35
+2006,'Cyprus (Not otherwise specified)',2700
+2006,'Czech Republic',330
+2006,'Denmark',345
+2006,'Dominica',10
+2006,'Dominican Republic',5
+2006,'Ecuador',15
+2006,'Egypt',110
+2006,'El Salvador',5
+2006,'Equatorial Guinea',5
+2006,'Eritrea',5
+2006,'Estonia',215
+2006,'Ethiopia',15
+2006,'Falkland Islands',15
+2006,'Finland',555
+2006,'France',3350
+2006,'French Polynesia',5
+2006,'French West Indies',15
+2006,'Gabon',5
+2006,'Gambia',130
+2006,'Georgia',20
+2006,'Germany',3230
+2006,'Ghana',585
+2006,'Gibraltar',215
+2006,'Greece',2210
+2006,'Greenland',25
+2006,'Grenada',15
+2006,'Guernsey',350
+2006,'Guinea',10
+2006,'Guyana',15
+2006,'Honduras',5
+2006,'Hong Kong',3230
+2006,'Hungary',290
+2006,'Iceland',55
+2006,'India',2680
+2006,'Indonesia',145
+2006,'Iran',390
+2006,'Iraq',25
+2006,'Ireland',6355
+2006,'Isle of Man',460
+2006,'Israel',105
+2006,'Italy',1025
+2006,'Ivory Coast',20
+2006,'Jamaica',120
+2006,'Japan',780
+2006,'Jersey',610
+2006,'Jordan',260
+2006,'Kazakhstan',345
+2006,'Kenya',825
+2006,'Korea (South)',840
+2006,'Korea DRY (North)',5
+2006,'Kuwait',255
+2006,'Kyrgyzstan',15
+2006,'Latvia',385
+2006,'Lebanon',130
+2006,'Lesotho',5
+2006,'Liberia',5
+2006,'Libyan AR',45
+2006,'Liechtenstein',5
+2006,'Lithuania',715
+2006,'Luxembourg',305
+2006,'Macao',55
+2006,'Macedonia',15
+2006,'Madagascar',5
+2006,'Malawi',115
+2006,'Malaysia',2505
+2006,'Maldive Islands',40
+2006,'Malta',120
+2006,'Mauritania',5
+2006,'Mauritius',585
+2006,'Mexico',95
+2006,'Moldova',30
+2006,'Monaco',25
+2006,'Mongolia',25
+2006,'Montserrat',5
+2006,'Morocco',70
+2006,'Mozambique',10
+2006,'Namibia',25
+2006,'Nepal',120
+2006,'Netherlands',545
+2006,'Netherlands Antilles',5
+2006,'New Zealand',70
+2006,'Nigeria',3805
+2006,'Norway',900
+2006,'Oman',165
+2006,'Pakistan',2440
+2006,'Palestine',5
+2006,'Panama',5
+2006,'Paraguay',5
+2006,'Peru',30
+2006,'Philippines',85
+2006,'Poland',2440
+2006,'Portugal',685
+2006,'Puerto Rico',5
+2006,'Qatar',165
+2006,'Reunion',10
+2006,'Romania',125
+2006,'Russia',510
+2006,'Rwanda',10
+2006,'Saudi Arabia',495
+2006,'Senegal',15
+2006,'Serbia',45
+2006,'Seychelles',30
+2006,'Sierra Leone',35
+2006,'Singapore',1470
+2006,'Slovakia',285
+2006,'Slovenia',55
+2006,'Somalia',5
+2006,'South Africa',295
+2006,'Spain',1045
+2006,'Sri Lanka',1040
+2006,'St Lucia',45
+2006,'St Vincent',20
+2006,'St. Kitts-Nevis',15
+2006,'Sudan',30
+2006,'Swaziland',15
+2006,'Sweden',1420
+2006,'Switzerland',555
+2006,'Syria',40
+2006,'Taiwan',300
+2006,'Tanzania',270
+2006,'Thailand',320
+2006,'Togo',5
+2006,'Trinidad and Tobago',210
+2006,'Tunisia',20
+2006,'Turkey',270
+2006,'Turkmenistan',10
+2006,'Turks and Caicos Islands',10
+2006,'Uganda',275
+2006,'Ukraine',95
+2006,'United Arab Emirates',520
+2006,'United States of America',2390
+2006,'Uzbekistan',25
+2006,'Venezuela',25
+2006,'Vietnam',390
+2006,'Yemen',20
+2006,'Zambia',155
+2006,'Zimbabwe',695
+2006,'Stateless',5
+2006,'Unknown',270
+2007,'United Kingdom',452745
+2007,'Afghanistan',25
+2007,'Albania',85
+2007,'Alderney',5
+2007,'Algeria',45
+2007,'Angola',85
+2007,'Anguilla',15
+2007,'Antigua and Barbuda',15
+2007,'Argentina',15
+2007,'Armenia',5
+2007,'Australia',265
+2007,'Austria',380
+2007,'Azerbaijan',35
+2007,'Bahamas',55
+2007,'Bahrain',320
+2007,'Bangladesh',380
+2007,'Barbados',90
+2007,'Belarus',20
+2007,'Belgium',755
+2007,'Belize',5
+2007,'Benin',10
+2007,'Bermuda',105
+2007,'Bolivia',5
+2007,'Bosnia and Herzegovina',10
+2007,'Botswana',235
+2007,'Brazil',140
+2007,'British Antarctic Territory',10
+2007,'British Virgin Islands',35
+2007,'Brunei',800
+2007,'Bulgaria',565
+2007,'Burkina Faso',5
+2007,'Burma',55
+2007,'Cambodia',5
+2007,'Cameroon',180
+2007,'Canada',1385
+2007,'Cayman Islands',30
+2007,'Chile',20
+2007,'China',7070
+2007,'Colombia',25
+2007,'Congo (Democratic Republic)',20
+2007,'Congo (Peoples Republic)',5
+2007,'Costa Rica',5
+2007,'Croatia',25
+2007,'Cyprus (Not otherwise specified)',3685
+2007,'Czech Republic',325
+2007,'Denmark',365
+2007,'Dominica',15
+2007,'Dominican Republic',5
+2007,'Ecuador',15
+2007,'Egypt',130
+2007,'El Salvador',15
+2007,'Eritrea',5
+2007,'Estonia',305
+2007,'Ethiopia',30
+2007,'Falkland Islands',10
+2007,'Faroe Islands',40
+2007,'Fiji',5
+2007,'Finland',555
+2007,'France',3725
+2007,'French Guiana',5
+2007,'French West Indies',10
+2007,'Gabon',5
+2007,'Gambia',105
+2007,'Georgia',25
+2007,'Germany',3565
+2007,'Ghana',480
+2007,'Gibraltar',210
+2007,'Greece',2410
+2007,'Grenada',10
+2007,'Guatemala',5
+2007,'Guernsey',370
+2007,'Guinea',15
+2007,'Guyana',15
+2007,'Hong Kong',3490
+2007,'Hungary',305
+2007,'Iceland',70
+2007,'India',2780
+2007,'Indonesia',145
+2007,'Iran',530
+2007,'Iraq',25
+2007,'Ireland',5840
+2007,'Isle of Man',430
+2007,'Israel',95
+2007,'Italy',1165
+2007,'Ivory Coast',15
+2007,'Jamaica',115
+2007,'Japan',685
+2007,'Jersey',600
+2007,'Jordan',320
+2007,'Kazakhstan',455
+2007,'Kenya',745
+2007,'Korea (South)',865
+2007,'Kuwait',325
+2007,'Kyrgyzstan',15
+2007,'Latvia',475
+2007,'Lebanon',115
+2007,'Lesotho',5
+2007,'Liberia',10
+2007,'Libyan AR',70
+2007,'Lithuania',835
+2007,'Luxembourg',315
+2007,'Macao',65
+2007,'Macedonia',10
+2007,'Madagascar',10
+2007,'Malawi',120
+2007,'Malaysia',2795
+2007,'Maldive Islands',40
+2007,'Malta',125
+2007,'Mauritania',5
+2007,'Mauritius',470
+2007,'Mexico',120
+2007,'Moldova',30
+2007,'Monaco',30
+2007,'Mongolia',20
+2007,'Montserrat',5
+2007,'Morocco',90
+2007,'Mozambique',10
+2007,'Namibia',20
+2007,'Nepal',120
+2007,'Netherlands',645
+2007,'Netherlands Antilles',5
+2007,'New Zealand',75
+2007,'Nigeria',3365
+2007,'Norway',1110
+2007,'Oman',210
+2007,'Pakistan',2580
+2007,'Palestine',15
+2007,'Panama',5
+2007,'Paraguay',5
+2007,'Peru',30
+2007,'Philippines',70
+2007,'Poland',3060
+2007,'Portugal',665
+2007,'Puerto Rico',5
+2007,'Qatar',220
+2007,'Reunion',5
+2007,'Romania',375
+2007,'Russia',555
+2007,'Rwanda',10
+2007,'Saudi Arabia',810
+2007,'Senegal',20
+2007,'Serbia',55
+2007,'Seychelles',30
+2007,'Sierra Leone',55
+2007,'Singapore',1585
+2007,'Slovakia',295
+2007,'Slovenia',60
+2007,'Somalia',5
+2007,'South Africa',330
+2007,'Spain',1115
+2007,'Sri Lanka',1125
+2007,'St Lucia',55
+2007,'St Vincent',25
+2007,'St. Kitts-Nevis',10
+2007,'Sudan',35
+2007,'Swaziland',15
+2007,'Sweden',1475
+2007,'Switzerland',525
+2007,'Syria',30
+2007,'Taiwan',275
+2007,'Tajikistan',5
+2007,'Tanzania',250
+2007,'Thailand',325
+2007,'Togo',10
+2007,'Trinidad and Tobago',175
+2007,'Tunisia',30
+2007,'Turkey',355
+2007,'Turkmenistan',10
+2007,'Turks and Caicos Islands',15
+2007,'US Trust Territories',5
+2007,'Uganda',230
+2007,'Ukraine',105
+2007,'United Arab Emirates',570
+2007,'United States of America',2655
+2007,'Uruguay',5
+2007,'Uzbekistan',35
+2007,'Venezuela',40
+2007,'Vietnam',375
+2007,'Yemen',20
+2007,'Zambia',150
+2007,'Zimbabwe',520
+2007,'Unknown',150
+2008,'United Kingdom',501070
+2008,'Afghanistan',25
+2008,'Albania',65
+2008,'Alderney',15
+2008,'Algeria',30
+2008,'Angola',85
+2008,'Anguilla',20
+2008,'Antigua and Barbuda',20
+2008,'Argentina',20
+2008,'Armenia',10
+2008,'Australia',305
+2008,'Austria',435
+2008,'Azerbaijan',60
+2008,'Bahamas',70
+2008,'Bahrain',325
+2008,'Bangladesh',410
+2008,'Barbados',100
+2008,'Belarus',30
+2008,'Belgium',790
+2008,'Belize',10
+2008,'Benin',10
+2008,'Bermuda',195
+2008,'Bhutan',5
+2008,'Bolivia',5
+2008,'Bosnia and Herzegovina',15
+2008,'Botswana',255
+2008,'Brazil',140
+2008,'British Antarctic Territory',55
+2008,'British Virgin Islands',45
+2008,'Brunei',765
+2008,'Bulgaria',1100
+2008,'Burma',45
+2008,'Burundi',5
+2008,'Cambodia',5
+2008,'Cameroon',160
+2008,'Canada',1685
+2008,'Cape Verde',5
+2008,'Cayman Islands',40
+2008,'Chile',10
+2008,'China',8890
+2008,'Colombia',55
+2008,'Congo (Democratic Republic)',30
+2008,'Congo (Peoples Republic)',5
+2008,'Costa Rica',5
+2008,'Croatia',25
+2008,'Cyprus (Not otherwise specified)',3265
+2008,'Czech Republic',315
+2008,'Denmark',405
+2008,'Djibouti',5
+2008,'Dominica',15
+2008,'Dominican Republic',5
+2008,'Ecuador',20
+2008,'Egypt',165
+2008,'El Salvador',10
+2008,'Equatorial Guinea',5
+2008,'Eritrea',5
+2008,'Estonia',375
+2008,'Ethiopia',40
+2008,'Falkland Islands',10
+2008,'Faroe Islands',40
+2008,'Fiji',5
+2008,'Finland',590
+2008,'France',4030
+2008,'French West Indies',10
+2008,'Gabon',10
+2008,'Gambia',100
+2008,'Georgia',30
+2008,'Germany',3685
+2008,'Ghana',460
+2008,'Gibraltar',210
+2008,'Greece',2385
+2008,'Grenada',15
+2008,'Guatemala',10
+2008,'Guernsey',340
+2008,'Guinea',10
+2008,'Guyana',20
+2008,'Honduras',5
+2008,'Hong Kong',3585
+2008,'Hungary',310
+2008,'Iceland',90
+2008,'India',3030
+2008,'Indonesia',180
+2008,'Iran',525
+2008,'Iraq',15
+2008,'Ireland',5460
+2008,'Isle of Man',475
+2008,'Israel',135
+2008,'Italy',1290
+2008,'Ivory Coast',20
+2008,'Jamaica',90
+2008,'Japan',540
+2008,'Jersey',560
+2008,'Jordan',300
+2008,'Kazakhstan',400
+2008,'Kenya',730
+2008,'Korea (South)',905
+2008,'Kuwait',345
+2008,'Kyrgyzstan',15
+2008,'Lao PDR',5
+2008,'Latvia',505
+2008,'Lebanon',120
+2008,'Lesotho',5
+2008,'Liberia',5
+2008,'Libyan AR',95
+2008,'Liechtenstein',5
+2008,'Lithuania',1070
+2008,'Luxembourg',325
+2008,'Macao',70
+2008,'Macedonia',10
+2008,'Madagascar',5
+2008,'Malawi',125
+2008,'Malaysia',3035
+2008,'Maldive Islands',45
+2008,'Mali',5
+2008,'Malta',130
+2008,'Mauritania',5
+2008,'Mauritius',435
+2008,'Mexico',125
+2008,'Moldova',40
+2008,'Monaco',35
+2008,'Mongolia',25
+2008,'Montenegro',10
+2008,'Montserrat',5
+2008,'Morocco',70
+2008,'Mozambique',10
+2008,'Namibia',25
+2008,'Nepal',100
+2008,'Netherlands',730
+2008,'Netherlands Antilles',10
+2008,'New Zealand',95
+2008,'Nicaragua',5
+2008,'Nigeria',3145
+2008,'Norway',1305
+2008,'Oman',225
+2008,'Pakistan',2600
+2008,'Palestine',35
+2008,'Panama',5
+2008,'Papua New Guinea',5
+2008,'Paraguay',5
+2008,'Peru',25
+2008,'Philippines',95
+2008,'Poland',2580
+2008,'Portugal',640
+2008,'Qatar',360
+2008,'Reunion',5
+2008,'Romania',865
+2008,'Russia',635
+2008,'Rwanda',20
+2008,'Saudi Arabia',1250
+2008,'Senegal',25
+2008,'Serbia',55
+2008,'Seychelles',20
+2008,'Sierra Leone',35
+2008,'Singapore',2040
+2008,'Slovakia',380
+2008,'Slovenia',70
+2008,'Somalia',5
+2008,'South Africa',440
+2008,'Spain',1130
+2008,'Sri Lanka',1005
+2008,'St Helena',5
+2008,'St Lucia',40
+2008,'St Vincent',30
+2008,'St. Kitts-Nevis',10
+2008,'Sudan',40
+2008,'Swaziland',20
+2008,'Sweden',1445
+2008,'Switzerland',640
+2008,'Syria',40
+2008,'Taiwan',315
+2008,'Tajikistan',5
+2008,'Tanzania',255
+2008,'Thailand',400
+2008,'Togo',15
+2008,'Trinidad and Tobago',160
+2008,'Tunisia',25
+2008,'Turkey',435
+2008,'Turkmenistan',10
+2008,'Turks and Caicos Islands',20
+2008,'Uganda',275
+2008,'Ukraine',115
+2008,'United Arab Emirates',710
+2008,'United States of America',2825
+2008,'Uzbekistan',35
+2008,'Venezuela',50
+2008,'Vietnam',390
+2008,'Yemen',25
+2008,'Zambia',195
+2008,'Zimbabwe',490
+2008,'Stateless',5
+2008,'Unknown',305
+2009,'United Kingdom',542915
+2009,'Afghanistan',20
+2009,'Albania',65
+2009,'Alderney',5
+2009,'Algeria',40
+2009,'Andorra',5
+2009,'Angola',70
+2009,'Anguilla',20
+2009,'Antigua and Barbuda',10
+2009,'Argentina',25
+2009,'Armenia',20
+2009,'Australia',305
+2009,'Austria',475
+2009,'Azerbaijan',125
+2009,'Bahamas',65
+2009,'Bahrain',295
+2009,'Bangladesh',485
+2009,'Barbados',110
+2009,'Belarus',30
+2009,'Belgium',915
+2009,'Belize',15
+2009,'Benin',10
+2009,'Bermuda',235
+2009,'Bhutan',5
+2009,'Bolivia',5
+2009,'Bosnia and Herzegovina',10
+2009,'Botswana',225
+2009,'Brazil',155
+2009,'British Antarctic Territory',30
+2009,'British Indian Ocean Territory',10
+2009,'British Virgin Islands',60
+2009,'Brunei',865
+2009,'Bulgaria',1705
+2009,'Burkina Faso',5
+2009,'Burma',60
+2009,'Burundi',5
+2009,'Cambodia',5
+2009,'Cameroon',125
+2009,'Canada',1855
+2009,'Canary Islands',10
+2009,'Cayman Islands',40
+2009,'Central African Republic',5
+2009,'Chile',20
+2009,'China',9375
+2009,'Colombia',50
+2009,'Congo (Democratic Republic)',25
+2009,'Congo (Peoples Republic)',5
+2009,'Costa Rica',15
+2009,'Croatia',45
+2009,'Cuba',5
+2009,'Cyprus (European Union)',2265
+2009,'Cyprus (Non-European Union)',40
+2009,'Cyprus (Not otherwise specified)',1395
+2009,'Czech Republic',350
+2009,'Denmark',435
+2009,'Dominica',10
+2009,'Dominican Republic',5
+2009,'Ecuador',15
+2009,'Egypt',195
+2009,'El Salvador',10
+2009,'Equatorial Guinea',5
+2009,'Eritrea',10
+2009,'Estonia',460
+2009,'Ethiopia',30
+2009,'Falkland Islands',15
+2009,'Faroe Islands',65
+2009,'Fiji',10
+2009,'Finland',670
+2009,'France',4850
+2009,'French Polynesia',5
+2009,'French West Indies',5
+2009,'Gabon',5
+2009,'Gambia',115
+2009,'Georgia',75
+2009,'Germany',3995
+2009,'Ghana',335
+2009,'Gibraltar',220
+2009,'Greece',2440
+2009,'Grenada',20
+2009,'Guadeloupe',5
+2009,'Guatemala',15
+2009,'Guernsey',345
+2009,'Guinea',10
+2009,'Guyana',15
+2009,'Honduras',5
+2009,'Hong Kong',3735
+2009,'Hungary',380
+2009,'Iceland',60
+2009,'India',3285
+2009,'Indonesia',190
+2009,'Iran',640
+2009,'Iraq',50
+2009,'Ireland',6265
+2009,'Isle of Man',475
+2009,'Israel',100
+2009,'Italy',1630
+2009,'Ivory Coast',15
+2009,'Jamaica',80
+2009,'Japan',450
+2009,'Jersey',545
+2009,'Jordan',290
+2009,'Kazakhstan',600
+2009,'Kenya',730
+2009,'Korea (South)',1055
+2009,'Korea DRY (North)',5
+2009,'Kosovo',5
+2009,'Kuwait',335
+2009,'Kyrgyzstan',15
+2009,'Latvia',675
+2009,'Lebanon',100
+2009,'Lesotho',10
+2009,'Liberia',5
+2009,'Libyan AR',155
+2009,'Liechtenstein',5
+2009,'Lithuania',1415
+2009,'Luxembourg',340
+2009,'Macao',90
+2009,'Macedonia',15
+2009,'Madagascar',10
+2009,'Malawi',145
+2009,'Malaysia',3385
+2009,'Maldive Islands',40
+2009,'Mali',5
+2009,'Malta',120
+2009,'Mauritius',505
+2009,'Mexico',130
+2009,'Moldova',50
+2009,'Monaco',35
+2009,'Mongolia',25
+2009,'Montenegro',10
+2009,'Montserrat',10
+2009,'Morocco',130
+2009,'Mozambique',15
+2009,'Namibia',35
+2009,'Nepal',160
+2009,'Netherlands',780
+2009,'Netherlands Antilles',10
+2009,'New Zealand',125
+2009,'Nicaragua',5
+2009,'Nigeria',2885
+2009,'Norway',1510
+2009,'Oman',215
+2009,'Pakistan',2400
+2009,'Palestine',40
+2009,'Panama',15
+2009,'Papua New Guinea',5
+2009,'Peru',30
+2009,'Philippines',105
+2009,'Poland',2330
+2009,'Portugal',615
+2009,'Puerto Rico',10
+2009,'Qatar',330
+2009,'Reunion',10
+2009,'Romania',1395
+2009,'Russia',690
+2009,'Rwanda',20
+2009,'Saudi Arabia',1800
+2009,'Senegal',35
+2009,'Serbia',60
+2009,'Seychelles',20
+2009,'Sierra Leone',35
+2009,'Singapore',2495
+2009,'Slovakia',415
+2009,'Slovenia',70
+2009,'Somalia',5
+2009,'South Africa',310
+2009,'Spain',1345
+2009,'Sri Lanka',715
+2009,'St Lucia',45
+2009,'St Vincent',30
+2009,'St. Kitts-Nevis',10
+2009,'Sudan',35
+2009,'Swaziland',10
+2009,'Sweden',1525
+2009,'Switzerland',775
+2009,'Syria',35
+2009,'Taiwan',285
+2009,'Tajikistan',5
+2009,'Tanzania',205
+2009,'Thailand',445
+2009,'Togo',15
+2009,'Trinidad and Tobago',180
+2009,'Tunisia',25
+2009,'Turkey',505
+2009,'Turkmenistan',20
+2009,'Turks and Caicos Islands',35
+2009,'USSR (not otherwise specified)',5
+2009,'Uganda',225
+2009,'Ukraine',165
+2009,'United Arab Emirates',810
+2009,'United States of America',3030
+2009,'Uruguay',5
+2009,'Uzbekistan',35
+2009,'Venezuela',45
+2009,'Vietnam',530
+2009,'Virgin Islands (US)',15
+2009,'Yemen',45
+2009,'Zambia',160
+2009,'Zimbabwe',445
+2009,'Stateless',5
+2009,'Unknown',1310
+2010,'United Kingdom',585300
+2010,'Afghanistan',20
+2010,'Albania',85
+2010,'Alderney',10
+2010,'Algeria',25
+2010,'Andorra',5
+2010,'Angola',95
+2010,'Anguilla',25
+2010,'Antigua and Barbuda',10
+2010,'Argentina',20
+2010,'Armenia',25
+2010,'Australia',380
+2010,'Austria',500
+2010,'Azerbaijan',290
+2010,'Bahamas',55
+2010,'Bahrain',365
+2010,'Bangladesh',635
+2010,'Barbados',105
+2010,'Belarus',40
+2010,'Belgium',980
+2010,'Belize',10
+2010,'Benin',5
+2010,'Bermuda',335
+2010,'Bhutan',5
+2010,'Bolivia',10
+2010,'Bosnia and Herzegovina',20
+2010,'Botswana',235
+2010,'Brazil',200
+2010,'British Antarctic Territory',40
+2010,'British Indian Ocean Territory',15
+2010,'British Virgin Islands',60
+2010,'Brunei',995
+2010,'Bulgaria',2140
+2010,'Burma',75
+2010,'Burundi',5
+2010,'Cambodia',20
+2010,'Cameroon',135
+2010,'Canada',2020
+2010,'Canary Islands',45
+2010,'Cayman Islands',80
+2010,'Chile',15
+2010,'China',11775
+2010,'Colombia',70
+2010,'Congo (Democratic Republic)',25
+2010,'Congo (Peoples Republic)',5
+2010,'Costa Rica',10
+2010,'Croatia',40
+2010,'Cyprus (European Union)',3775
+2010,'Cyprus (Non-European Union)',45
+2010,'Cyprus (Not otherwise specified)',90
+2010,'Czech Republic',420
+2010,'Denmark',500
+2010,'Dominica',15
+2010,'Dominican Republic',5
+2010,'Ecuador',25
+2010,'Egypt',205
+2010,'El Salvador',10
+2010,'Equatorial Guinea',5
+2010,'Eritrea',15
+2010,'Estonia',535
+2010,'Ethiopia',50
+2010,'Falkland Islands',10
+2010,'Faroe Islands',50
+2010,'Fiji',5
+2010,'Finland',800
+2010,'France',5000
+2010,'French West Indies',5
+2010,'Gabon',5
+2010,'Gambia',75
+2010,'Georgia',70
+2010,'Germany',4400
+2010,'Ghana',345
+2010,'Gibraltar',280
+2010,'Greece',2695
+2010,'Grenada',20
+2010,'Guadeloupe',5
+2010,'Guatemala',10
+2010,'Guernsey',355
+2010,'Guinea',5
+2010,'Guyana',20
+2010,'Haiti',5
+2010,'Honduras',10
+2010,'Hong Kong',4200
+2010,'Hungary',430
+2010,'Iceland',55
+2010,'India',3550
+2010,'Indonesia',210
+2010,'Iran',660
+2010,'Iraq',25
+2010,'Ireland',8255
+2010,'Isle of Man',570
+2010,'Israel',135
+2010,'Italy',2150
+2010,'Ivory Coast',15
+2010,'Jamaica',95
+2010,'Japan',445
+2010,'Jersey',585
+2010,'Jordan',355
+2010,'Kazakhstan',625
+2010,'Kenya',750
+2010,'Korea (South)',1260
+2010,'Kosovo',15
+2010,'Kuwait',495
+2010,'Kyrgyzstan',20
+2010,'Latvia',1190
+2010,'Lebanon',125
+2010,'Lesotho',5
+2010,'Libyan AR',185
+2010,'Liechtenstein',5
+2010,'Lithuania',2605
+2010,'Luxembourg',360
+2010,'Macao',95
+2010,'Macedonia',20
+2010,'Madagascar',10
+2010,'Malawi',110
+2010,'Malaysia',3495
+2010,'Maldive Islands',65
+2010,'Mali',5
+2010,'Malta',155
+2010,'Mauritius',565
+2010,'Mexico',155
+2010,'Moldova',55
+2010,'Monaco',40
+2010,'Mongolia',45
+2010,'Montenegro',10
+2010,'Montserrat',10
+2010,'Morocco',155
+2010,'Mozambique',15
+2010,'Namibia',40
+2010,'Nepal',200
+2010,'Netherlands',865
+2010,'Netherlands Antilles',10
+2010,'New Caledonia',5
+2010,'New Zealand',120
+2010,'Nigeria',2855
+2010,'Norway',1790
+2010,'Oman',230
+2010,'Pakistan',2440
+2010,'Palestine',50
+2010,'Panama',20
+2010,'Papua New Guinea',5
+2010,'Peru',40
+2010,'Philippines',115
+2010,'Poland',2175
+2010,'Portugal',655
+2010,'Qatar',430
+2010,'Reunion',5
+2010,'Romania',2250
+2010,'Russia',780
+2010,'Rwanda',20
+2010,'San Marino',5
+2010,'Saudi Arabia',1940
+2010,'Senegal',30
+2010,'Serbia',70
+2010,'Seychelles',30
+2010,'Sierra Leone',35
+2010,'Singapore',2885
+2010,'Slovakia',450
+2010,'Slovenia',100
+2010,'Somalia',10
+2010,'South Africa',290
+2010,'Spain',1640
+2010,'Sri Lanka',715
+2010,'St Helena',5
+2010,'St Lucia',55
+2010,'St Vincent',15
+2010,'St. Kitts-Nevis',10
+2010,'Sudan',50
+2010,'Swaziland',10
+2010,'Sweden',1860
+2010,'Switzerland',905
+2010,'Syria',70
+2010,'Taiwan',310
+2010,'Tajikistan',5
+2010,'Tanzania',230
+2010,'Thailand',535
+2010,'Togo',10
+2010,'Trinidad and Tobago',160
+2010,'Tunisia',25
+2010,'Turkey',495
+2010,'Turkmenistan',25
+2010,'Turks and Caicos Islands',65
+2010,'US Trust Territories',5
+2010,'USSR (not otherwise specified)',5
+2010,'Uganda',230
+2010,'Ukraine',205
+2010,'United Arab Emirates',900
+2010,'United States of America',3260
+2010,'Uruguay',5
+2010,'Uzbekistan',40
+2010,'Venezuela',55
+2010,'Vietnam',670
+2010,'Yemen',45
+2010,'Zambia',160
+2010,'Zimbabwe',440
+2010,'Stateless',5
+2010,'Unknown',1615
+2011,'United Kingdom',587865
+2011,'Afghanistan',40
+2011,'Albania',80
+2011,'Alderney',5
+2011,'Algeria',35
+2011,'Angola',90
+2011,'Anguilla',20
+2011,'Antigua and Barbuda',10
+2011,'Argentina',20
+2011,'Armenia',25
+2011,'Australia',425
+2011,'Austria',575
+2011,'Azerbaijan',235
+2011,'Bahamas',55
+2011,'Bahrain',375
+2011,'Bangladesh',470
+2011,'Barbados',85
+2011,'Belarus',40
+2011,'Belgium',1000
+2011,'Belize',10
+2011,'Benin',10
+2011,'Bermuda',255
+2011,'Bhutan',5
+2011,'Bolivia',5
+2011,'Bosnia and Herzegovina',20
+2011,'Botswana',190
+2011,'Brazil',175
+2011,'British Antarctic Territory',35
+2011,'British Indian Ocean Territory',5
+2011,'British Virgin Islands',55
+2011,'Brunei',885
+2011,'Bulgaria',2400
+2011,'Burma',70
+2011,'Cambodia',15
+2011,'Cameroon',95
+2011,'Canada',2255
+2011,'Canary Islands',55
+2011,'Cayman Islands',105
+2011,'Chile',15
+2011,'China',11825
+2011,'Christmas Island',5
+2011,'Colombia',65
+2011,'Congo (Democratic Republic)',20
+2011,'Congo (Peoples Republic)',5
+2011,'Costa Rica',15
+2011,'Croatia',40
+2011,'Cyprus (European Union)',4165
+2011,'Cyprus (Non-European Union)',40
+2011,'Cyprus (Not otherwise specified)',55
+2011,'Czech Republic',465
+2011,'Denmark',475
+2011,'Djibouti',5
+2011,'Dominica',5
+2011,'Dominican Republic',5
+2011,'Ecuador',25
+2011,'Egypt',275
+2011,'El Salvador',15
+2011,'Eritrea',5
+2011,'Estonia',645
+2011,'Ethiopia',30
+2011,'Falkland Islands',5
+2011,'Faroe Islands',55
+2011,'Fiji',5
+2011,'Finland',940
+2011,'France',4625
+2011,'French West Indies',5
+2011,'Gabon',5
+2011,'Gambia',65
+2011,'Georgia',75
+2011,'Germany',4330
+2011,'Ghana',280
+2011,'Gibraltar',305
+2011,'Greece',2970
+2011,'Grenada',10
+2011,'Guadeloupe',5
+2011,'Guatemala',10
+2011,'Guernsey',320
+2011,'Guinea',10
+2011,'Guyana',15
+2011,'Honduras',10
+2011,'Hong Kong',4735
+2011,'Hungary',410
+2011,'Iceland',55
+2011,'India',3440
+2011,'Indonesia',295
+2011,'Iran',575
+2011,'Iraq',25
+2011,'Ireland',7490
+2011,'Isle of Man',560
+2011,'Israel',115
+2011,'Italy',2510
+2011,'Ivory Coast',15
+2011,'Jamaica',80
+2011,'Japan',475
+2011,'Jersey',605
+2011,'Jordan',385
+2011,'Kazakhstan',465
+2011,'Kenya',665
+2011,'Korea (South)',1415
+2011,'Kosovo',25
+2011,'Kuwait',505
+2011,'Kyrgyzstan',20
+2011,'Lao PDR',5
+2011,'Latvia',1035
+2011,'Lebanon',150
+2011,'Lesotho',10
+2011,'Liberia',5
+2011,'Libyan AR',100
+2011,'Liechtenstein',5
+2011,'Lithuania',3320
+2011,'Luxembourg',385
+2011,'Macao',120
+2011,'Macedonia',20
+2011,'Madagascar',15
+2011,'Malawi',90
+2011,'Malaysia',3910
+2011,'Maldive Islands',45
+2011,'Mali',5
+2011,'Malta',145
+2011,'Martinique',5
+2011,'Mauritania',5
+2011,'Mauritius',490
+2011,'Mexico',140
+2011,'Moldova',45
+2011,'Monaco',40
+2011,'Mongolia',30
+2011,'Montenegro',15
+2011,'Morocco',220
+2011,'Mozambique',10
+2011,'Namibia',40
+2011,'Nepal',180
+2011,'Netherlands',860
+2011,'Netherlands Antilles',15
+2011,'New Caledonia',5
+2011,'New Zealand',150
+2011,'Niger',5
+2011,'Nigeria',2590
+2011,'Norway',1985
+2011,'Oman',255
+2011,'Pakistan',2080
+2011,'Palestine',45
+2011,'Panama',10
+2011,'Peru',40
+2011,'Philippines',110
+2011,'Poland',2135
+2011,'Portugal',770
+2011,'Puerto Rico',5
+2011,'Qatar',475
+2011,'Reunion',10
+2011,'Romania',3020
+2011,'Russia',805
+2011,'Rwanda',15
+2011,'Saudi Arabia',1265
+2011,'Senegal',15
+2011,'Serbia',80
+2011,'Seychelles',20
+2011,'Sierra Leone',20
+2011,'Singapore',3340
+2011,'Slovakia',495
+2011,'Slovenia',115
+2011,'Somalia',5
+2011,'South Africa',285
+2011,'Spain',1825
+2011,'Sri Lanka',525
+2011,'St Helena',5
+2011,'St Lucia',25
+2011,'St Vincent',15
+2011,'St. Kitts-Nevis',10
+2011,'Sudan',30
+2011,'Swaziland',15
+2011,'Sweden',1720
+2011,'Switzerland',940
+2011,'Syria',65
+2011,'Taiwan',345
+2011,'Tajikistan',5
+2011,'Tanzania',195
+2011,'Thailand',610
+2011,'Togo',10
+2011,'Trinidad and Tobago',175
+2011,'Tunisia',25
+2011,'Turkey',475
+2011,'Turkmenistan',25
+2011,'Turks and Caicos Islands',60
+2011,'US Trust Territories',5
+2011,'USSR (not otherwise specified)',10
+2011,'Uganda',155
+2011,'Ukraine',215
+2011,'United Arab Emirates',885
+2011,'United States of America',3320
+2011,'Uruguay',5
+2011,'Uzbekistan',35
+2011,'Venezuela',65
+2011,'Vietnam',750
+2011,'Yemen',25
+2011,'Zambia',135
+2011,'Zimbabwe',380
+2011,'Stateless',15
+2011,'Unknown',230
+2012,'United Kingdom',543340
+2012,'Afghanistan',30
+2012,'Albania',85
+2012,'Alderney',5
+2012,'Algeria',40
+2012,'Angola',110
+2012,'Anguilla',10
+2012,'Antigua and Barbuda',10
+2012,'Argentina',25
+2012,'Armenia',50
+2012,'Australia',480
+2012,'Austria',560
+2012,'Azerbaijan',280
+2012,'Bahamas',70
+2012,'Bahrain',415
+2012,'Bangladesh',485
+2012,'Barbados',95
+2012,'Belarus',35
+2012,'Belgium',875
+2012,'Belize',10
+2012,'Benin',5
+2012,'Bermuda',215
+2012,'Bhutan',10
+2012,'Bolivia',10
+2012,'Bosnia and Herzegovina',30
+2012,'Botswana',175
+2012,'Brazil',220
+2012,'British Antarctic Territory',25
+2012,'British Indian Ocean Territory',5
+2012,'British Virgin Islands',65
+2012,'Brunei',800
+2012,'Bulgaria',2305
+2012,'Burkina Faso',5
+2012,'Burma',90
+2012,'Burundi',5
+2012,'Cambodia',15
+2012,'Cameroon',90
+2012,'Canada',2450
+2012,'Canary Islands',40
+2012,'Cape Verde',5
+2012,'Cayman Islands',110
+2012,'Chad',5
+2012,'Chile',30
+2012,'China',12180
+2012,'Colombia',75
+2012,'Congo (Democratic Republic)',15
+2012,'Congo (Peoples Republic)',5
+2012,'Costa Rica',10
+2012,'Croatia',40
+2012,'Cuba',5
+2012,'Cyprus (European Union)',3410
+2012,'Cyprus (Non-European Union)',25
+2012,'Cyprus (Not otherwise specified)',40
+2012,'Czech Republic',460
+2012,'Denmark',435
+2012,'Djibouti',5
+2012,'Dominica',5
+2012,'Dominican Republic',5
+2012,'Ecuador',30
+2012,'Egypt',355
+2012,'El Salvador',15
+2012,'Equatorial Guinea',5
+2012,'Estonia',555
+2012,'Ethiopia',40
+2012,'Falkland Islands',10
+2012,'Faroe Islands',50
+2012,'Fiji',5
+2012,'Finland',740
+2012,'France',4155
+2012,'French West Indies',5
+2012,'Gabon',5
+2012,'Gambia',65
+2012,'Georgia',65
+2012,'Germany',3595
+2012,'Ghana',260
+2012,'Gibraltar',285
+2012,'Greece',2535
+2012,'Grenada',10
+2012,'Guadeloupe',5
+2012,'Guatemala',10
+2012,'Guernsey',305
+2012,'Guinea',5
+2012,'Guyana',10
+2012,'Honduras',10
+2012,'Hong Kong',6455
+2012,'Hungary',575
+2012,'Iceland',65
+2012,'India',3600
+2012,'Indonesia',360
+2012,'Iran',485
+2012,'Iraq',15
+2012,'Ireland',6130
+2012,'Isle of Man',525
+2012,'Israel',115
+2012,'Italy',2685
+2012,'Ivory Coast',15
+2012,'Jamaica',85
+2012,'Japan',510
+2012,'Jersey',575
+2012,'Jordan',380
+2012,'Kazakhstan',390
+2012,'Kenya',720
+2012,'Korea (South)',1375
+2012,'Kosovo',25
+2012,'Kuwait',545
+2012,'Kyrgyzstan',20
+2012,'Latvia',755
+2012,'Lebanon',185
+2012,'Liberia',5
+2012,'Libyan AR',90
+2012,'Liechtenstein',5
+2012,'Lithuania',2410
+2012,'Luxembourg',375
+2012,'Macao',160
+2012,'Macedonia',30
+2012,'Madagascar',15
+2012,'Malawi',85
+2012,'Malaysia',4130
+2012,'Maldive Islands',75
+2012,'Mali',5
+2012,'Malta',110
+2012,'Martinique',5
+2012,'Mauritius',500
+2012,'Mexico',145
+2012,'Moldova',40
+2012,'Monaco',45
+2012,'Mongolia',30
+2012,'Montenegro',15
+2012,'Montserrat',5
+2012,'Morocco',220
+2012,'Mozambique',20
+2012,'Namibia',30
+2012,'Nepal',195
+2012,'Netherlands',755
+2012,'Netherlands Antilles',15
+2012,'New Caledonia',5
+2012,'New Zealand',150
+2012,'Nigeria',2475
+2012,'Norway',2155
+2012,'Oman',270
+2012,'Pakistan',2055
+2012,'Palestine',55
+2012,'Panama',15
+2012,'Papua New Guinea',5
+2012,'Paraguay',5
+2012,'Peru',40
+2012,'Philippines',110
+2012,'Poland',1890
+2012,'Portugal',725
+2012,'Puerto Rico',5
+2012,'Qatar',525
+2012,'Reunion',5
+2012,'Romania',2835
+2012,'Russia',900
+2012,'Rwanda',20
+2012,'Saudi Arabia',1305
+2012,'Senegal',20
+2012,'Serbia',100
+2012,'Seychelles',30
+2012,'Sierra Leone',30
+2012,'Singapore',3835
+2012,'Slovakia',500
+2012,'Slovenia',120
+2012,'South Africa',285
+2012,'Spain',1720
+2012,'Sri Lanka',420
+2012,'St Helena',5
+2012,'St Lucia',25
+2012,'St Vincent',20
+2012,'St. Kitts-Nevis',10
+2012,'Sudan',60
+2012,'Swaziland',15
+2012,'Sweden',1555
+2012,'Switzerland',1000
+2012,'Syria',80
+2012,'Taiwan',335
+2012,'Tajikistan',10
+2012,'Tanzania',175
+2012,'Thailand',690
+2012,'Togo',10
+2012,'Trinidad and Tobago',160
+2012,'Tunisia',30
+2012,'Turkey',515
+2012,'Turkmenistan',20
+2012,'Turks and Caicos Islands',35
+2012,'USSR (not otherwise specified)',5
+2012,'Uganda',190
+2012,'Ukraine',255
+2012,'United Arab Emirates',960
+2012,'United States of America',3485
+2012,'Uruguay',15
+2012,'Uzbekistan',40
+2012,'Venezuela',65
+2012,'Vietnam',725
+2012,'Yemen',20
+2012,'Zambia',155
+2012,'Zimbabwe',380
+2012,'Stateless',5
+2012,'Unknown',300
+2013,'United Kingdom',561985
+2013,'Afghanistan',35
+2013,'Aland Islands',5
+2013,'Albania',75
+2013,'Alderney',5
+2013,'Algeria',30
+2013,'Angola',110
+2013,'Anguilla',5
+2013,'Antigua and Barbuda',10
+2013,'Argentina',30
+2013,'Armenia',60
+2013,'Australia',550
+2013,'Austria',580
+2013,'Azerbaijan',300
+2013,'Bahamas',70
+2013,'Bahrain',425
+2013,'Bangladesh',360
+2013,'Barbados',80
+2013,'Belarus',40
+2013,'Belgium',965
+2013,'Belize',10
+2013,'Benin',10
+2013,'Bermuda',205
+2013,'Bhutan',5
+2013,'Bolivia',5
+2013,'Bosnia and Herzegovina',20
+2013,'Botswana',125
+2013,'Brazil',240
+2013,'British Antarctic Territory',20
+2013,'British Indian Ocean Territory',5
+2013,'British Virgin Islands',55
+2013,'Brunei',765
+2013,'Bulgaria',2560
+2013,'Burma',70
+2013,'Cambodia',20
+2013,'Cameroon',80
+2013,'Canada',2455
+2013,'Canary Islands',55
+2013,'Cayman Islands',110
+2013,'Chile',40
+2013,'China',12095
+2013,'Colombia',90
+2013,'Congo (Democratic Republic)',25
+2013,'Congo (Peoples Republic)',5
+2013,'Costa Rica',10
+2013,'Croatia',75
+2013,'Cuba',5
+2013,'Cyprus (European Union)',3430
+2013,'Cyprus (Non-European Union)',30
+2013,'Cyprus (Not otherwise specified)',40
+2013,'Czech Republic',490
+2013,'Denmark',470
+2013,'Djibouti',5
+2013,'Dominica',5
+2013,'Dominican Republic',10
+2013,'Ecuador',50
+2013,'Egypt',515
+2013,'El Salvador',10
+2013,'Eritrea',5
+2013,'Estonia',615
+2013,'Ethiopia',30
+2013,'Falkland Islands',15
+2013,'Faroe Islands',40
+2013,'Fiji',5
+2013,'Finland',845
+2013,'France',4150
+2013,'French West Indies',5
+2013,'Gambia',45
+2013,'Georgia',60
+2013,'Germany',3320
+2013,'Ghana',280
+2013,'Gibraltar',320
+2013,'Greece',2565
+2013,'Grenada',15
+2013,'Guatemala',15
+2013,'Guernsey',305
+2013,'Guinea',10
+2013,'Guyana',10
+2013,'Haiti',5
+2013,'Honduras',20
+2013,'Hong Kong',6780
+2013,'Hungary',780
+2013,'Iceland',60
+2013,'India',4020
+2013,'Indonesia',500
+2013,'Iran',285
+2013,'Iraq',35
+2013,'Ireland',6055
+2013,'Isle of Man',490
+2013,'Israel',145
+2013,'Italy',3250
+2013,'Ivory Coast',25
+2013,'Jamaica',70
+2013,'Japan',525
+2013,'Jersey',535
+2013,'Jordan',425
+2013,'Kazakhstan',400
+2013,'Kenya',680
+2013,'Korea (South)',1435
+2013,'Kosovo',40
+2013,'Kuwait',570
+2013,'Kyrgyzstan',20
+2013,'Latvia',610
+2013,'Lebanon',215
+2013,'Lesotho',10
+2013,'Liberia',5
+2013,'Libyan AR',105
+2013,'Liechtenstein',5
+2013,'Lithuania',2130
+2013,'Luxembourg',430
+2013,'Macao',150
+2013,'Macedonia',25
+2013,'Madagascar',10
+2013,'Malawi',80
+2013,'Malaysia',5120
+2013,'Maldive Islands',75
+2013,'Mali',5
+2013,'Malta',120
+2013,'Martinique',5
+2013,'Mauritania',5
+2013,'Mauritius',415
+2013,'Mexico',175
+2013,'Moldova',50
+2013,'Monaco',50
+2013,'Mongolia',50
+2013,'Montenegro',30
+2013,'Montserrat',10
+2013,'Morocco',260
+2013,'Mozambique',40
+2013,'Namibia',55
+2013,'Nepal',135
+2013,'Netherlands',820
+2013,'Netherlands Antilles',10
+2013,'New Zealand',150
+2013,'Nicaragua',5
+2013,'Nigeria',2595
+2013,'Norway',2265
+2013,'Oman',330
+2013,'Pakistan',1920
+2013,'Palestine',70
+2013,'Panama',20
+2013,'Papua New Guinea',5
+2013,'Paraguay',5
+2013,'Peru',60
+2013,'Philippines',130
+2013,'Poland',2250
+2013,'Portugal',900
+2013,'Puerto Rico',5
+2013,'Qatar',625
+2013,'Reunion',5
+2013,'Romania',2625
+2013,'Russia',1035
+2013,'Rwanda',20
+2013,'Saudi Arabia',1300
+2013,'Senegal',25
+2013,'Serbia',135
+2013,'Seychelles',25
+2013,'Sierra Leone',15
+2013,'Singapore',4150
+2013,'Slovakia',510
+2013,'Slovenia',135
+2013,'Somalia',5
+2013,'South Africa',325
+2013,'South Sudan',5
+2013,'Spain',2160
+2013,'Sri Lanka',370
+2013,'St Helena',5
+2013,'St Lucia',25
+2013,'St Vincent',20
+2013,'St. Kitts-Nevis',5
+2013,'Sudan',45
+2013,'Swaziland',25
+2013,'Sweden',1645
+2013,'Switzerland',1145
+2013,'Syria',45
+2013,'Taiwan',325
+2013,'Tajikistan',10
+2013,'Tanzania',200
+2013,'Thailand',730
+2013,'Trinidad and Tobago',175
+2013,'Tunisia',50
+2013,'Turkey',610
+2013,'Turkmenistan',20
+2013,'Turks and Caicos Islands',50
+2013,'US Trust Territories',5
+2013,'USSR (not otherwise specified)',5
+2013,'Uganda',210
+2013,'Ukraine',315
+2013,'United Arab Emirates',1155
+2013,'United States of America',3805
+2013,'Uruguay',15
+2013,'Uzbekistan',45
+2013,'Venezuela',85
+2013,'Vietnam',705
+2013,'Yemen',20
+2013,'Zambia',185
+2013,'Zimbabwe',380
+2013,'Unknown',180
+2014,'United Kingdom',578290
+2014,'Afghanistan',30
+2014,'Albania',85
+2014,'Alderney',10
+2014,'Algeria',40
+2014,'Andorra',5
+2014,'Angola',125
+2014,'Anguilla',15
+2014,'Antigua and Barbuda',20
+2014,'Argentina',35
+2014,'Armenia',50
+2014,'Australia',580
+2014,'Austria',595
+2014,'Azerbaijan',405
+2014,'Bahamas',55
+2014,'Bahrain',455
+2014,'Bangladesh',400
+2014,'Barbados',85
+2014,'Belarus',50
+2014,'Belgium',1030
+2014,'Belize',15
+2014,'Benin',10
+2014,'Bermuda',210
+2014,'Bolivia',15
+2014,'Bosnia and Herzegovina',25
+2014,'Botswana',130
+2014,'Brazil',290
+2014,'British Antarctic Territory',30
+2014,'British Indian Ocean Territory',10
+2014,'British Virgin Islands',75
+2014,'Brunei',895
+2014,'Bulgaria',2305
+2014,'Burkina Faso',5
+2014,'Burma',85
+2014,'Burundi',5
+2014,'Cambodia',35
+2014,'Cameroon',85
+2014,'Canada',2385
+2014,'Canary Islands',70
+2014,'Cayman Islands',120
+2014,'Chile',35
+2014,'China',12115
+2014,'Colombia',110
+2014,'Congo (Democratic Republic)',50
+2014,'Congo (Peoples Republic)',5
+2014,'Costa Rica',10
+2014,'Croatia',160
+2014,'Cuba',5
+2014,'Cyprus (European Union)',3410
+2014,'Cyprus (Non-European Union)',65
+2014,'Cyprus (Not otherwise specified)',20
+2014,'Czech Republic',610
+2014,'Denmark',470
+2014,'Djibouti',5
+2014,'Dominica',15
+2014,'Dominican Republic',10
+2014,'Ecuador',100
+2014,'Egypt',655
+2014,'El Salvador',15
+2014,'Eritrea',10
+2014,'Estonia',520
+2014,'Ethiopia',45
+2014,'Falkland Islands',5
+2014,'Faroe Islands',40
+2014,'Fiji',5
+2014,'Finland',950
+2014,'France',4635
+2014,'Gabon',10
+2014,'Gambia',45
+2014,'Georgia',45
+2014,'Germany',3235
+2014,'Ghana',290
+2014,'Gibraltar',305
+2014,'Greece',2510
+2014,'Grenada',15
+2014,'Guatemala',15
+2014,'Guernsey',305
+2014,'Guinea',5
+2014,'Guyana',15
+2014,'Honduras',15
+2014,'Hong Kong',7195
+2014,'Hungary',780
+2014,'Iceland',70
+2014,'India',4230
+2014,'Indonesia',520
+2014,'Iran',280
+2014,'Iraq',70
+2014,'Ireland',5850
+2014,'Isle of Man',505
+2014,'Israel',115
+2014,'Italy',4115
+2014,'Ivory Coast',20
+2014,'Jamaica',100
+2014,'Japan',575
+2014,'Jersey',505
+2014,'Jordan',430
+2014,'Kazakhstan',395
+2014,'Kenya',725
+2014,'Korea (South)',1430
+2014,'Kosovo',30
+2014,'Kuwait',620
+2014,'Kyrgyzstan',30
+2014,'Lao PDR',10
+2014,'Latvia',560
+2014,'Lebanon',270
+2014,'Lesotho',5
+2014,'Liberia',5
+2014,'Libyan AR',140
+2014,'Liechtenstein',5
+2014,'Lithuania',1940
+2014,'Luxembourg',465
+2014,'Macao',190
+2014,'Macedonia',40
+2014,'Madagascar',20
+2014,'Malawi',60
+2014,'Malaysia',6475
+2014,'Maldive Islands',65
+2014,'Mali',5
+2014,'Malta',105
+2014,'Martinique',10
+2014,'Mauritania',5
+2014,'Mauritius',515
+2014,'Mexico',165
+2014,'Moldova',40
+2014,'Monaco',60
+2014,'Mongolia',45
+2014,'Montenegro',25
+2014,'Montserrat',10
+2014,'Morocco',345
+2014,'Mozambique',35
+2014,'Namibia',60
+2014,'Nepal',115
+2014,'Netherlands',845
+2014,'Netherlands Antilles',5
+2014,'New Caledonia',5
+2014,'New Zealand',175
+2014,'Niger',5
+2014,'Nigeria',2465
+2014,'Norway',2290
+2014,'Oman',445
+2014,'Pakistan',1915
+2014,'Palestine',50
+2014,'Panama',10
+2014,'Papua New Guinea',5
+2014,'Paraguay',5
+2014,'Peru',60
+2014,'Philippines',130
+2014,'Poland',2600
+2014,'Portugal',1000
+2014,'Puerto Rico',5
+2014,'Qatar',580
+2014,'Reunion',10
+2014,'Romania',2790
+2014,'Russia',1265
+2014,'Rwanda',20
+2014,'Saudi Arabia',1245
+2014,'Senegal',25
+2014,'Serbia',115
+2014,'Seychelles',35
+2014,'Sierra Leone',30
+2014,'Singapore',4340
+2014,'Sint Maarten (Dutch Part)',10
+2014,'Slovakia',605
+2014,'Slovenia',155
+2014,'Somalia',5
+2014,'South Africa',350
+2014,'South Sudan',5
+2014,'Spain',2545
+2014,'Sri Lanka',335
+2014,'St Helena',5
+2014,'St Lucia',35
+2014,'St Vincent',10
+2014,'St. Kitts-Nevis',10
+2014,'Sudan',50
+2014,'Swaziland',15
+2014,'Sweden',1635
+2014,'Switzerland',1160
+2014,'Syria',45
+2014,'Taiwan',360
+2014,'Tajikistan',10
+2014,'Tanzania',205
+2014,'Thailand',845
+2014,'Togo',10
+2014,'Trinidad and Tobago',170
+2014,'Tunisia',40
+2014,'Turkey',655
+2014,'Turkmenistan',20
+2014,'Turks and Caicos Islands',70
+2014,'USSR (not otherwise specified)',5
+2014,'Uganda',140
+2014,'Ukraine',340
+2014,'United Arab Emirates',1365
+2014,'United States of America',3930
+2014,'Uruguay',15
+2014,'Uzbekistan',45
+2014,'Venezuela',85
+2014,'Vietnam',620
+2014,'Virgin Islands (US)',5
+2014,'Yemen',20
+2014,'Zambia',160
+2014,'Zimbabwe',490
+2014,'Stateless',5
+2014,'Unknown',220
+2015,'United Kingdom',592025
+2015,'Afghanistan',35
+2015,'Aland Islands',5
+2015,'Albania',95
+2015,'Alderney',5
+2015,'Algeria',70
+2015,'Andorra',5
+2015,'Angola',230
+2015,'Anguilla',15
+2015,'Antigua and Barbuda',20
+2015,'Argentina',45
+2015,'Armenia',40
+2015,'Aruba',5
+2015,'Australia',600
+2015,'Austria',635
+2015,'Azerbaijan',315
+2015,'Bahamas',70
+2015,'Bahrain',400
+2015,'Bangladesh',370
+2015,'Barbados',110
+2015,'Belarus',45
+2015,'Belgium',1120
+2015,'Belize',10
+2015,'Benin',5
+2015,'Bermuda',215
+2015,'Bhutan',5
+2015,'Bolivia',10
+2015,'Bosnia and Herzegovina',45
+2015,'Botswana',175
+2015,'Brazil',305
+2015,'British Antarctic Territory',25
+2015,'British Indian Ocean Territory',5
+2015,'British Virgin Islands',65
+2015,'Brunei',570
+2015,'Bulgaria',2315
+2015,'Burma',100
+2015,'Burundi',5
+2015,'Cambodia',30
+2015,'Cameroon',90
+2015,'Canada',2500
+2015,'Canary Islands',75
+2015,'Cape Verde',5
+2015,'Cayman Islands',105
+2015,'Chile',45
+2015,'China',12980
+2015,'Colombia',100
+2015,'Congo (Democratic Republic)',30
+2015,'Congo (Peoples Republic)',5
+2015,'Costa Rica',15
+2015,'Croatia',275
+2015,'Cuba',5
+2015,'Curacao',10
+2015,'Cyprus (European Union)',3345
+2015,'Cyprus (Non-European Union)',25
+2015,'Cyprus (Not otherwise specified)',15
+2015,'Czech Republic',865
+2015,'Denmark',500
+2015,'Djibouti',5
+2015,'Dominica',15
+2015,'Dominican Republic',10
+2015,'Ecuador',85
+2015,'Egypt',760
+2015,'El Salvador',15
+2015,'Eritrea',10
+2015,'Estonia',510
+2015,'Ethiopia',40
+2015,'Falkland Islands',10
+2015,'Faroe Islands',35
+2015,'Fiji',10
+2015,'Finland',1050
+2015,'France',5250
+2015,'French Guiana',5
+2015,'Gabon',5
+2015,'Gambia',55
+2015,'Georgia',50
+2015,'Germany',3410
+2015,'Ghana',305
+2015,'Gibraltar',300
+2015,'Greece',2455
+2015,'Grenada',25
+2015,'Guadeloupe',5
+2015,'Guatemala',20
+2015,'Guernsey',320
+2015,'Guinea',10
+2015,'Guyana',15
+2015,'Honduras',20
+2015,'Hong Kong',6770
+2015,'Hungary',840
+2015,'Iceland',70
+2015,'India',4305
+2015,'Indonesia',595
+2015,'Iran',250
+2015,'Iraq',55
+2015,'Ireland',5815
+2015,'Isle of Man',460
+2015,'Israel',130
+2015,'Italy',4790
+2015,'Ivory Coast',25
+2015,'Jamaica',75
+2015,'Japan',520
+2015,'Jersey',530
+2015,'Jordan',430
+2015,'Kazakhstan',385
+2015,'Kenya',775
+2015,'Korea (South)',1565
+2015,'Kosovo',20
+2015,'Kuwait',655
+2015,'Kyrgyzstan',25
+2015,'Lao PDR',15
+2015,'Latvia',540
+2015,'Lebanon',275
+2015,'Lesotho',10
+2015,'Liberia',10
+2015,'Libyan AR',120
+2015,'Liechtenstein',5
+2015,'Lithuania',1850
+2015,'Luxembourg',440
+2015,'Macao',270
+2015,'Macedonia',65
+2015,'Madagascar',30
+2015,'Malawi',55
+2015,'Malaysia',6780
+2015,'Maldive Islands',75
+2015,'Mali',5
+2015,'Malta',110
+2015,'Mauritania',5
+2015,'Mauritius',415
+2015,'Mexico',175
+2015,'Moldova',35
+2015,'Monaco',60
+2015,'Mongolia',55
+2015,'Montenegro',25
+2015,'Montserrat',5
+2015,'Morocco',370
+2015,'Mozambique',40
+2015,'Namibia',65
+2015,'Nepal',90
+2015,'Netherlands',930
+2015,'Netherlands Antilles',5
+2015,'New Caledonia',5
+2015,'New Zealand',180
+2015,'Nicaragua',5
+2015,'Niger',5
+2015,'Nigeria',2290
+2015,'Norway',2165
+2015,'Oman',455
+2015,'Pakistan',1955
+2015,'Palestine',55
+2015,'Panama',20
+2015,'Papua New Guinea',5
+2015,'Peru',75
+2015,'Philippines',165
+2015,'Poland',3040
+2015,'Portugal',1310
+2015,'Puerto Rico',10
+2015,'Qatar',565
+2015,'Reunion',15
+2015,'Romania',3585
+2015,'Russia',1345
+2015,'Rwanda',35
+2015,'Saudi Arabia',1305
+2015,'Senegal',25
+2015,'Serbia',95
+2015,'Seychelles',55
+2015,'Sierra Leone',30
+2015,'Singapore',4185
+2015,'Sint Maarten (Dutch Part)',5
+2015,'Slovakia',600
+2015,'Slovenia',160
+2015,'Somalia',10
+2015,'South Africa',435
+2015,'South Sudan',10
+2015,'Spain',3000
+2015,'Sri Lanka',270
+2015,'St Helena',5
+2015,'St Lucia',60
+2015,'St Vincent',10
+2015,'St. Kitts-Nevis',20
+2015,'Sudan',55
+2015,'Swaziland',20
+2015,'Sweden',1545
+2015,'Switzerland',1310
+2015,'Syria',40
+2015,'Taiwan',390
+2015,'Tajikistan',5
+2015,'Tanzania',175
+2015,'Thailand',855
+2015,'Togo',5
+2015,'Trinidad and Tobago',210
+2015,'Tunisia',50
+2015,'Turkey',640
+2015,'Turkmenistan',10
+2015,'Turks and Caicos Islands',75
+2015,'USSR (not otherwise specified)',10
+2015,'Uganda',175
+2015,'Ukraine',295
+2015,'United Arab Emirates',1505
+2015,'United States of America',3985
+2015,'Uruguay',10
+2015,'Uzbekistan',65
+2015,'Venezuela',75
+2015,'Vietnam',515
+2015,'Virgin Islands (US)',5
+2015,'Yemen',30
+2015,'Zambia',165
+2015,'Zimbabwe',445
+2015,'Unknown',300

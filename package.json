@@ -1,0 +1,11 @@
+{
+  "name": "pic-code-challenge",
+  "version": "0.0.1",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Good",
+  "license": "ISC"
+}

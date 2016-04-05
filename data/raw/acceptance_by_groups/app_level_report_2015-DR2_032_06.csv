@@ -1,0 +1,22 @@
+"Statistic:   Number of Applicants"
+"Variables:   Holds A Level Qualification , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_032_06.pdf"
+ 
+Cycle Year,Holds A Level Qualification,Number of Applicants,
+2008,'A Level qualification identified',300955
+2008,'A Level qualification not identified',159125
+2009,'A Level qualification identified',320100
+2009,'A Level qualification not identified',184370
+2010,'A Level qualification identified',340420
+2010,'A Level qualification not identified',218825
+2011,'A Level qualification identified',345950
+2011,'A Level qualification not identified',218065
+2012,'A Level qualification identified',314155
+2012,'A Level qualification not identified',199725
+2013,'A Level qualification identified',322035
+2013,'A Level qualification not identified',205600
+2014,'A Level qualification identified',323610
+2014,'A Level qualification not identified',220900
+2015,'A Level qualification identified',328195
+2015,'A Level qualification not identified',225320

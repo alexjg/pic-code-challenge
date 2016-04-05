@@ -1,0 +1,461 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Disability Indicator , Age Band , Sex , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_029_05.pdf"
+ 
+Cycle Year,Disability Indicator , Age Band , Sex , Applicant Domicile (High Level),Number of Acceptances,
+2010,'Disability declared','17 and under','Men','England',15
+2010,'Disability declared','17 and under','Men','Scotland',5
+2010,'Disability declared','17 and under','Women','England',20
+2010,'Disability declared','17 and under','Women','Scotland',10
+2010,'Disability declared','18','Men','England',4830
+2010,'Disability declared','18','Men','Northern Ireland',170
+2010,'Disability declared','18','Men','Scotland',340
+2010,'Disability declared','18','Men','Wales',235
+2010,'Disability declared','18','Women','England',4545
+2010,'Disability declared','18','Women','Northern Ireland',145
+2010,'Disability declared','18','Women','Scotland',305
+2010,'Disability declared','18','Women','Wales',210
+2010,'Disability declared','19','Men','England',2690
+2010,'Disability declared','19','Men','Northern Ireland',45
+2010,'Disability declared','19','Men','Scotland',135
+2010,'Disability declared','19','Men','Wales',90
+2010,'Disability declared','19','Women','England',2645
+2010,'Disability declared','19','Women','Northern Ireland',45
+2010,'Disability declared','19','Women','Scotland',130
+2010,'Disability declared','19','Women','Wales',115
+2010,'Disability declared','20','Men','England',1020
+2010,'Disability declared','20','Men','Northern Ireland',30
+2010,'Disability declared','20','Men','Scotland',70
+2010,'Disability declared','20','Men','Wales',50
+2010,'Disability declared','20','Women','England',1000
+2010,'Disability declared','20','Women','Northern Ireland',25
+2010,'Disability declared','20','Women','Scotland',70
+2010,'Disability declared','20','Women','Wales',35
+2010,'Disability declared','21 and over','Men','England',2590
+2010,'Disability declared','21 and over','Men','Northern Ireland',65
+2010,'Disability declared','21 and over','Men','Scotland',310
+2010,'Disability declared','21 and over','Men','Wales',140
+2010,'Disability declared','21 and over','Women','England',3360
+2010,'Disability declared','21 and over','Women','Northern Ireland',70
+2010,'Disability declared','21 and over','Women','Scotland',380
+2010,'Disability declared','21 and over','Women','Wales',165
+2010,'No disability declared','17 and under','Men','England',365
+2010,'No disability declared','17 and under','Men','Northern Ireland',15
+2010,'No disability declared','17 and under','Men','Scotland',165
+2010,'No disability declared','17 and under','Men','Wales',15
+2010,'No disability declared','17 and under','Women','England',530
+2010,'No disability declared','17 and under','Women','Northern Ireland',25
+2010,'No disability declared','17 and under','Women','Scotland',320
+2010,'No disability declared','17 and under','Women','Wales',20
+2010,'No disability declared','18','Men','England',75260
+2010,'No disability declared','18','Men','Northern Ireland',3650
+2010,'No disability declared','18','Men','Scotland',6110
+2010,'No disability declared','18','Men','Wales',4000
+2010,'No disability declared','18','Women','England',93430
+2010,'No disability declared','18','Women','Northern Ireland',4760
+2010,'No disability declared','18','Women','Scotland',8120
+2010,'No disability declared','18','Women','Wales',5385
+2010,'No disability declared','19','Men','England',31555
+2010,'No disability declared','19','Men','Northern Ireland',825
+2010,'No disability declared','19','Men','Scotland',1465
+2010,'No disability declared','19','Men','Wales',1355
+2010,'No disability declared','19','Women','England',35655
+2010,'No disability declared','19','Women','Northern Ireland',890
+2010,'No disability declared','19','Women','Scotland',1930
+2010,'No disability declared','19','Women','Wales',1685
+2010,'No disability declared','20','Men','England',10645
+2010,'No disability declared','20','Men','Northern Ireland',390
+2010,'No disability declared','20','Men','Scotland',860
+2010,'No disability declared','20','Men','Wales',485
+2010,'No disability declared','20','Women','England',11345
+2010,'No disability declared','20','Women','Northern Ireland',350
+2010,'No disability declared','20','Women','Scotland',1155
+2010,'No disability declared','20','Women','Wales',475
+2010,'No disability declared','21 and over','Men','England',23625
+2010,'No disability declared','21 and over','Men','Northern Ireland',845
+2010,'No disability declared','21 and over','Men','Scotland',2960
+2010,'No disability declared','21 and over','Men','Wales',1230
+2010,'No disability declared','21 and over','Women','England',38840
+2010,'No disability declared','21 and over','Women','Northern Ireland',1015
+2010,'No disability declared','21 and over','Women','Scotland',4405
+2010,'No disability declared','21 and over','Women','Wales',1850
+2011,'Disability declared','17 and under','Men','England',20
+2011,'Disability declared','17 and under','Men','Scotland',10
+2011,'Disability declared','17 and under','Women','England',15
+2011,'Disability declared','17 and under','Women','Scotland',15
+2011,'Disability declared','18','Men','England',5240
+2011,'Disability declared','18','Men','Northern Ireland',165
+2011,'Disability declared','18','Men','Scotland',330
+2011,'Disability declared','18','Men','Wales',240
+2011,'Disability declared','18','Women','England',5030
+2011,'Disability declared','18','Women','Northern Ireland',155
+2011,'Disability declared','18','Women','Scotland',330
+2011,'Disability declared','18','Women','Wales',220
+2011,'Disability declared','19','Men','England',2840
+2011,'Disability declared','19','Men','Northern Ireland',65
+2011,'Disability declared','19','Men','Scotland',155
+2011,'Disability declared','19','Men','Wales',125
+2011,'Disability declared','19','Women','England',2965
+2011,'Disability declared','19','Women','Northern Ireland',60
+2011,'Disability declared','19','Women','Scotland',150
+2011,'Disability declared','19','Women','Wales',120
+2011,'Disability declared','20','Men','England',1120
+2011,'Disability declared','20','Men','Northern Ireland',25
+2011,'Disability declared','20','Men','Scotland',70
+2011,'Disability declared','20','Men','Wales',45
+2011,'Disability declared','20','Women','England',1035
+2011,'Disability declared','20','Women','Northern Ireland',20
+2011,'Disability declared','20','Women','Scotland',85
+2011,'Disability declared','20','Women','Wales',55
+2011,'Disability declared','21 and over','Men','England',2590
+2011,'Disability declared','21 and over','Men','Northern Ireland',70
+2011,'Disability declared','21 and over','Men','Scotland',310
+2011,'Disability declared','21 and over','Men','Wales',135
+2011,'Disability declared','21 and over','Women','England',3600
+2011,'Disability declared','21 and over','Women','Northern Ireland',95
+2011,'Disability declared','21 and over','Women','Scotland',350
+2011,'Disability declared','21 and over','Women','Wales',190
+2011,'No disability declared','17 and under','Men','England',335
+2011,'No disability declared','17 and under','Men','Northern Ireland',15
+2011,'No disability declared','17 and under','Men','Scotland',185
+2011,'No disability declared','17 and under','Men','Wales',10
+2011,'No disability declared','17 and under','Women','England',450
+2011,'No disability declared','17 and under','Women','Northern Ireland',20
+2011,'No disability declared','17 and under','Women','Scotland',270
+2011,'No disability declared','17 and under','Women','Wales',25
+2011,'No disability declared','18','Men','England',77805
+2011,'No disability declared','18','Men','Northern Ireland',3645
+2011,'No disability declared','18','Men','Scotland',5790
+2011,'No disability declared','18','Men','Wales',3855
+2011,'No disability declared','18','Women','England',96105
+2011,'No disability declared','18','Women','Northern Ireland',4615
+2011,'No disability declared','18','Women','Scotland',7600
+2011,'No disability declared','18','Women','Wales',5145
+2011,'No disability declared','19','Men','England',33390
+2011,'No disability declared','19','Men','Northern Ireland',950
+2011,'No disability declared','19','Men','Scotland',1490
+2011,'No disability declared','19','Men','Wales',1390
+2011,'No disability declared','19','Women','England',37305
+2011,'No disability declared','19','Women','Northern Ireland',1095
+2011,'No disability declared','19','Women','Scotland',1990
+2011,'No disability declared','19','Women','Wales',1745
+2011,'No disability declared','20','Men','England',11165
+2011,'No disability declared','20','Men','Northern Ireland',430
+2011,'No disability declared','20','Men','Scotland',865
+2011,'No disability declared','20','Men','Wales',490
+2011,'No disability declared','20','Women','England',11685
+2011,'No disability declared','20','Women','Northern Ireland',395
+2011,'No disability declared','20','Women','Scotland',1230
+2011,'No disability declared','20','Women','Wales',585
+2011,'No disability declared','21 and over','Men','England',23805
+2011,'No disability declared','21 and over','Men','Northern Ireland',880
+2011,'No disability declared','21 and over','Men','Scotland',2865
+2011,'No disability declared','21 and over','Men','Wales',1195
+2011,'No disability declared','21 and over','Women','England',37320
+2011,'No disability declared','21 and over','Women','Northern Ireland',960
+2011,'No disability declared','21 and over','Women','Scotland',4365
+2011,'No disability declared','21 and over','Women','Wales',1900
+2012,'Disability declared','17 and under','Men','England',20
+2012,'Disability declared','17 and under','Men','Scotland',5
+2012,'Disability declared','17 and under','Women','England',15
+2012,'Disability declared','17 and under','Women','Scotland',15
+2012,'Disability declared','18','Men','England',5235
+2012,'Disability declared','18','Men','Northern Ireland',190
+2012,'Disability declared','18','Men','Scotland',350
+2012,'Disability declared','18','Men','Wales',240
+2012,'Disability declared','18','Women','England',5450
+2012,'Disability declared','18','Women','Northern Ireland',155
+2012,'Disability declared','18','Women','Scotland',335
+2012,'Disability declared','18','Women','Wales',230
+2012,'Disability declared','19','Men','England',2675
+2012,'Disability declared','19','Men','Northern Ireland',65
+2012,'Disability declared','19','Men','Scotland',160
+2012,'Disability declared','19','Men','Wales',135
+2012,'Disability declared','19','Women','England',2720
+2012,'Disability declared','19','Women','Northern Ireland',65
+2012,'Disability declared','19','Women','Scotland',150
+2012,'Disability declared','19','Women','Wales',130
+2012,'Disability declared','20','Men','England',995
+2012,'Disability declared','20','Men','Northern Ireland',45
+2012,'Disability declared','20','Men','Scotland',85
+2012,'Disability declared','20','Men','Wales',70
+2012,'Disability declared','20','Women','England',1020
+2012,'Disability declared','20','Women','Northern Ireland',30
+2012,'Disability declared','20','Women','Scotland',90
+2012,'Disability declared','20','Women','Wales',55
+2012,'Disability declared','21 and over','Men','England',2425
+2012,'Disability declared','21 and over','Men','Northern Ireland',65
+2012,'Disability declared','21 and over','Men','Scotland',320
+2012,'Disability declared','21 and over','Men','Wales',165
+2012,'Disability declared','21 and over','Women','England',3485
+2012,'Disability declared','21 and over','Women','Northern Ireland',90
+2012,'Disability declared','21 and over','Women','Scotland',360
+2012,'Disability declared','21 and over','Women','Wales',190
+2012,'No disability declared','17 and under','Men','England',290
+2012,'No disability declared','17 and under','Men','Northern Ireland',10
+2012,'No disability declared','17 and under','Men','Scotland',155
+2012,'No disability declared','17 and under','Men','Wales',10
+2012,'No disability declared','17 and under','Women','England',350
+2012,'No disability declared','17 and under','Women','Northern Ireland',30
+2012,'No disability declared','17 and under','Women','Scotland',255
+2012,'No disability declared','17 and under','Women','Wales',10
+2012,'No disability declared','18','Men','England',73600
+2012,'No disability declared','18','Men','Northern Ireland',3475
+2012,'No disability declared','18','Men','Scotland',5650
+2012,'No disability declared','18','Men','Wales',3865
+2012,'No disability declared','18','Women','England',93060
+2012,'No disability declared','18','Women','Northern Ireland',4580
+2012,'No disability declared','18','Women','Scotland',7770
+2012,'No disability declared','18','Women','Wales',5345
+2012,'No disability declared','19','Men','England',27210
+2012,'No disability declared','19','Men','Northern Ireland',825
+2012,'No disability declared','19','Men','Scotland',1585
+2012,'No disability declared','19','Men','Wales',1445
+2012,'No disability declared','19','Women','England',30590
+2012,'No disability declared','19','Women','Northern Ireland',945
+2012,'No disability declared','19','Women','Scotland',2100
+2012,'No disability declared','19','Women','Wales',1745
+2012,'No disability declared','20','Men','England',9705
+2012,'No disability declared','20','Men','Northern Ireland',430
+2012,'No disability declared','20','Men','Scotland',960
+2012,'No disability declared','20','Men','Wales',545
+2012,'No disability declared','20','Women','England',10060
+2012,'No disability declared','20','Women','Northern Ireland',400
+2012,'No disability declared','20','Women','Scotland',1240
+2012,'No disability declared','20','Women','Wales',605
+2012,'No disability declared','21 and over','Men','England',20400
+2012,'No disability declared','21 and over','Men','Northern Ireland',820
+2012,'No disability declared','21 and over','Men','Scotland',2855
+2012,'No disability declared','21 and over','Men','Wales',1145
+2012,'No disability declared','21 and over','Women','England',33825
+2012,'No disability declared','21 and over','Women','Northern Ireland',890
+2012,'No disability declared','21 and over','Women','Scotland',4105
+2012,'No disability declared','21 and over','Women','Wales',1920
+2013,'Disability declared','17 and under','Men','England',25
+2013,'Disability declared','17 and under','Men','Scotland',10
+2013,'Disability declared','17 and under','Women','England',15
+2013,'Disability declared','17 and under','Women','Scotland',5
+2013,'Disability declared','18','Men','England',5785
+2013,'Disability declared','18','Men','Northern Ireland',235
+2013,'Disability declared','18','Men','Scotland',390
+2013,'Disability declared','18','Men','Wales',290
+2013,'Disability declared','18','Women','England',6055
+2013,'Disability declared','18','Women','Northern Ireland',205
+2013,'Disability declared','18','Women','Scotland',420
+2013,'Disability declared','18','Women','Wales',260
+2013,'Disability declared','19','Men','England',3260
+2013,'Disability declared','19','Men','Northern Ireland',75
+2013,'Disability declared','19','Men','Scotland',160
+2013,'Disability declared','19','Men','Wales',140
+2013,'Disability declared','19','Women','England',3405
+2013,'Disability declared','19','Women','Northern Ireland',70
+2013,'Disability declared','19','Women','Scotland',195
+2013,'Disability declared','19','Women','Wales',145
+2013,'Disability declared','20','Men','England',1165
+2013,'Disability declared','20','Men','Northern Ireland',45
+2013,'Disability declared','20','Men','Scotland',115
+2013,'Disability declared','20','Men','Wales',55
+2013,'Disability declared','20','Women','England',1255
+2013,'Disability declared','20','Women','Northern Ireland',40
+2013,'Disability declared','20','Women','Scotland',110
+2013,'Disability declared','20','Women','Wales',60
+2013,'Disability declared','21 and over','Men','England',2805
+2013,'Disability declared','21 and over','Men','Northern Ireland',100
+2013,'Disability declared','21 and over','Men','Scotland',360
+2013,'Disability declared','21 and over','Men','Wales',170
+2013,'Disability declared','21 and over','Women','England',3860
+2013,'Disability declared','21 and over','Women','Northern Ireland',90
+2013,'Disability declared','21 and over','Women','Scotland',390
+2013,'Disability declared','21 and over','Women','Wales',185
+2013,'No disability declared','17 and under','Men','England',280
+2013,'No disability declared','17 and under','Men','Northern Ireland',15
+2013,'No disability declared','17 and under','Men','Scotland',125
+2013,'No disability declared','17 and under','Men','Wales',15
+2013,'No disability declared','17 and under','Women','England',330
+2013,'No disability declared','17 and under','Women','Northern Ireland',10
+2013,'No disability declared','17 and under','Women','Scotland',225
+2013,'No disability declared','17 and under','Women','Wales',15
+2013,'No disability declared','18','Men','England',76195
+2013,'No disability declared','18','Men','Northern Ireland',3665
+2013,'No disability declared','18','Men','Scotland',5645
+2013,'No disability declared','18','Men','Wales',3840
+2013,'No disability declared','18','Women','England',95785
+2013,'No disability declared','18','Women','Northern Ireland',4640
+2013,'No disability declared','18','Women','Scotland',7680
+2013,'No disability declared','18','Women','Wales',5220
+2013,'No disability declared','19','Men','England',31825
+2013,'No disability declared','19','Men','Northern Ireland',920
+2013,'No disability declared','19','Men','Scotland',1495
+2013,'No disability declared','19','Men','Wales',1430
+2013,'No disability declared','19','Women','England',35320
+2013,'No disability declared','19','Women','Northern Ireland',1185
+2013,'No disability declared','19','Women','Scotland',2020
+2013,'No disability declared','19','Women','Wales',1795
+2013,'No disability declared','20','Men','England',9925
+2013,'No disability declared','20','Men','Northern Ireland',535
+2013,'No disability declared','20','Men','Scotland',1035
+2013,'No disability declared','20','Men','Wales',515
+2013,'No disability declared','20','Women','England',10720
+2013,'No disability declared','20','Women','Northern Ireland',440
+2013,'No disability declared','20','Women','Scotland',1325
+2013,'No disability declared','20','Women','Wales',590
+2013,'No disability declared','21 and over','Men','England',21110
+2013,'No disability declared','21 and over','Men','Northern Ireland',940
+2013,'No disability declared','21 and over','Men','Scotland',3075
+2013,'No disability declared','21 and over','Men','Wales',1160
+2013,'No disability declared','21 and over','Women','England',35110
+2013,'No disability declared','21 and over','Women','Northern Ireland',1145
+2013,'No disability declared','21 and over','Women','Scotland',4220
+2013,'No disability declared','21 and over','Women','Wales',2030
+2014,'Disability declared','17 and under','Men','England',20
+2014,'Disability declared','17 and under','Men','Scotland',10
+2014,'Disability declared','17 and under','Women','England',20
+2014,'Disability declared','17 and under','Women','Scotland',10
+2014,'Disability declared','18','Men','England',6080
+2014,'Disability declared','18','Men','Northern Ireland',240
+2014,'Disability declared','18','Men','Scotland',420
+2014,'Disability declared','18','Men','Wales',285
+2014,'Disability declared','18','Women','England',6865
+2014,'Disability declared','18','Women','Northern Ireland',195
+2014,'Disability declared','18','Women','Scotland',470
+2014,'Disability declared','18','Women','Wales',335
+2014,'Disability declared','19','Men','England',3515
+2014,'Disability declared','19','Men','Northern Ireland',90
+2014,'Disability declared','19','Men','Scotland',170
+2014,'Disability declared','19','Men','Wales',180
+2014,'Disability declared','19','Women','England',3965
+2014,'Disability declared','19','Women','Northern Ireland',80
+2014,'Disability declared','19','Women','Scotland',190
+2014,'Disability declared','19','Women','Wales',175
+2014,'Disability declared','20','Men','England',1360
+2014,'Disability declared','20','Men','Northern Ireland',70
+2014,'Disability declared','20','Men','Scotland',110
+2014,'Disability declared','20','Men','Wales',60
+2014,'Disability declared','20','Women','England',1465
+2014,'Disability declared','20','Women','Northern Ireland',35
+2014,'Disability declared','20','Women','Scotland',125
+2014,'Disability declared','20','Women','Wales',75
+2014,'Disability declared','21 and over','Men','England',3065
+2014,'Disability declared','21 and over','Men','Northern Ireland',115
+2014,'Disability declared','21 and over','Men','Scotland',370
+2014,'Disability declared','21 and over','Men','Wales',200
+2014,'Disability declared','21 and over','Women','England',4425
+2014,'Disability declared','21 and over','Women','Northern Ireland',100
+2014,'Disability declared','21 and over','Women','Scotland',485
+2014,'Disability declared','21 and over','Women','Wales',275
+2014,'No disability declared','17 and under','Men','England',275
+2014,'No disability declared','17 and under','Men','Northern Ireland',5
+2014,'No disability declared','17 and under','Men','Scotland',120
+2014,'No disability declared','17 and under','Men','Wales',10
+2014,'No disability declared','17 and under','Women','England',380
+2014,'No disability declared','17 and under','Women','Northern Ireland',10
+2014,'No disability declared','17 and under','Women','Scotland',205
+2014,'No disability declared','17 and under','Women','Wales',10
+2014,'No disability declared','18','Men','England',78505
+2014,'No disability declared','18','Men','Northern Ireland',3480
+2014,'No disability declared','18','Men','Scotland',5555
+2014,'No disability declared','18','Men','Wales',4035
+2014,'No disability declared','18','Women','England',98045
+2014,'No disability declared','18','Women','Northern Ireland',4530
+2014,'No disability declared','18','Women','Scotland',7790
+2014,'No disability declared','18','Women','Wales',5330
+2014,'No disability declared','19','Men','England',31870
+2014,'No disability declared','19','Men','Northern Ireland',985
+2014,'No disability declared','19','Men','Scotland',1490
+2014,'No disability declared','19','Men','Wales',1470
+2014,'No disability declared','19','Women','England',35965
+2014,'No disability declared','19','Women','Northern Ireland',1115
+2014,'No disability declared','19','Women','Scotland',2085
+2014,'No disability declared','19','Women','Wales',1865
+2014,'No disability declared','20','Men','England',10385
+2014,'No disability declared','20','Men','Northern Ireland',515
+2014,'No disability declared','20','Men','Scotland',1055
+2014,'No disability declared','20','Men','Wales',525
+2014,'No disability declared','20','Women','England',11545
+2014,'No disability declared','20','Women','Northern Ireland',535
+2014,'No disability declared','20','Women','Scotland',1345
+2014,'No disability declared','20','Women','Wales',590
+2014,'No disability declared','21 and over','Men','England',21620
+2014,'No disability declared','21 and over','Men','Northern Ireland',975
+2014,'No disability declared','21 and over','Men','Scotland',3100
+2014,'No disability declared','21 and over','Men','Wales',1130
+2014,'No disability declared','21 and over','Women','England',37485
+2014,'No disability declared','21 and over','Women','Northern Ireland',1175
+2014,'No disability declared','21 and over','Women','Scotland',4610
+2014,'No disability declared','21 and over','Women','Wales',2190
+2015,'Disability declared','17 and under','Men','England',20
+2015,'Disability declared','17 and under','Men','Scotland',15
+2015,'Disability declared','17 and under','Women','England',25
+2015,'Disability declared','17 and under','Women','Scotland',15
+2015,'Disability declared','18','Men','England',6710
+2015,'Disability declared','18','Men','Northern Ireland',240
+2015,'Disability declared','18','Men','Scotland',460
+2015,'Disability declared','18','Men','Wales',325
+2015,'Disability declared','18','Women','England',8335
+2015,'Disability declared','18','Women','Northern Ireland',230
+2015,'Disability declared','18','Women','Scotland',505
+2015,'Disability declared','18','Women','Wales',380
+2015,'Disability declared','19','Men','England',3725
+2015,'Disability declared','19','Men','Northern Ireland',100
+2015,'Disability declared','19','Men','Scotland',220
+2015,'Disability declared','19','Men','Wales',170
+2015,'Disability declared','19','Women','England',4625
+2015,'Disability declared','19','Women','Northern Ireland',85
+2015,'Disability declared','19','Women','Scotland',230
+2015,'Disability declared','19','Women','Wales',200
+2015,'Disability declared','20','Men','England',1420
+2015,'Disability declared','20','Men','Northern Ireland',55
+2015,'Disability declared','20','Men','Scotland',140
+2015,'Disability declared','20','Men','Wales',60
+2015,'Disability declared','20','Women','England',1625
+2015,'Disability declared','20','Women','Northern Ireland',45
+2015,'Disability declared','20','Women','Scotland',175
+2015,'Disability declared','20','Women','Wales',75
+2015,'Disability declared','21 and over','Men','England',3175
+2015,'Disability declared','21 and over','Men','Northern Ireland',105
+2015,'Disability declared','21 and over','Men','Scotland',430
+2015,'Disability declared','21 and over','Men','Wales',195
+2015,'Disability declared','21 and over','Women','England',4770
+2015,'Disability declared','21 and over','Women','Northern Ireland',120
+2015,'Disability declared','21 and over','Women','Scotland',630
+2015,'Disability declared','21 and over','Women','Wales',275
+2015,'No disability declared','17 and under','Men','England',340
+2015,'No disability declared','17 and under','Men','Northern Ireland',5
+2015,'No disability declared','17 and under','Men','Scotland',125
+2015,'No disability declared','17 and under','Women','England',365
+2015,'No disability declared','17 and under','Women','Northern Ireland',15
+2015,'No disability declared','17 and under','Women','Scotland',235
+2015,'No disability declared','17 and under','Women','Wales',15
+2015,'No disability declared','18','Men','England',80710
+2015,'No disability declared','18','Men','Northern Ireland',3320
+2015,'No disability declared','18','Men','Scotland',5480
+2015,'No disability declared','18','Men','Wales',4050
+2015,'No disability declared','18','Women','England',103470
+2015,'No disability declared','18','Women','Northern Ireland',4515
+2015,'No disability declared','18','Women','Scotland',7875
+2015,'No disability declared','18','Women','Wales',5685
+2015,'No disability declared','19','Men','England',32190
+2015,'No disability declared','19','Men','Northern Ireland',940
+2015,'No disability declared','19','Men','Scotland',1500
+2015,'No disability declared','19','Men','Wales',1485
+2015,'No disability declared','19','Women','England',36310
+2015,'No disability declared','19','Women','Northern Ireland',1090
+2015,'No disability declared','19','Women','Scotland',2140
+2015,'No disability declared','19','Women','Wales',1765
+2015,'No disability declared','20','Men','England',9865
+2015,'No disability declared','20','Men','Northern Ireland',465
+2015,'No disability declared','20','Men','Scotland',1050
+2015,'No disability declared','20','Men','Wales',540
+2015,'No disability declared','20','Women','England',10750
+2015,'No disability declared','20','Women','Northern Ireland',470
+2015,'No disability declared','20','Women','Scotland',1370
+2015,'No disability declared','20','Women','Wales',595
+2015,'No disability declared','21 and over','Men','England',21455
+2015,'No disability declared','21 and over','Men','Northern Ireland',910
+2015,'No disability declared','21 and over','Men','Scotland',3635
+2015,'No disability declared','21 and over','Men','Wales',1105
+2015,'No disability declared','21 and over','Women','England',36580
+2015,'No disability declared','21 and over','Women','Northern Ireland',1175
+2015,'No disability declared','21 and over','Women','Scotland',6105
+2015,'No disability declared','21 and over','Women','Wales',2175

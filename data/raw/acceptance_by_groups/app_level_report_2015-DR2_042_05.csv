@@ -1,0 +1,567 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Achieved A-Level point score , POLAR3 Quintile , Cycle Year"
+"Coverage:   Applied before June deadline, UK domiciled(excluding Scotland) 18 year olds and hold at least 3 A levels"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_042_05.pdf"
+ 
+Cycle Year,Achieved A-Level point score , POLAR3 Quintile,Number of Acceptances,
+2010,'3 points','POLAR3 Quintile 1',30
+2010,'3 points','POLAR3 Quintile 2',45
+2010,'3 points','POLAR3 Quintile 3',45
+2010,'3 points','POLAR3 Quintile 4',45
+2010,'3 points','POLAR3 Quintile 5',45
+2010,'4 points','POLAR3 Quintile 1',110
+2010,'4 points','POLAR3 Quintile 2',135
+2010,'4 points','POLAR3 Quintile 3',205
+2010,'4 points','POLAR3 Quintile 4',170
+2010,'4 points','POLAR3 Quintile 5',190
+2010,'5 points','POLAR3 Quintile 1',270
+2010,'5 points','POLAR3 Quintile 2',375
+2010,'5 points','POLAR3 Quintile 3',480
+2010,'5 points','POLAR3 Quintile 4',495
+2010,'5 points','POLAR3 Quintile 5',540
+2010,'5 points','Not assigned',10
+2010,'6 points','POLAR3 Quintile 1',555
+2010,'6 points','POLAR3 Quintile 2',810
+2010,'6 points','POLAR3 Quintile 3',925
+2010,'6 points','POLAR3 Quintile 4',1070
+2010,'6 points','POLAR3 Quintile 5',1100
+2010,'6 points','Not assigned',10
+2010,'7 points','POLAR3 Quintile 1',860
+2010,'7 points','POLAR3 Quintile 2',1265
+2010,'7 points','POLAR3 Quintile 3',1540
+2010,'7 points','POLAR3 Quintile 4',1675
+2010,'7 points','POLAR3 Quintile 5',1875
+2010,'7 points','Not assigned',15
+2010,'8 points','POLAR3 Quintile 1',1160
+2010,'8 points','POLAR3 Quintile 2',1680
+2010,'8 points','POLAR3 Quintile 3',2110
+2010,'8 points','POLAR3 Quintile 4',2430
+2010,'8 points','POLAR3 Quintile 5',2700
+2010,'8 points','Not assigned',20
+2010,'9 points','POLAR3 Quintile 1',1480
+2010,'9 points','POLAR3 Quintile 2',2180
+2010,'9 points','POLAR3 Quintile 3',2685
+2010,'9 points','POLAR3 Quintile 4',3200
+2010,'9 points','POLAR3 Quintile 5',3730
+2010,'9 points','Not assigned',30
+2010,'10 points','POLAR3 Quintile 1',1465
+2010,'10 points','POLAR3 Quintile 2',2300
+2010,'10 points','POLAR3 Quintile 3',2985
+2010,'10 points','POLAR3 Quintile 4',3690
+2010,'10 points','POLAR3 Quintile 5',4380
+2010,'10 points','Not assigned',20
+2010,'11 points','POLAR3 Quintile 1',1420
+2010,'11 points','POLAR3 Quintile 2',2310
+2010,'11 points','POLAR3 Quintile 3',3065
+2010,'11 points','POLAR3 Quintile 4',3930
+2010,'11 points','POLAR3 Quintile 5',4900
+2010,'11 points','Not assigned',45
+2010,'12 points','POLAR3 Quintile 1',1410
+2010,'12 points','POLAR3 Quintile 2',2290
+2010,'12 points','POLAR3 Quintile 3',3135
+2010,'12 points','POLAR3 Quintile 4',4045
+2010,'12 points','POLAR3 Quintile 5',5555
+2010,'12 points','Not assigned',25
+2010,'13 points','POLAR3 Quintile 1',1160
+2010,'13 points','POLAR3 Quintile 2',2000
+2010,'13 points','POLAR3 Quintile 3',2905
+2010,'13 points','POLAR3 Quintile 4',4010
+2010,'13 points','POLAR3 Quintile 5',5765
+2010,'13 points','Not assigned',25
+2010,'14 points','POLAR3 Quintile 1',910
+2010,'14 points','POLAR3 Quintile 2',1660
+2010,'14 points','POLAR3 Quintile 3',2450
+2010,'14 points','POLAR3 Quintile 4',3835
+2010,'14 points','POLAR3 Quintile 5',5830
+2010,'14 points','Not assigned',25
+2010,'15 points','POLAR3 Quintile 1',815
+2010,'15 points','POLAR3 Quintile 2',1445
+2010,'15 points','POLAR3 Quintile 3',2300
+2010,'15 points','POLAR3 Quintile 4',3705
+2010,'15 points','POLAR3 Quintile 5',6510
+2010,'15 points','Not assigned',25
+2010,'16 points','POLAR3 Quintile 1',535
+2010,'16 points','POLAR3 Quintile 2',1015
+2010,'16 points','POLAR3 Quintile 3',1640
+2010,'16 points','POLAR3 Quintile 4',2765
+2010,'16 points','POLAR3 Quintile 5',4880
+2010,'16 points','Not assigned',15
+2010,'17 points','POLAR3 Quintile 1',295
+2010,'17 points','POLAR3 Quintile 2',580
+2010,'17 points','POLAR3 Quintile 3',900
+2010,'17 points','POLAR3 Quintile 4',1505
+2010,'17 points','POLAR3 Quintile 5',3080
+2010,'17 points','Not assigned',15
+2010,'18 points','POLAR3 Quintile 1',190
+2010,'18 points','POLAR3 Quintile 2',385
+2010,'18 points','POLAR3 Quintile 3',660
+2010,'18 points','POLAR3 Quintile 4',1140
+2010,'18 points','POLAR3 Quintile 5',2505
+2010,'18 points','Not assigned',5
+2011,'3 points','POLAR3 Quintile 1',10
+2011,'3 points','POLAR3 Quintile 2',30
+2011,'3 points','POLAR3 Quintile 3',30
+2011,'3 points','POLAR3 Quintile 4',45
+2011,'3 points','POLAR3 Quintile 5',40
+2011,'4 points','POLAR3 Quintile 1',85
+2011,'4 points','POLAR3 Quintile 2',110
+2011,'4 points','POLAR3 Quintile 3',135
+2011,'4 points','POLAR3 Quintile 4',135
+2011,'4 points','POLAR3 Quintile 5',180
+2011,'5 points','POLAR3 Quintile 1',195
+2011,'5 points','POLAR3 Quintile 2',325
+2011,'5 points','POLAR3 Quintile 3',390
+2011,'5 points','POLAR3 Quintile 4',435
+2011,'5 points','POLAR3 Quintile 5',435
+2011,'5 points','Not assigned',10
+2011,'6 points','POLAR3 Quintile 1',495
+2011,'6 points','POLAR3 Quintile 2',660
+2011,'6 points','POLAR3 Quintile 3',820
+2011,'6 points','POLAR3 Quintile 4',895
+2011,'6 points','POLAR3 Quintile 5',955
+2011,'6 points','Not assigned',5
+2011,'7 points','POLAR3 Quintile 1',830
+2011,'7 points','POLAR3 Quintile 2',1205
+2011,'7 points','POLAR3 Quintile 3',1405
+2011,'7 points','POLAR3 Quintile 4',1660
+2011,'7 points','POLAR3 Quintile 5',1685
+2011,'8 points','POLAR3 Quintile 1',1165
+2011,'8 points','POLAR3 Quintile 2',1655
+2011,'8 points','POLAR3 Quintile 3',2110
+2011,'8 points','POLAR3 Quintile 4',2420
+2011,'8 points','POLAR3 Quintile 5',2775
+2011,'8 points','Not assigned',20
+2011,'9 points','POLAR3 Quintile 1',1520
+2011,'9 points','POLAR3 Quintile 2',2190
+2011,'9 points','POLAR3 Quintile 3',2810
+2011,'9 points','POLAR3 Quintile 4',3270
+2011,'9 points','POLAR3 Quintile 5',3825
+2011,'9 points','Not assigned',15
+2011,'10 points','POLAR3 Quintile 1',1565
+2011,'10 points','POLAR3 Quintile 2',2430
+2011,'10 points','POLAR3 Quintile 3',3155
+2011,'10 points','POLAR3 Quintile 4',3855
+2011,'10 points','POLAR3 Quintile 5',4755
+2011,'10 points','Not assigned',20
+2011,'11 points','POLAR3 Quintile 1',1555
+2011,'11 points','POLAR3 Quintile 2',2420
+2011,'11 points','POLAR3 Quintile 3',3170
+2011,'11 points','POLAR3 Quintile 4',4140
+2011,'11 points','POLAR3 Quintile 5',5175
+2011,'11 points','Not assigned',20
+2011,'12 points','POLAR3 Quintile 1',1455
+2011,'12 points','POLAR3 Quintile 2',2440
+2011,'12 points','POLAR3 Quintile 3',3205
+2011,'12 points','POLAR3 Quintile 4',4360
+2011,'12 points','POLAR3 Quintile 5',5795
+2011,'12 points','Not assigned',30
+2011,'13 points','POLAR3 Quintile 1',1205
+2011,'13 points','POLAR3 Quintile 2',2045
+2011,'13 points','POLAR3 Quintile 3',2995
+2011,'13 points','POLAR3 Quintile 4',4135
+2011,'13 points','POLAR3 Quintile 5',6010
+2011,'13 points','Not assigned',25
+2011,'14 points','POLAR3 Quintile 1',995
+2011,'14 points','POLAR3 Quintile 2',1695
+2011,'14 points','POLAR3 Quintile 3',2585
+2011,'14 points','POLAR3 Quintile 4',3810
+2011,'14 points','POLAR3 Quintile 5',6170
+2011,'14 points','Not assigned',30
+2011,'15 points','POLAR3 Quintile 1',825
+2011,'15 points','POLAR3 Quintile 2',1600
+2011,'15 points','POLAR3 Quintile 3',2370
+2011,'15 points','POLAR3 Quintile 4',3780
+2011,'15 points','POLAR3 Quintile 5',6325
+2011,'15 points','Not assigned',25
+2011,'16 points','POLAR3 Quintile 1',595
+2011,'16 points','POLAR3 Quintile 2',1120
+2011,'16 points','POLAR3 Quintile 3',1730
+2011,'16 points','POLAR3 Quintile 4',2650
+2011,'16 points','POLAR3 Quintile 5',5235
+2011,'16 points','Not assigned',20
+2011,'17 points','POLAR3 Quintile 1',275
+2011,'17 points','POLAR3 Quintile 2',560
+2011,'17 points','POLAR3 Quintile 3',1010
+2011,'17 points','POLAR3 Quintile 4',1680
+2011,'17 points','POLAR3 Quintile 5',3155
+2011,'17 points','Not assigned',5
+2011,'18 points','POLAR3 Quintile 1',205
+2011,'18 points','POLAR3 Quintile 2',430
+2011,'18 points','POLAR3 Quintile 3',710
+2011,'18 points','POLAR3 Quintile 4',1190
+2011,'18 points','POLAR3 Quintile 5',2835
+2011,'18 points','Not assigned',10
+2012,'3 points','POLAR3 Quintile 1',15
+2012,'3 points','POLAR3 Quintile 2',15
+2012,'3 points','POLAR3 Quintile 3',30
+2012,'3 points','POLAR3 Quintile 4',20
+2012,'3 points','POLAR3 Quintile 5',40
+2012,'4 points','POLAR3 Quintile 1',105
+2012,'4 points','POLAR3 Quintile 2',105
+2012,'4 points','POLAR3 Quintile 3',150
+2012,'4 points','POLAR3 Quintile 4',140
+2012,'4 points','POLAR3 Quintile 5',155
+2012,'5 points','POLAR3 Quintile 1',240
+2012,'5 points','POLAR3 Quintile 2',305
+2012,'5 points','POLAR3 Quintile 3',385
+2012,'5 points','POLAR3 Quintile 4',405
+2012,'5 points','POLAR3 Quintile 5',435
+2012,'5 points','Not assigned',5
+2012,'6 points','POLAR3 Quintile 1',495
+2012,'6 points','POLAR3 Quintile 2',675
+2012,'6 points','POLAR3 Quintile 3',830
+2012,'6 points','POLAR3 Quintile 4',825
+2012,'6 points','POLAR3 Quintile 5',960
+2012,'6 points','Not assigned',5
+2012,'7 points','POLAR3 Quintile 1',765
+2012,'7 points','POLAR3 Quintile 2',1190
+2012,'7 points','POLAR3 Quintile 3',1430
+2012,'7 points','POLAR3 Quintile 4',1480
+2012,'7 points','POLAR3 Quintile 5',1610
+2012,'7 points','Not assigned',10
+2012,'8 points','POLAR3 Quintile 1',1055
+2012,'8 points','POLAR3 Quintile 2',1620
+2012,'8 points','POLAR3 Quintile 3',2005
+2012,'8 points','POLAR3 Quintile 4',2245
+2012,'8 points','POLAR3 Quintile 5',2505
+2012,'8 points','Not assigned',10
+2012,'9 points','POLAR3 Quintile 1',1355
+2012,'9 points','POLAR3 Quintile 2',2010
+2012,'9 points','POLAR3 Quintile 3',2630
+2012,'9 points','POLAR3 Quintile 4',3030
+2012,'9 points','POLAR3 Quintile 5',3465
+2012,'9 points','Not assigned',15
+2012,'10 points','POLAR3 Quintile 1',1495
+2012,'10 points','POLAR3 Quintile 2',2305
+2012,'10 points','POLAR3 Quintile 3',2890
+2012,'10 points','POLAR3 Quintile 4',3580
+2012,'10 points','POLAR3 Quintile 5',4340
+2012,'10 points','Not assigned',35
+2012,'11 points','POLAR3 Quintile 1',1550
+2012,'11 points','POLAR3 Quintile 2',2355
+2012,'11 points','POLAR3 Quintile 3',3040
+2012,'11 points','POLAR3 Quintile 4',3850
+2012,'11 points','POLAR3 Quintile 5',4905
+2012,'11 points','Not assigned',15
+2012,'12 points','POLAR3 Quintile 1',1410
+2012,'12 points','POLAR3 Quintile 2',2305
+2012,'12 points','POLAR3 Quintile 3',3085
+2012,'12 points','POLAR3 Quintile 4',4155
+2012,'12 points','POLAR3 Quintile 5',5625
+2012,'12 points','Not assigned',25
+2012,'13 points','POLAR3 Quintile 1',1195
+2012,'13 points','POLAR3 Quintile 2',2055
+2012,'13 points','POLAR3 Quintile 3',2825
+2012,'13 points','POLAR3 Quintile 4',4155
+2012,'13 points','POLAR3 Quintile 5',6000
+2012,'13 points','Not assigned',20
+2012,'14 points','POLAR3 Quintile 1',960
+2012,'14 points','POLAR3 Quintile 2',1685
+2012,'14 points','POLAR3 Quintile 3',2520
+2012,'14 points','POLAR3 Quintile 4',3570
+2012,'14 points','POLAR3 Quintile 5',5995
+2012,'14 points','Not assigned',15
+2012,'15 points','POLAR3 Quintile 1',820
+2012,'15 points','POLAR3 Quintile 2',1455
+2012,'15 points','POLAR3 Quintile 3',2275
+2012,'15 points','POLAR3 Quintile 4',3550
+2012,'15 points','POLAR3 Quintile 5',6200
+2012,'15 points','Not assigned',25
+2012,'16 points','POLAR3 Quintile 1',525
+2012,'16 points','POLAR3 Quintile 2',995
+2012,'16 points','POLAR3 Quintile 3',1545
+2012,'16 points','POLAR3 Quintile 4',2720
+2012,'16 points','POLAR3 Quintile 5',4835
+2012,'16 points','Not assigned',20
+2012,'17 points','POLAR3 Quintile 1',295
+2012,'17 points','POLAR3 Quintile 2',555
+2012,'17 points','POLAR3 Quintile 3',930
+2012,'17 points','POLAR3 Quintile 4',1530
+2012,'17 points','POLAR3 Quintile 5',2945
+2012,'17 points','Not assigned',10
+2012,'18 points','POLAR3 Quintile 1',185
+2012,'18 points','POLAR3 Quintile 2',385
+2012,'18 points','POLAR3 Quintile 3',670
+2012,'18 points','POLAR3 Quintile 4',1225
+2012,'18 points','POLAR3 Quintile 5',2675
+2012,'18 points','Not assigned',5
+2013,'3 points','POLAR3 Quintile 1',15
+2013,'3 points','POLAR3 Quintile 2',30
+2013,'3 points','POLAR3 Quintile 3',45
+2013,'3 points','POLAR3 Quintile 4',40
+2013,'3 points','POLAR3 Quintile 5',30
+2013,'4 points','POLAR3 Quintile 1',85
+2013,'4 points','POLAR3 Quintile 2',115
+2013,'4 points','POLAR3 Quintile 3',135
+2013,'4 points','POLAR3 Quintile 4',140
+2013,'4 points','POLAR3 Quintile 5',150
+2013,'5 points','POLAR3 Quintile 1',250
+2013,'5 points','POLAR3 Quintile 2',340
+2013,'5 points','POLAR3 Quintile 3',390
+2013,'5 points','POLAR3 Quintile 4',390
+2013,'5 points','POLAR3 Quintile 5',440
+2013,'6 points','POLAR3 Quintile 1',485
+2013,'6 points','POLAR3 Quintile 2',675
+2013,'6 points','POLAR3 Quintile 3',785
+2013,'6 points','POLAR3 Quintile 4',915
+2013,'6 points','POLAR3 Quintile 5',935
+2013,'6 points','Not assigned',10
+2013,'7 points','POLAR3 Quintile 1',805
+2013,'7 points','POLAR3 Quintile 2',1145
+2013,'7 points','POLAR3 Quintile 3',1370
+2013,'7 points','POLAR3 Quintile 4',1525
+2013,'7 points','POLAR3 Quintile 5',1715
+2013,'7 points','Not assigned',15
+2013,'8 points','POLAR3 Quintile 1',1105
+2013,'8 points','POLAR3 Quintile 2',1600
+2013,'8 points','POLAR3 Quintile 3',2045
+2013,'8 points','POLAR3 Quintile 4',2230
+2013,'8 points','POLAR3 Quintile 5',2525
+2013,'8 points','Not assigned',10
+2013,'9 points','POLAR3 Quintile 1',1350
+2013,'9 points','POLAR3 Quintile 2',2005
+2013,'9 points','POLAR3 Quintile 3',2735
+2013,'9 points','POLAR3 Quintile 4',3070
+2013,'9 points','POLAR3 Quintile 5',3560
+2013,'9 points','Not assigned',15
+2013,'10 points','POLAR3 Quintile 1',1510
+2013,'10 points','POLAR3 Quintile 2',2360
+2013,'10 points','POLAR3 Quintile 3',3020
+2013,'10 points','POLAR3 Quintile 4',3855
+2013,'10 points','POLAR3 Quintile 5',4285
+2013,'10 points','Not assigned',15
+2013,'11 points','POLAR3 Quintile 1',1580
+2013,'11 points','POLAR3 Quintile 2',2375
+2013,'11 points','POLAR3 Quintile 3',3075
+2013,'11 points','POLAR3 Quintile 4',4025
+2013,'11 points','POLAR3 Quintile 5',4990
+2013,'11 points','Not assigned',15
+2013,'12 points','POLAR3 Quintile 1',1430
+2013,'12 points','POLAR3 Quintile 2',2415
+2013,'12 points','POLAR3 Quintile 3',3240
+2013,'12 points','POLAR3 Quintile 4',4285
+2013,'12 points','POLAR3 Quintile 5',5890
+2013,'12 points','Not assigned',30
+2013,'13 points','POLAR3 Quintile 1',1205
+2013,'13 points','POLAR3 Quintile 2',2080
+2013,'13 points','POLAR3 Quintile 3',2945
+2013,'13 points','POLAR3 Quintile 4',4225
+2013,'13 points','POLAR3 Quintile 5',6080
+2013,'13 points','Not assigned',15
+2013,'14 points','POLAR3 Quintile 1',985
+2013,'14 points','POLAR3 Quintile 2',1700
+2013,'14 points','POLAR3 Quintile 3',2455
+2013,'14 points','POLAR3 Quintile 4',3765
+2013,'14 points','POLAR3 Quintile 5',5860
+2013,'14 points','Not assigned',20
+2013,'15 points','POLAR3 Quintile 1',700
+2013,'15 points','POLAR3 Quintile 2',1540
+2013,'15 points','POLAR3 Quintile 3',2190
+2013,'15 points','POLAR3 Quintile 4',3545
+2013,'15 points','POLAR3 Quintile 5',6115
+2013,'15 points','Not assigned',20
+2013,'16 points','POLAR3 Quintile 1',525
+2013,'16 points','POLAR3 Quintile 2',975
+2013,'16 points','POLAR3 Quintile 3',1570
+2013,'16 points','POLAR3 Quintile 4',2525
+2013,'16 points','POLAR3 Quintile 5',4755
+2013,'16 points','Not assigned',15
+2013,'17 points','POLAR3 Quintile 1',250
+2013,'17 points','POLAR3 Quintile 2',555
+2013,'17 points','POLAR3 Quintile 3',895
+2013,'17 points','POLAR3 Quintile 4',1420
+2013,'17 points','POLAR3 Quintile 5',2940
+2013,'17 points','Not assigned',5
+2013,'18 points','POLAR3 Quintile 1',160
+2013,'18 points','POLAR3 Quintile 2',380
+2013,'18 points','POLAR3 Quintile 3',695
+2013,'18 points','POLAR3 Quintile 4',1135
+2013,'18 points','POLAR3 Quintile 5',2500
+2013,'18 points','Not assigned',10
+2014,'3 points','POLAR3 Quintile 1',25
+2014,'3 points','POLAR3 Quintile 2',20
+2014,'3 points','POLAR3 Quintile 3',35
+2014,'3 points','POLAR3 Quintile 4',35
+2014,'3 points','POLAR3 Quintile 5',35
+2014,'4 points','POLAR3 Quintile 1',100
+2014,'4 points','POLAR3 Quintile 2',115
+2014,'4 points','POLAR3 Quintile 3',145
+2014,'4 points','POLAR3 Quintile 4',155
+2014,'4 points','POLAR3 Quintile 5',185
+2014,'5 points','POLAR3 Quintile 1',250
+2014,'5 points','POLAR3 Quintile 2',315
+2014,'5 points','POLAR3 Quintile 3',405
+2014,'5 points','POLAR3 Quintile 4',420
+2014,'5 points','POLAR3 Quintile 5',500
+2014,'6 points','POLAR3 Quintile 1',530
+2014,'6 points','POLAR3 Quintile 2',690
+2014,'6 points','POLAR3 Quintile 3',870
+2014,'6 points','POLAR3 Quintile 4',930
+2014,'6 points','POLAR3 Quintile 5',1080
+2014,'6 points','Not assigned',10
+2014,'7 points','POLAR3 Quintile 1',800
+2014,'7 points','POLAR3 Quintile 2',1135
+2014,'7 points','POLAR3 Quintile 3',1440
+2014,'7 points','POLAR3 Quintile 4',1685
+2014,'7 points','POLAR3 Quintile 5',1685
+2014,'7 points','Not assigned',15
+2014,'8 points','POLAR3 Quintile 1',1140
+2014,'8 points','POLAR3 Quintile 2',1665
+2014,'8 points','POLAR3 Quintile 3',2050
+2014,'8 points','POLAR3 Quintile 4',2350
+2014,'8 points','POLAR3 Quintile 5',2635
+2014,'8 points','Not assigned',15
+2014,'9 points','POLAR3 Quintile 1',1405
+2014,'9 points','POLAR3 Quintile 2',2080
+2014,'9 points','POLAR3 Quintile 3',2650
+2014,'9 points','POLAR3 Quintile 4',3010
+2014,'9 points','POLAR3 Quintile 5',3515
+2014,'9 points','Not assigned',20
+2014,'10 points','POLAR3 Quintile 1',1570
+2014,'10 points','POLAR3 Quintile 2',2330
+2014,'10 points','POLAR3 Quintile 3',3055
+2014,'10 points','POLAR3 Quintile 4',3510
+2014,'10 points','POLAR3 Quintile 5',4295
+2014,'10 points','Not assigned',25
+2014,'11 points','POLAR3 Quintile 1',1520
+2014,'11 points','POLAR3 Quintile 2',2230
+2014,'11 points','POLAR3 Quintile 3',3080
+2014,'11 points','POLAR3 Quintile 4',3820
+2014,'11 points','POLAR3 Quintile 5',5040
+2014,'11 points','Not assigned',20
+2014,'12 points','POLAR3 Quintile 1',1450
+2014,'12 points','POLAR3 Quintile 2',2330
+2014,'12 points','POLAR3 Quintile 3',3100
+2014,'12 points','POLAR3 Quintile 4',4115
+2014,'12 points','POLAR3 Quintile 5',5660
+2014,'12 points','Not assigned',20
+2014,'13 points','POLAR3 Quintile 1',1175
+2014,'13 points','POLAR3 Quintile 2',2020
+2014,'13 points','POLAR3 Quintile 3',2815
+2014,'13 points','POLAR3 Quintile 4',3900
+2014,'13 points','POLAR3 Quintile 5',5940
+2014,'13 points','Not assigned',15
+2014,'14 points','POLAR3 Quintile 1',950
+2014,'14 points','POLAR3 Quintile 2',1640
+2014,'14 points','POLAR3 Quintile 3',2380
+2014,'14 points','POLAR3 Quintile 4',3525
+2014,'14 points','POLAR3 Quintile 5',5665
+2014,'14 points','Not assigned',25
+2014,'15 points','POLAR3 Quintile 1',765
+2014,'15 points','POLAR3 Quintile 2',1405
+2014,'15 points','POLAR3 Quintile 3',1995
+2014,'15 points','POLAR3 Quintile 4',3195
+2014,'15 points','POLAR3 Quintile 5',5615
+2014,'15 points','Not assigned',15
+2014,'16 points','POLAR3 Quintile 1',530
+2014,'16 points','POLAR3 Quintile 2',930
+2014,'16 points','POLAR3 Quintile 3',1445
+2014,'16 points','POLAR3 Quintile 4',2450
+2014,'16 points','POLAR3 Quintile 5',4600
+2014,'16 points','Not assigned',20
+2014,'17 points','POLAR3 Quintile 1',245
+2014,'17 points','POLAR3 Quintile 2',600
+2014,'17 points','POLAR3 Quintile 3',920
+2014,'17 points','POLAR3 Quintile 4',1505
+2014,'17 points','POLAR3 Quintile 5',3145
+2014,'17 points','Not assigned',5
+2014,'18 points','POLAR3 Quintile 1',225
+2014,'18 points','POLAR3 Quintile 2',425
+2014,'18 points','POLAR3 Quintile 3',685
+2014,'18 points','POLAR3 Quintile 4',1210
+2014,'18 points','POLAR3 Quintile 5',2625
+2014,'18 points','Not assigned',5
+2015,'3 points','POLAR3 Quintile 1',25
+2015,'3 points','POLAR3 Quintile 2',20
+2015,'3 points','POLAR3 Quintile 3',25
+2015,'3 points','POLAR3 Quintile 4',40
+2015,'3 points','POLAR3 Quintile 5',35
+2015,'4 points','POLAR3 Quintile 1',80
+2015,'4 points','POLAR3 Quintile 2',110
+2015,'4 points','POLAR3 Quintile 3',160
+2015,'4 points','POLAR3 Quintile 4',165
+2015,'4 points','POLAR3 Quintile 5',160
+2015,'5 points','POLAR3 Quintile 1',240
+2015,'5 points','POLAR3 Quintile 2',350
+2015,'5 points','POLAR3 Quintile 3',425
+2015,'5 points','POLAR3 Quintile 4',420
+2015,'5 points','POLAR3 Quintile 5',470
+2015,'5 points','Not assigned',5
+2015,'6 points','POLAR3 Quintile 1',485
+2015,'6 points','POLAR3 Quintile 2',725
+2015,'6 points','POLAR3 Quintile 3',890
+2015,'6 points','POLAR3 Quintile 4',920
+2015,'6 points','POLAR3 Quintile 5',1035
+2015,'6 points','Not assigned',5
+2015,'7 points','POLAR3 Quintile 1',840
+2015,'7 points','POLAR3 Quintile 2',1210
+2015,'7 points','POLAR3 Quintile 3',1510
+2015,'7 points','POLAR3 Quintile 4',1660
+2015,'7 points','POLAR3 Quintile 5',1750
+2015,'7 points','Not assigned',15
+2015,'8 points','POLAR3 Quintile 1',1170
+2015,'8 points','POLAR3 Quintile 2',1785
+2015,'8 points','POLAR3 Quintile 3',2155
+2015,'8 points','POLAR3 Quintile 4',2375
+2015,'8 points','POLAR3 Quintile 5',2685
+2015,'8 points','Not assigned',20
+2015,'9 points','POLAR3 Quintile 1',1525
+2015,'9 points','POLAR3 Quintile 2',2085
+2015,'9 points','POLAR3 Quintile 3',2730
+2015,'9 points','POLAR3 Quintile 4',3225
+2015,'9 points','POLAR3 Quintile 5',3725
+2015,'9 points','Not assigned',20
+2015,'10 points','POLAR3 Quintile 1',1660
+2015,'10 points','POLAR3 Quintile 2',2385
+2015,'10 points','POLAR3 Quintile 3',3085
+2015,'10 points','POLAR3 Quintile 4',3810
+2015,'10 points','POLAR3 Quintile 5',4470
+2015,'10 points','Not assigned',35
+2015,'11 points','POLAR3 Quintile 1',1560
+2015,'11 points','POLAR3 Quintile 2',2360
+2015,'11 points','POLAR3 Quintile 3',3255
+2015,'11 points','POLAR3 Quintile 4',4160
+2015,'11 points','POLAR3 Quintile 5',5245
+2015,'11 points','Not assigned',30
+2015,'12 points','POLAR3 Quintile 1',1455
+2015,'12 points','POLAR3 Quintile 2',2325
+2015,'12 points','POLAR3 Quintile 3',3245
+2015,'12 points','POLAR3 Quintile 4',4325
+2015,'12 points','POLAR3 Quintile 5',6090
+2015,'12 points','Not assigned',45
+2015,'13 points','POLAR3 Quintile 1',1205
+2015,'13 points','POLAR3 Quintile 2',2055
+2015,'13 points','POLAR3 Quintile 3',2940
+2015,'13 points','POLAR3 Quintile 4',3970
+2015,'13 points','POLAR3 Quintile 5',6055
+2015,'13 points','Not assigned',35
+2015,'14 points','POLAR3 Quintile 1',930
+2015,'14 points','POLAR3 Quintile 2',1650
+2015,'14 points','POLAR3 Quintile 3',2430
+2015,'14 points','POLAR3 Quintile 4',3600
+2015,'14 points','POLAR3 Quintile 5',5725
+2015,'14 points','Not assigned',35
+2015,'15 points','POLAR3 Quintile 1',795
+2015,'15 points','POLAR3 Quintile 2',1380
+2015,'15 points','POLAR3 Quintile 3',2040
+2015,'15 points','POLAR3 Quintile 4',3330
+2015,'15 points','POLAR3 Quintile 5',5515
+2015,'15 points','Not assigned',20
+2015,'16 points','POLAR3 Quintile 1',465
+2015,'16 points','POLAR3 Quintile 2',1015
+2015,'16 points','POLAR3 Quintile 3',1490
+2015,'16 points','POLAR3 Quintile 4',2485
+2015,'16 points','POLAR3 Quintile 5',4720
+2015,'16 points','Not assigned',20
+2015,'17 points','POLAR3 Quintile 1',295
+2015,'17 points','POLAR3 Quintile 2',570
+2015,'17 points','POLAR3 Quintile 3',920
+2015,'17 points','POLAR3 Quintile 4',1585
+2015,'17 points','POLAR3 Quintile 5',3220
+2015,'17 points','Not assigned',15
+2015,'18 points','POLAR3 Quintile 1',200
+2015,'18 points','POLAR3 Quintile 2',415
+2015,'18 points','POLAR3 Quintile 3',685
+2015,'18 points','POLAR3 Quintile 4',1265
+2015,'18 points','POLAR3 Quintile 5',2715
+2015,'18 points','Not assigned',10

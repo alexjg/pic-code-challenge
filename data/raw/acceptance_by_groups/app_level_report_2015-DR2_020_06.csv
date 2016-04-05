@@ -1,0 +1,246 @@
+"Statistic:   Number of Applicants"
+"Variables:   Ethnic Group (Summary Level) , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_020_06.pdf"
+ 
+Cycle Year,Ethnic Group (Summary Level) , Applicant Domicile (High Level),Number of Applicants,
+2006,'Asian','England',37820
+2006,'Asian','Northern Ireland',115
+2006,'Asian','Scotland',1250
+2006,'Asian','Wales',545
+2006,'Black','England',21510
+2006,'Black','Northern Ireland',20
+2006,'Black','Scotland',245
+2006,'Black','Wales',160
+2006,'Mixed','England',10400
+2006,'Mixed','Northern Ireland',90
+2006,'Mixed','Scotland',415
+2006,'Mixed','Wales',310
+2006,'White','England',250775
+2006,'White','Northern Ireland',16595
+2006,'White','Scotland',30850
+2006,'White','Wales',18245
+2006,'Other','England',4175
+2006,'Other','Northern Ireland',20
+2006,'Other','Scotland',85
+2006,'Other','Wales',70
+2006,'Unknown','England',4995
+2006,'Unknown','Northern Ireland',105
+2006,'Unknown','Scotland',335
+2006,'Unknown','Wales',215
+2007,'Asian','England',38100
+2007,'Asian','Northern Ireland',110
+2007,'Asian','Scotland',1230
+2007,'Asian','Wales',550
+2007,'Black','England',23715
+2007,'Black','Northern Ireland',25
+2007,'Black','Scotland',315
+2007,'Black','Wales',200
+2007,'Mixed','England',11920
+2007,'Mixed','Northern Ireland',75
+2007,'Mixed','Scotland',440
+2007,'Mixed','Wales',295
+2007,'White','England',266145
+2007,'White','Northern Ireland',16530
+2007,'White','Scotland',30610
+2007,'White','Wales',18315
+2007,'Other','England',4575
+2007,'Other','Northern Ireland',15
+2007,'Other','Scotland',95
+2007,'Other','Wales',100
+2007,'Unknown','England',5425
+2007,'Unknown','Northern Ireland',60
+2007,'Unknown','Scotland',300
+2007,'Unknown','Wales',160
+2008,'Asian','England',41870
+2008,'Asian','Northern Ireland',125
+2008,'Asian','Scotland',1335
+2008,'Asian','Wales',630
+2008,'Black','England',29255
+2008,'Black','Northern Ireland',30
+2008,'Black','Scotland',390
+2008,'Black','Wales',205
+2008,'Mixed','England',13740
+2008,'Mixed','Northern Ireland',115
+2008,'Mixed','Scotland',445
+2008,'Mixed','Wales',340
+2008,'White','England',294540
+2008,'White','Northern Ireland',16180
+2008,'White','Scotland',31265
+2008,'White','Wales',19140
+2008,'Other','England',4615
+2008,'Other','Northern Ireland',10
+2008,'Other','Scotland',95
+2008,'Other','Wales',100
+2008,'Unknown','England',4905
+2008,'Unknown','Northern Ireland',220
+2008,'Unknown','Scotland',360
+2008,'Unknown','Wales',155
+2009,'Asian','England',45510
+2009,'Asian','Northern Ireland',145
+2009,'Asian','Scotland',1495
+2009,'Asian','Wales',650
+2009,'Black','England',34550
+2009,'Black','Northern Ireland',30
+2009,'Black','Scotland',400
+2009,'Black','Wales',300
+2009,'Mixed','England',15575
+2009,'Mixed','Northern Ireland',125
+2009,'Mixed','Scotland',515
+2009,'Mixed','Wales',380
+2009,'White','England',323910
+2009,'White','Northern Ireland',17090
+2009,'White','Scotland',33180
+2009,'White','Wales',21265
+2009,'Other','England',5000
+2009,'Other','Northern Ireland',20
+2009,'Other','Scotland',110
+2009,'Other','Wales',95
+2009,'Unknown','England',3760
+2009,'Unknown','Northern Ireland',35
+2009,'Unknown','Scotland',195
+2009,'Unknown','Wales',135
+2010,'Asian','England',50430
+2010,'Asian','Northern Ireland',170
+2010,'Asian','Scotland',1660
+2010,'Asian','Wales',775
+2010,'Black','England',40675
+2010,'Black','Northern Ireland',45
+2010,'Black','Scotland',620
+2010,'Black','Wales',315
+2010,'Mixed','England',17810
+2010,'Mixed','Northern Ireland',125
+2010,'Mixed','Scotland',600
+2010,'Mixed','Wales',430
+2010,'White','England',354580
+2010,'White','Northern Ireland',18990
+2010,'White','Scotland',39845
+2010,'White','Wales',21840
+2010,'Other','England',5710
+2010,'Other','Northern Ireland',25
+2010,'Other','Scotland',110
+2010,'Other','Wales',115
+2010,'Unknown','England',4010
+2010,'Unknown','Northern Ireland',45
+2010,'Unknown','Scotland',205
+2010,'Unknown','Wales',115
+2011,'Asian','England',53455
+2011,'Asian','Northern Ireland',190
+2011,'Asian','Scotland',1745
+2011,'Asian','Wales',780
+2011,'Black','England',43460
+2011,'Black','Northern Ireland',55
+2011,'Black','Scotland',640
+2011,'Black','Wales',345
+2011,'Mixed','England',18770
+2011,'Mixed','Northern Ireland',155
+2011,'Mixed','Scotland',690
+2011,'Mixed','Wales',495
+2011,'White','England',351015
+2011,'White','Northern Ireland',19570
+2011,'White','Scotland',39990
+2011,'White','Wales',22060
+2011,'Other','England',6040
+2011,'Other','Northern Ireland',25
+2011,'Other','Scotland',130
+2011,'Other','Wales',110
+2011,'Unknown','England',3935
+2011,'Unknown','Northern Ireland',35
+2011,'Unknown','Scotland',195
+2011,'Unknown','Wales',125
+2012,'Asian','England',50220
+2012,'Asian','Northern Ireland',200
+2012,'Asian','Scotland',1775
+2012,'Asian','Wales',805
+2012,'Black','England',41090
+2012,'Black','Northern Ireland',50
+2012,'Black','Scotland',695
+2012,'Black','Wales',405
+2012,'Mixed','England',17230
+2012,'Mixed','Northern Ireland',115
+2012,'Mixed','Scotland',640
+2012,'Mixed','Wales',455
+2012,'White','England',310285
+2012,'White','Northern Ireland',18715
+2012,'White','Scotland',39015
+2012,'White','Wales',21305
+2012,'Other','England',6960
+2012,'Other','Northern Ireland',25
+2012,'Other','Scotland',185
+2012,'Other','Wales',160
+2012,'Unknown','England',3235
+2012,'Unknown','Northern Ireland',35
+2012,'Unknown','Scotland',170
+2012,'Unknown','Wales',95
+2013,'Asian','England',51985
+2013,'Asian','Northern Ireland',210
+2013,'Asian','Scotland',1805
+2013,'Asian','Wales',775
+2013,'Black','England',41065
+2013,'Black','Northern Ireland',65
+2013,'Black','Scotland',650
+2013,'Black','Wales',385
+2013,'Mixed','England',18225
+2013,'Mixed','Northern Ireland',140
+2013,'Mixed','Scotland',660
+2013,'Mixed','Wales',450
+2013,'White','England',320245
+2013,'White','Northern Ireland',19820
+2013,'White','Scotland',39380
+2013,'White','Wales',20795
+2013,'Other','England',7030
+2013,'Other','Northern Ireland',30
+2013,'Other','Scotland',205
+2013,'Other','Wales',155
+2013,'Unknown','England',3210
+2013,'Unknown','Northern Ireland',30
+2013,'Unknown','Scotland',225
+2013,'Unknown','Wales',100
+2014,'Asian','England',54780
+2014,'Asian','Northern Ireland',210
+2014,'Asian','Scotland',1880
+2014,'Asian','Wales',885
+2014,'Black','England',43110
+2014,'Black','Northern Ireland',80
+2014,'Black','Scotland',695
+2014,'Black','Wales',405
+2014,'Mixed','England',19820
+2014,'Mixed','Northern Ireland',145
+2014,'Mixed','Scotland',650
+2014,'Mixed','Wales',500
+2014,'White','England',328220
+2014,'White','Northern Ireland',19790
+2014,'White','Scotland',40270
+2014,'White','Wales',21330
+2014,'Other','England',7745
+2014,'Other','Northern Ireland',35
+2014,'Other','Scotland',215
+2014,'Other','Wales',215
+2014,'Unknown','England',3200
+2014,'Unknown','Northern Ireland',30
+2014,'Unknown','Scotland',200
+2014,'Unknown','Wales',110
+2015,'Asian','England',57305
+2015,'Asian','Northern Ireland',245
+2015,'Asian','Scotland',2085
+2015,'Asian','Wales',890
+2015,'Black','England',44205
+2015,'Black','Northern Ireland',65
+2015,'Black','Scotland',815
+2015,'Black','Wales',405
+2015,'Mixed','England',20985
+2015,'Mixed','Northern Ireland',175
+2015,'Mixed','Scotland',810
+2015,'Mixed','Wales',545
+2015,'White','England',325900
+2015,'White','Northern Ireland',20230
+2015,'White','Scotland',44220
+2015,'White','Wales',21385
+2015,'Other','England',8225
+2015,'Other','Northern Ireland',25
+2015,'Other','Scotland',270
+2015,'Other','Wales',185
+2015,'Unknown','England',4060
+2015,'Unknown','Northern Ireland',65
+2015,'Unknown','Scotland',295
+2015,'Unknown','Wales',125

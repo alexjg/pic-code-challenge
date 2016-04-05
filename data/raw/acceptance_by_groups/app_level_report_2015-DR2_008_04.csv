@@ -1,0 +1,93 @@
+"Statistic:   Number of Applicants"
+"Variables:   Acceptance Route , Cycle Year"
+"Coverage:   All                                                                                                                                                                                                     "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_008_04.pdf"
+ 
+Cycle Year,Acceptance Route,Number of Applicants,
+2006,'Firm choice',286305
+2006,'Insurance choice',21820
+2006,'Other main scheme choice',16945
+2006,'Extra',3260
+2006,'Main scheme Clearing',28790
+2006,'Direct Clearing',9240
+2006,'RPA',24525
+2006,'Unplaced',115415
+2007,'Firm choice',302980
+2007,'Insurance choice',23750
+2007,'Other main scheme choice',17105
+2007,'Extra',3765
+2007,'Main scheme Clearing',29680
+2007,'Direct Clearing',9175
+2007,'RPA',26970
+2007,'Unplaced',121065
+2008,'Firm choice',330215
+2008,'Insurance choice',27200
+2008,'Other main scheme choice',17695
+2008,'Extra',5325
+2008,'Main scheme Clearing',33260
+2008,'Direct Clearing',10630
+2008,'RPA',32305
+2008,'Unplaced',132060
+2009,'Firm choice',343460
+2009,'Insurance choice',33300
+2009,'Other main scheme choice',22525
+2009,'Extra',5620
+2009,'Adjustment',380
+2009,'Main scheme Clearing',36865
+2009,'Direct Clearing',10810
+2009,'RPA',28895
+2009,'Unplaced',158005
+2010,'Firm choice',358805
+2010,'Insurance choice',37465
+2010,'Other main scheme choice',13725
+2010,'Extra',7020
+2010,'Adjustment',375
+2010,'Main scheme Clearing',38960
+2010,'Direct Clearing',7965
+2010,'RPA',23015
+2010,'Unplaced',210020
+2011,'Firm choice',360770
+2011,'Insurance choice',40380
+2011,'Other main scheme choice',14190
+2011,'Extra',9535
+2011,'Adjustment',550
+2011,'Main scheme Clearing',43040
+2011,'Direct Clearing',8130
+2011,'RPA',15430
+2011,'Unplaced',208130
+2012,'Firm choice',341300
+2012,'Insurance choice',30000
+2012,'Other main scheme choice',11235
+2012,'Extra',7860
+2012,'Adjustment',1330
+2012,'Main scheme Clearing',43425
+2012,'Direct Clearing',12295
+2012,'RPA',17465
+2012,'Unplaced',188725
+2013,'Firm choice',363255
+2013,'Insurance choice',32845
+2013,'Other main scheme choice',14280
+2013,'Extra',7815
+2013,'Adjustment',1220
+2013,'Main scheme Clearing',42285
+2013,'Direct Clearing',14815
+2013,'RPA',19080
+2013,'Unplaced',181775
+2014,'Firm choice',372160
+2014,'Insurance choice',36740
+2014,'Other main scheme choice',13600
+2014,'Extra',7620
+2014,'Adjustment',1160
+2014,'Main scheme Clearing',47505
+2014,'Direct Clearing',13800
+2014,'RPA',19785
+2014,'Unplaced',187315
+2015,'Firm choice',384130
+2015,'Insurance choice',39490
+2015,'Other main scheme choice',13380
+2015,'Extra',7490
+2015,'Adjustment',1135
+2015,'Main scheme Clearing',49130
+2015,'Direct Clearing',15210
+2015,'RPA',22300
+2015,'Unplaced',186215

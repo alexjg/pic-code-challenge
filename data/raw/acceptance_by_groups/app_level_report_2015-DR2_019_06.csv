@@ -1,0 +1,66 @@
+"Statistic:   Number of Applicants"
+"Variables:   Ethnic Group (Summary Level) , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_019_06.pdf"
+ 
+Cycle Year,Ethnic Group (Summary Level),Number of Applicants,
+2006,'Asian',39730
+2006,'Black',21935
+2006,'Mixed',11220
+2006,'White',316465
+2006,'Other',4350
+2006,'Unknown',5650
+2007,'Asian',39990
+2007,'Black',24255
+2007,'Mixed',12730
+2007,'White',331605
+2007,'Other',4780
+2007,'Unknown',5945
+2008,'Asian',43960
+2008,'Black',29880
+2008,'Mixed',14645
+2008,'White',361125
+2008,'Other',4820
+2008,'Unknown',5645
+2009,'Asian',47805
+2009,'Black',35280
+2009,'Mixed',16590
+2009,'White',395450
+2009,'Other',5220
+2009,'Unknown',4130
+2010,'Asian',53040
+2010,'Black',41655
+2010,'Mixed',18965
+2010,'White',435250
+2010,'Other',5955
+2010,'Unknown',4380
+2011,'Asian',56170
+2011,'Black',44500
+2011,'Mixed',20110
+2011,'White',432635
+2011,'Other',6300
+2011,'Unknown',4295
+2012,'Asian',53005
+2012,'Black',42245
+2012,'Mixed',18445
+2012,'White',389320
+2012,'Other',7325
+2012,'Unknown',3535
+2013,'Asian',54770
+2013,'Black',42165
+2013,'Mixed',19480
+2013,'White',400240
+2013,'Other',7415
+2013,'Unknown',3565
+2014,'Asian',57755
+2014,'Black',44290
+2014,'Mixed',21120
+2014,'White',409610
+2014,'Other',8210
+2014,'Unknown',3535
+2015,'Asian',60525
+2015,'Black',45490
+2015,'Mixed',22515
+2015,'White',411730
+2015,'Other',8705
+2015,'Unknown',4545

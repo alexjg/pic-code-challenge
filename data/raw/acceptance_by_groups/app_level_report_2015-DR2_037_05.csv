@@ -1,0 +1,66 @@
+"Statistic:   Number of Acceptances"
+"Variables:   POLAR3 Quintile , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled 18 year olds"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_037_05.pdf"
+ 
+Cycle Year,POLAR3 Quintile,Number of Acceptances,
+2006,'POLAR3 Quintile 1',16275
+2006,'POLAR3 Quintile 2',26280
+2006,'POLAR3 Quintile 3',35420
+2006,'POLAR3 Quintile 4',45925
+2006,'POLAR3 Quintile 5',65925
+2006,'Not assigned',1275
+2007,'POLAR3 Quintile 1',16415
+2007,'POLAR3 Quintile 2',26195
+2007,'POLAR3 Quintile 3',35475
+2007,'POLAR3 Quintile 4',46650
+2007,'POLAR3 Quintile 5',65860
+2007,'Not assigned',935
+2008,'POLAR3 Quintile 1',17865
+2008,'POLAR3 Quintile 2',28265
+2008,'POLAR3 Quintile 3',37205
+2008,'POLAR3 Quintile 4',48795
+2008,'POLAR3 Quintile 5',68195
+2008,'Not assigned',3300
+2009,'POLAR3 Quintile 1',19420
+2009,'POLAR3 Quintile 2',30295
+2009,'POLAR3 Quintile 3',39585
+2009,'POLAR3 Quintile 4',50785
+2009,'POLAR3 Quintile 5',70580
+2009,'Not assigned',620
+2010,'POLAR3 Quintile 1',20415
+2010,'POLAR3 Quintile 2',30340
+2010,'POLAR3 Quintile 3',39850
+2010,'POLAR3 Quintile 4',50945
+2010,'POLAR3 Quintile 5',69505
+2010,'Not assigned',445
+2011,'POLAR3 Quintile 1',20870
+2011,'POLAR3 Quintile 2',31405
+2011,'POLAR3 Quintile 3',40590
+2011,'POLAR3 Quintile 4',51620
+2011,'POLAR3 Quintile 5',71365
+2011,'Not assigned',415
+2012,'POLAR3 Quintile 1',20745
+2012,'POLAR3 Quintile 2',30685
+2012,'POLAR3 Quintile 3',39650
+2012,'POLAR3 Quintile 4',49485
+2012,'POLAR3 Quintile 5',68600
+2012,'Not assigned',370
+2013,'POLAR3 Quintile 1',21745
+2013,'POLAR3 Quintile 2',32290
+2013,'POLAR3 Quintile 3',41375
+2013,'POLAR3 Quintile 4',51135
+2013,'POLAR3 Quintile 5',69415
+2013,'Not assigned',345
+2014,'POLAR3 Quintile 1',23685
+2014,'POLAR3 Quintile 2',33765
+2014,'POLAR3 Quintile 3',42590
+2014,'POLAR3 Quintile 4',51530
+2014,'POLAR3 Quintile 5',70200
+2014,'Not assigned',395
+2015,'POLAR3 Quintile 1',24630
+2015,'POLAR3 Quintile 2',35385
+2015,'POLAR3 Quintile 3',44785
+2015,'POLAR3 Quintile 4',54210
+2015,'POLAR3 Quintile 5',72730
+2015,'Not assigned',545

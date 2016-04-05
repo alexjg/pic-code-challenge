@@ -1,0 +1,406 @@
+"Statistic:   Number of Applicants"
+"Variables:   Sex , Age Band , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   UK domiciled                                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_018_04.pdf"
+ 
+Cycle Year,Sex , Age Band , Applicant Domicile (High Level),Number of Applicants,
+2006,'Men','17 and under','England',685
+2006,'Men','17 and under','Northern Ireland',35
+2006,'Men','17 and under','Scotland',520
+2006,'Men','17 and under','Wales',25
+2006,'Men','18','England',84640
+2006,'Men','18','Northern Ireland',4840
+2006,'Men','18','Scotland',7890
+2006,'Men','18','Wales',4935
+2006,'Men','19','England',27640
+2006,'Men','19','Northern Ireland',885
+2006,'Men','19','Scotland',1835
+2006,'Men','19','Wales',1365
+2006,'Men','20','England',11920
+2006,'Men','20','Northern Ireland',470
+2006,'Men','20','Scotland',1195
+2006,'Men','20','Wales',575
+2006,'Men','21 and over','England',34070
+2006,'Men','21 and over','Northern Ireland',1085
+2006,'Men','21 and over','Scotland',4140
+2006,'Men','21 and over','Wales',1885
+2006,'Women','17 and under','England',730
+2006,'Women','17 and under','Northern Ireland',45
+2006,'Women','17 and under','Scotland',780
+2006,'Women','17 and under','Wales',35
+2006,'Women','18','England',104535
+2006,'Women','18','Northern Ireland',6610
+2006,'Women','18','Scotland',9940
+2006,'Women','18','Wales',6540
+2006,'Women','19','England',31445
+2006,'Women','19','Northern Ireland',1170
+2006,'Women','19','Scotland',2295
+2006,'Women','19','Wales',1825
+2006,'Women','20','England',12085
+2006,'Women','20','Northern Ireland',490
+2006,'Women','20','Scotland',1440
+2006,'Women','20','Wales',705
+2006,'Women','21 and over','England',48890
+2006,'Women','21 and over','Northern Ireland',1665
+2006,'Women','21 and over','Scotland',5395
+2006,'Women','21 and over','Wales',3510
+2007,'Men','17 and under','England',685
+2007,'Men','17 and under','Northern Ireland',30
+2007,'Men','17 and under','Scotland',540
+2007,'Men','17 and under','Wales',35
+2007,'Men','18','England',85635
+2007,'Men','18','Northern Ireland',4700
+2007,'Men','18','Scotland',7460
+2007,'Men','18','Wales',4740
+2007,'Men','19','England',33575
+2007,'Men','19','Northern Ireland',925
+2007,'Men','19','Scotland',1990
+2007,'Men','19','Wales',1620
+2007,'Men','20','England',12765
+2007,'Men','20','Northern Ireland',435
+2007,'Men','20','Scotland',1250
+2007,'Men','20','Wales',655
+2007,'Men','21 and over','England',35190
+2007,'Men','21 and over','Northern Ireland',1035
+2007,'Men','21 and over','Scotland',4405
+2007,'Men','21 and over','Wales',1910
+2007,'Women','17 and under','England',845
+2007,'Women','17 and under','Northern Ireland',35
+2007,'Women','17 and under','Scotland',770
+2007,'Women','17 and under','Wales',40
+2007,'Women','18','England',106465
+2007,'Women','18','Northern Ireland',6435
+2007,'Women','18','Scotland',9585
+2007,'Women','18','Wales',6245
+2007,'Women','19','England',38495
+2007,'Women','19','Northern Ireland',1400
+2007,'Women','19','Scotland',2410
+2007,'Women','19','Wales',1965
+2007,'Women','20','England',13260
+2007,'Women','20','Northern Ireland',490
+2007,'Women','20','Scotland',1555
+2007,'Women','20','Wales',695
+2007,'Women','21 and over','England',51755
+2007,'Women','21 and over','Northern Ireland',1665
+2007,'Women','21 and over','Scotland',5530
+2007,'Women','21 and over','Wales',3520
+2008,'Men','17 and under','England',695
+2008,'Men','17 and under','Northern Ireland',25
+2008,'Men','17 and under','Scotland',560
+2008,'Men','17 and under','Wales',25
+2008,'Men','18','England',89765
+2008,'Men','18','Northern Ireland',4550
+2008,'Men','18','Scotland',7975
+2008,'Men','18','Wales',4830
+2008,'Men','19','England',35895
+2008,'Men','19','Northern Ireland',955
+2008,'Men','19','Scotland',1985
+2008,'Men','19','Wales',1675
+2008,'Men','20','England',15200
+2008,'Men','20','Northern Ireland',520
+2008,'Men','20','Scotland',1325
+2008,'Men','20','Wales',725
+2008,'Men','21 and over','England',40610
+2008,'Men','21 and over','Northern Ireland',1110
+2008,'Men','21 and over','Scotland',4955
+2008,'Men','21 and over','Wales',2200
+2008,'Women','17 and under','England',1065
+2008,'Women','17 and under','Northern Ireland',30
+2008,'Women','17 and under','Scotland',760
+2008,'Women','17 and under','Wales',40
+2008,'Women','18','England',113825
+2008,'Women','18','Northern Ireland',6390
+2008,'Women','18','Scotland',10140
+2008,'Women','18','Wales',6590
+2008,'Women','19','England',42640
+2008,'Women','19','Northern Ireland',1355
+2008,'Women','19','Scotland',2500
+2008,'Women','19','Wales',2130
+2008,'Women','20','England',16965
+2008,'Women','20','Northern Ireland',545
+2008,'Women','20','Scotland',1670
+2008,'Women','20','Wales',870
+2008,'Women','21 and over','England',66540
+2008,'Women','21 and over','Northern Ireland',1630
+2008,'Women','21 and over','Scotland',6165
+2008,'Women','21 and over','Wales',3635
+2009,'Men','17 and under','England',675
+2009,'Men','17 and under','Northern Ireland',30
+2009,'Men','17 and under','Scotland',560
+2009,'Men','17 and under','Wales',25
+2009,'Men','18','England',95590
+2009,'Men','18','Northern Ireland',4965
+2009,'Men','18','Scotland',8310
+2009,'Men','18','Wales',5270
+2009,'Men','19','England',39375
+2009,'Men','19','Northern Ireland',975
+2009,'Men','19','Scotland',2315
+2009,'Men','19','Wales',1875
+2009,'Men','20','England',16335
+2009,'Men','20','Northern Ireland',515
+2009,'Men','20','Scotland',1410
+2009,'Men','20','Wales',820
+2009,'Men','21 and over','England',47650
+2009,'Men','21 and over','Northern Ireland',1275
+2009,'Men','21 and over','Scotland',5545
+2009,'Men','21 and over','Wales',2650
+2009,'Women','17 and under','England',1035
+2009,'Women','17 and under','Northern Ireland',30
+2009,'Women','17 and under','Scotland',735
+2009,'Women','17 and under','Wales',35
+2009,'Women','18','England',119200
+2009,'Women','18','Northern Ireland',6630
+2009,'Women','18','Scotland',10195
+2009,'Women','18','Wales',6925
+2009,'Women','19','England',45595
+2009,'Women','19','Northern Ireland',1245
+2009,'Women','19','Scotland',2700
+2009,'Women','19','Wales',2220
+2009,'Women','20','England',17980
+2009,'Women','20','Northern Ireland',570
+2009,'Women','20','Scotland',1730
+2009,'Women','20','Wales',930
+2009,'Women','21 and over','England',76620
+2009,'Women','21 and over','Northern Ireland',1625
+2009,'Women','21 and over','Scotland',6550
+2009,'Women','21 and over','Wales',4195
+2010,'Men','17 and under','England',600
+2010,'Men','17 and under','Northern Ireland',25
+2010,'Men','17 and under','Scotland',435
+2010,'Men','17 and under','Wales',20
+2010,'Men','18','England',101355
+2010,'Men','18','Northern Ireland',5240
+2010,'Men','18','Scotland',8685
+2010,'Men','18','Wales',5200
+2010,'Men','19','England',43225
+2010,'Men','19','Northern Ireland',1230
+2010,'Men','19','Scotland',2535
+2010,'Men','19','Wales',1885
+2010,'Men','20','England',17325
+2010,'Men','20','Northern Ireland',625
+2010,'Men','20','Scotland',1535
+2010,'Men','20','Wales',810
+2010,'Men','21 and over','England',51165
+2010,'Men','21 and over','Northern Ireland',1505
+2010,'Men','21 and over','Scotland',6060
+2010,'Men','21 and over','Wales',2625
+2010,'Women','17 and under','England',955
+2010,'Women','17 and under','Northern Ireland',35
+2010,'Women','17 and under','Scotland',695
+2010,'Women','17 and under','Wales',40
+2010,'Women','18','England',124640
+2010,'Women','18','Northern Ireland',6845
+2010,'Women','18','Scotland',11520
+2010,'Women','18','Wales',6865
+2010,'Women','19','England',49885
+2010,'Women','19','Northern Ireland',1460
+2010,'Women','19','Scotland',3360
+2010,'Women','19','Wales',2360
+2010,'Women','20','England',19430
+2010,'Women','20','Northern Ireland',625
+2010,'Women','20','Scotland',2055
+2010,'Women','20','Wales',890
+2010,'Women','21 and over','England',85785
+2010,'Women','21 and over','Northern Ireland',2090
+2010,'Women','21 and over','Scotland',9470
+2010,'Women','21 and over','Wales',4215
+2011,'Men','17 and under','England',550
+2011,'Men','17 and under','Northern Ireland',20
+2011,'Men','17 and under','Scotland',405
+2011,'Men','17 and under','Wales',20
+2011,'Men','18','England',101195
+2011,'Men','18','Northern Ireland',5230
+2011,'Men','18','Scotland',8445
+2011,'Men','18','Wales',5075
+2011,'Men','19','England',45165
+2011,'Men','19','Northern Ireland',1420
+2011,'Men','19','Scotland',2445
+2011,'Men','19','Wales',1970
+2011,'Men','20','England',17950
+2011,'Men','20','Northern Ireland',665
+2011,'Men','20','Scotland',1575
+2011,'Men','20','Wales',830
+2011,'Men','21 and over','England',50480
+2011,'Men','21 and over','Northern Ireland',1575
+2011,'Men','21 and over','Scotland',6285
+2011,'Men','21 and over','Wales',2505
+2011,'Women','17 and under','England',770
+2011,'Women','17 and under','Northern Ireland',25
+2011,'Women','17 and under','Scotland',595
+2011,'Women','17 and under','Wales',35
+2011,'Women','18','England',124740
+2011,'Women','18','Northern Ireland',6750
+2011,'Women','18','Scotland',11110
+2011,'Women','18','Wales',6655
+2011,'Women','19','England',51885
+2011,'Women','19','Northern Ireland',1745
+2011,'Women','19','Scotland',3385
+2011,'Women','19','Wales',2490
+2011,'Women','20','England',19675
+2011,'Women','20','Northern Ireland',690
+2011,'Women','20','Scotland',2185
+2011,'Women','20','Wales',1000
+2011,'Women','21 and over','England',84220
+2011,'Women','21 and over','Northern Ireland',2125
+2011,'Women','21 and over','Scotland',9585
+2011,'Women','21 and over','Wales',4395
+2012,'Men','17 and under','England',485
+2012,'Men','17 and under','Northern Ireland',20
+2012,'Men','17 and under','Scotland',395
+2012,'Men','17 and under','Wales',20
+2012,'Men','18','England',96575
+2012,'Men','18','Northern Ireland',5000
+2012,'Men','18','Scotland',8270
+2012,'Men','18','Wales',4905
+2012,'Men','19','England',37475
+2012,'Men','19','Northern Ireland',1250
+2012,'Men','19','Scotland',2580
+2012,'Men','19','Wales',1970
+2012,'Men','20','England',15710
+2012,'Men','20','Northern Ireland',680
+2012,'Men','20','Scotland',1665
+2012,'Men','20','Wales',885
+2012,'Men','21 and over','England',44800
+2012,'Men','21 and over','Northern Ireland',1490
+2012,'Men','21 and over','Scotland',6000
+2012,'Men','21 and over','Wales',2495
+2012,'Women','17 and under','England',545
+2012,'Women','17 and under','Northern Ireland',35
+2012,'Women','17 and under','Scotland',565
+2012,'Women','17 and under','Wales',15
+2012,'Women','18','England',120985
+2012,'Women','18','Northern Ireland',6715
+2012,'Women','18','Scotland',11195
+2012,'Women','18','Wales',6715
+2012,'Women','19','England',43115
+2012,'Women','19','Northern Ireland',1555
+2012,'Women','19','Scotland',3475
+2012,'Women','19','Wales',2405
+2012,'Women','20','England',17310
+2012,'Women','20','Northern Ireland',710
+2012,'Women','20','Scotland',2160
+2012,'Women','20','Wales',1000
+2012,'Women','21 and over','England',77005
+2012,'Women','21 and over','Northern Ireland',1920
+2012,'Women','21 and over','Scotland',8810
+2012,'Women','21 and over','Wales',4435
+2013,'Men','17 and under','England',505
+2013,'Men','17 and under','Northern Ireland',20
+2013,'Men','17 and under','Scotland',340
+2013,'Men','17 and under','Wales',25
+2013,'Men','18','England',97990
+2013,'Men','18','Northern Ireland',5175
+2013,'Men','18','Scotland',8305
+2013,'Men','18','Wales',4815
+2013,'Men','19','England',42710
+2013,'Men','19','Northern Ireland',1365
+2013,'Men','19','Scotland',2515
+2013,'Men','19','Wales',1985
+2013,'Men','20','England',16030
+2013,'Men','20','Northern Ireland',805
+2013,'Men','20','Scotland',1855
+2013,'Men','20','Wales',825
+2013,'Men','21 and over','England',45820
+2013,'Men','21 and over','Northern Ireland',1665
+2013,'Men','21 and over','Scotland',6315
+2013,'Men','21 and over','Wales',2550
+2013,'Women','17 and under','England',565
+2013,'Women','17 and under','Northern Ireland',20
+2013,'Women','17 and under','Scotland',470
+2013,'Women','17 and under','Wales',30
+2013,'Women','18','England',122395
+2013,'Women','18','Northern Ireland',6545
+2013,'Women','18','Scotland',11115
+2013,'Women','18','Wales',6505
+2013,'Women','19','England',48510
+2013,'Women','19','Northern Ireland',1730
+2013,'Women','19','Scotland',3375
+2013,'Women','19','Wales',2465
+2013,'Women','20','England',18035
+2013,'Women','20','Northern Ireland',725
+2013,'Women','20','Scotland',2315
+2013,'Women','20','Wales',970
+2013,'Women','21 and over','England',78565
+2013,'Women','21 and over','Northern Ireland',2495
+2013,'Women','21 and over','Scotland',9115
+2013,'Women','21 and over','Wales',4430
+2014,'Men','17 and under','England',505
+2014,'Men','17 and under','Northern Ireland',10
+2014,'Men','17 and under','Scotland',275
+2014,'Men','17 and under','Wales',15
+2014,'Men','18','England',100710
+2014,'Men','18','Northern Ireland',5100
+2014,'Men','18','Scotland',8070
+2014,'Men','18','Wales',5045
+2014,'Men','19','England',43035
+2014,'Men','19','Northern Ireland',1480
+2014,'Men','19','Scotland',2370
+2014,'Men','19','Wales',1995
+2014,'Men','20','England',16960
+2014,'Men','20','Northern Ireland',815
+2014,'Men','20','Scotland',1715
+2014,'Men','20','Wales',800
+2014,'Men','21 and over','England',48175
+2014,'Men','21 and over','Northern Ireland',1655
+2014,'Men','21 and over','Scotland',5900
+2014,'Men','21 and over','Wales',2455
+2014,'Women','17 and under','England',610
+2014,'Women','17 and under','Northern Ireland',20
+2014,'Women','17 and under','Scotland',440
+2014,'Women','17 and under','Wales',20
+2014,'Women','18','England',125405
+2014,'Women','18','Northern Ireland',6415
+2014,'Women','18','Scotland',11345
+2014,'Women','18','Wales',6670
+2014,'Women','19','England',49830
+2014,'Women','19','Northern Ireland',1720
+2014,'Women','19','Scotland',3255
+2014,'Women','19','Wales',2535
+2014,'Women','20','England',19390
+2014,'Women','20','Northern Ireland',855
+2014,'Women','20','Scotland',2225
+2014,'Women','20','Wales',950
+2014,'Women','21 and over','England',83250
+2014,'Women','21 and over','Northern Ireland',2510
+2014,'Women','21 and over','Scotland',9185
+2014,'Women','21 and over','Wales',4580
+2015,'Men','17 and under','England',550
+2015,'Men','17 and under','Northern Ireland',15
+2015,'Men','17 and under','Scotland',345
+2015,'Men','17 and under','Wales',5
+2015,'Men','18','England',103155
+2015,'Men','18','Northern Ireland',5145
+2015,'Men','18','Scotland',8345
+2015,'Men','18','Wales',5085
+2015,'Men','19','England',43805
+2015,'Men','19','Northern Ireland',1490
+2015,'Men','19','Scotland',2570
+2015,'Men','19','Wales',2030
+2015,'Men','20','England',16500
+2015,'Men','20','Northern Ireland',745
+2015,'Men','20','Scotland',1825
+2015,'Men','20','Wales',815
+2015,'Men','21 and over','England',47000
+2015,'Men','21 and over','Northern Ireland',1705
+2015,'Men','21 and over','Scotland',7395
+2015,'Men','21 and over','Wales',2310
+2015,'Women','17 and under','England',580
+2015,'Women','17 and under','Northern Ireland',20
+2015,'Women','17 and under','Scotland',545
+2015,'Women','17 and under','Wales',20
+2015,'Women','18','England',132070
+2015,'Women','18','Northern Ireland',6845
+2015,'Women','18','Scotland',11660
+2015,'Women','18','Wales',7065
+2015,'Women','19','England',50565
+2015,'Women','19','Northern Ireland',1735
+2015,'Women','19','Scotland',3515
+2015,'Women','19','Wales',2415
+2015,'Women','20','England',18655
+2015,'Women','20','Northern Ireland',780
+2015,'Women','20','Scotland',2325
+2015,'Women','20','Wales',985
+2015,'Women','21 and over','England',81615
+2015,'Women','21 and over','Northern Ireland',2555
+2015,'Women','21 and over','Scotland',12775
+2015,'Women','21 and over','Wales',4470

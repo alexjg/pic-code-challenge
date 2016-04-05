@@ -1,0 +1,69 @@
+"Statistic:   Number of Applicants"
+"Variables:   Apply Centre Type , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled 18/19 year olds                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_030_06.pdf"
+ 
+Cycle Year,Apply Centre Type,Number of Applicants,
+2007,'Academy',64730
+2007,'Further education',40190
+2007,'Grammar',12330
+2007,'Independent',32990
+2007,'Sixth form college',54840
+2007,'State',76635
+2007,'Other',23120
+2008,'Academy',70655
+2008,'Further education',42910
+2008,'Grammar',12610
+2008,'Independent',35315
+2008,'Sixth form college',60385
+2008,'State',82155
+2008,'Other',19185
+2009,'Academy',75705
+2009,'Further education',47445
+2009,'Grammar',12915
+2009,'Independent',36415
+2009,'Sixth form college',65990
+2009,'State',85900
+2009,'Other',20075
+2010,'Academy',81450
+2010,'Further education',50310
+2010,'Grammar',13100
+2010,'Independent',36970
+2010,'Sixth form college',69955
+2010,'State',89070
+2010,'Other',29890
+2011,'Academy',83480
+2011,'Further education',46800
+2011,'Grammar',13065
+2011,'Independent',35590
+2011,'Sixth form college',70530
+2011,'State',87385
+2011,'Other',38090
+2012,'Academy',78875
+2012,'Further education',42175
+2012,'Grammar',12495
+2012,'Independent',34085
+2012,'Sixth form college',65050
+2012,'State',81355
+2012,'Other',32915
+2013,'Academy',84760
+2013,'Further education',44620
+2013,'Grammar',12760
+2013,'Independent',33710
+2013,'Sixth form college',65920
+2013,'State',82195
+2013,'Other',34920
+2014,'Academy',86425
+2014,'Further education',46480
+2014,'Grammar',12775
+2014,'Independent',33795
+2014,'Sixth form college',67585
+2014,'State',84140
+2014,'Other',36195
+2015,'Academy',91170
+2015,'Further education',46190
+2015,'Grammar',12860
+2015,'Independent',34930
+2015,'Sixth form college',69835
+2015,'State',86475
+2015,'Other',36860

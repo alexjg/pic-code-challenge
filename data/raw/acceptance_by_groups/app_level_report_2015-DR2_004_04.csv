@@ -1,0 +1,134 @@
+"Statistic:   Number of Applicants"
+"Variables:   Applicant Domicile (Region) , Cycle Year"
+"Coverage:   UK domiciled                                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_004_04.pdf"
+ 
+Cycle Year,Applicant Domicile (Region),Number of Applicants,
+2006,'North East',16125
+2006,'Yorkshire and The Humber',32585
+2006,'North West',48665
+2006,'East Midlands',26650
+2006,'West Midlands',36305
+2006,'East of England',34990
+2006,'London',70115
+2006,'South East',56795
+2006,'South West',33775
+2006,'Wales',21405
+2006,'Scotland',35430
+2006,'Northern Ireland',17295
+2006,'Unknown',635
+2007,'North East',16585
+2007,'Yorkshire and The Humber',34150
+2007,'North West',51525
+2007,'East Midlands',28550
+2007,'West Midlands',38725
+2007,'East of England',38035
+2007,'London',74065
+2007,'South East',60565
+2007,'South West',35655
+2007,'Wales',21425
+2007,'Scotland',35495
+2007,'Northern Ireland',17150
+2007,'Unknown',810
+2008,'North East',18505
+2008,'Yorkshire and The Humber',38435
+2008,'North West',57825
+2008,'East Midlands',32765
+2008,'West Midlands',43640
+2008,'East of England',42450
+2008,'London',82445
+2008,'South East',67225
+2008,'South West',39485
+2008,'Wales',22715
+2008,'Scotland',38035
+2008,'Northern Ireland',17115
+2008,'Unknown',435
+2009,'North East',19890
+2009,'Yorkshire and The Humber',42475
+2009,'North West',64170
+2009,'East Midlands',35090
+2009,'West Midlands',48445
+2009,'East of England',46220
+2009,'London',88720
+2009,'South East',71965
+2009,'South West',42815
+2009,'Wales',24945
+2009,'Scotland',40055
+2009,'Northern Ireland',17865
+2009,'Unknown',260
+2010,'North East',21660
+2010,'Yorkshire and The Humber',44850
+2010,'North West',68395
+2010,'East Midlands',38125
+2010,'West Midlands',51170
+2010,'East of England',50005
+2010,'London',96695
+2010,'South East',78255
+2010,'South West',45195
+2010,'Wales',24910
+2010,'Scotland',46345
+2010,'Northern Ireland',19680
+2010,'Unknown',20
+2011,'North East',22030
+2011,'Yorkshire and The Humber',45070
+2011,'North West',68205
+2011,'East Midlands',37925
+2011,'West Midlands',50515
+2011,'East of England',50390
+2011,'London',99670
+2011,'South East',77685
+2011,'South West',45145
+2011,'Wales',24975
+2011,'Scotland',46015
+2011,'Northern Ireland',20240
+2012,'North East',19755
+2012,'Yorkshire and The Humber',42110
+2012,'North West',62255
+2012,'East Midlands',34390
+2012,'West Midlands',47870
+2012,'East of England',45970
+2012,'London',91300
+2012,'South East',70170
+2012,'South West',40180
+2012,'Wales',24845
+2012,'Scotland',45115
+2012,'Northern Ireland',19375
+2013,'North East',20745
+2013,'Yorkshire and The Humber',43050
+2013,'North West',64410
+2013,'East Midlands',35400
+2013,'West Midlands',49945
+2013,'East of England',47870
+2013,'London',94900
+2013,'South East',72690
+2013,'South West',42080
+2013,'Wales',24595
+2013,'Scotland',45720
+2013,'Northern Ireland',20545
+2013,'Unknown',35
+2014,'North East',20785
+2014,'Yorkshire and The Humber',44320
+2014,'North West',66665
+2014,'East Midlands',36300
+2014,'West Midlands',51625
+2014,'East of England',49045
+2014,'London',100875
+2014,'South East',74750
+2014,'South West',43400
+2014,'Wales',25065
+2014,'Scotland',44785
+2014,'Northern Ireland',20570
+2014,'Unknown',110
+2015,'North East',20925
+2015,'Yorkshire and The Humber',44780
+2015,'North West',66550
+2015,'East Midlands',36085
+2015,'West Midlands',52380
+2015,'East of England',49730
+2015,'London',103750
+2015,'South East',76005
+2015,'South West',44205
+2015,'Wales',25200
+2015,'Scotland',51295
+2015,'Northern Ireland',21030
+2015,'Unknown',90

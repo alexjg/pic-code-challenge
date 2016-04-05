@@ -1,0 +1,66 @@
+"Statistic:   Number of Applicants"
+"Variables:   Disability Indicator , Age Band , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_027_06.pdf"
+ 
+Cycle Year,Disability Indicator , Age Band,Number of Applicants,
+2010,'Disability declared','17 and under',115
+2010,'Disability declared','18',13970
+2010,'Disability declared','19',7440
+2010,'Disability declared','20',3180
+2010,'Disability declared','21 and over',12275
+2010,'No disability declared','17 and under',2440
+2010,'No disability declared','18',254400
+2010,'No disability declared','19',94935
+2010,'No disability declared','20',36715
+2010,'No disability declared','21 and over',133775
+2011,'Disability declared','17 and under',105
+2011,'Disability declared','18',14705
+2011,'Disability declared','19',8145
+2011,'Disability declared','20',3475
+2011,'Disability declared','21 and over',12755
+2011,'No disability declared','17 and under',2160
+2011,'No disability declared','18',252705
+2011,'No disability declared','19',99390
+2011,'No disability declared','20',38180
+2011,'No disability declared','21 and over',132405
+2012,'Disability declared','17 and under',105
+2012,'Disability declared','18',15140
+2012,'Disability declared','19',7505
+2012,'Disability declared','20',3230
+2012,'Disability declared','21 and over',12070
+2012,'No disability declared','17 and under',1720
+2012,'No disability declared','18',242290
+2012,'No disability declared','19',82015
+2012,'No disability declared','20',33115
+2012,'No disability declared','21 and over',116685
+2013,'Disability declared','17 and under',105
+2013,'Disability declared','18',16475
+2013,'Disability declared','19',8860
+2013,'Disability declared','20',3720
+2013,'Disability declared','21 and over',12765
+2013,'No disability declared','17 and under',1585
+2013,'No disability declared','18',242935
+2013,'No disability declared','19',90615
+2013,'No disability declared','20',33320
+2013,'No disability declared','21 and over',117255
+2014,'Disability declared','17 and under',105
+2014,'Disability declared','18',18195
+2014,'Disability declared','19',10005
+2014,'Disability declared','20',4285
+2014,'Disability declared','21 and over',14460
+2014,'No disability declared','17 and under',1615
+2014,'No disability declared','18',247785
+2014,'No disability declared','19',91410
+2014,'No disability declared','20',34995
+2014,'No disability declared','21 and over',121660
+2015,'Disability declared','17 and under',115
+2015,'Disability declared','18',20665
+2015,'Disability declared','19',11125
+2015,'Disability declared','20',4615
+2015,'Disability declared','21 and over',15120
+2015,'No disability declared','17 and under',1680
+2015,'No disability declared','18',255215
+2015,'No disability declared','19',91325
+2015,'No disability declared','20',33090
+2015,'No disability declared','21 and over',120570

@@ -1,0 +1,246 @@
+"Statistic:   Number of Applicants"
+"Variables:   POLAR3 Quintile , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   UK domiciled 18 year olds"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_038_04.pdf"
+ 
+Cycle Year,POLAR3 Quintile , Applicant Domicile (High Level),Number of Applicants,
+2006,'POLAR3 Quintile 1','England',17635
+2006,'POLAR3 Quintile 1','Northern Ireland',720
+2006,'POLAR3 Quintile 1','Scotland',645
+2006,'POLAR3 Quintile 1','Wales',1445
+2006,'POLAR3 Quintile 2','England',27215
+2006,'POLAR3 Quintile 2','Northern Ireland',1130
+2006,'POLAR3 Quintile 2','Scotland',1675
+2006,'POLAR3 Quintile 2','Wales',2240
+2006,'POLAR3 Quintile 3','England',36575
+2006,'POLAR3 Quintile 3','Northern Ireland',1735
+2006,'POLAR3 Quintile 3','Scotland',2680
+2006,'POLAR3 Quintile 3','Wales',1995
+2006,'POLAR3 Quintile 4','England',44745
+2006,'POLAR3 Quintile 4','Northern Ireland',3465
+2006,'POLAR3 Quintile 4','Scotland',4150
+2006,'POLAR3 Quintile 4','Wales',2680
+2006,'POLAR3 Quintile 5','England',61595
+2006,'POLAR3 Quintile 5','Northern Ireland',4325
+2006,'POLAR3 Quintile 5','Scotland',8550
+2006,'POLAR3 Quintile 5','Wales',3025
+2006,'Not assigned','England',1410
+2006,'Not assigned','Northern Ireland',75
+2006,'Not assigned','Scotland',120
+2006,'Not assigned','Wales',85
+2007,'POLAR3 Quintile 1','England',18165
+2007,'POLAR3 Quintile 1','Northern Ireland',640
+2007,'POLAR3 Quintile 1','Scotland',585
+2007,'POLAR3 Quintile 1','Wales',1320
+2007,'POLAR3 Quintile 2','England',27650
+2007,'POLAR3 Quintile 2','Northern Ireland',1055
+2007,'POLAR3 Quintile 2','Scotland',1595
+2007,'POLAR3 Quintile 2','Wales',2155
+2007,'POLAR3 Quintile 3','England',36990
+2007,'POLAR3 Quintile 3','Northern Ireland',1660
+2007,'POLAR3 Quintile 3','Scotland',2610
+2007,'POLAR3 Quintile 3','Wales',1860
+2007,'POLAR3 Quintile 4','England',46060
+2007,'POLAR3 Quintile 4','Northern Ireland',3325
+2007,'POLAR3 Quintile 4','Scotland',4005
+2007,'POLAR3 Quintile 4','Wales',2555
+2007,'POLAR3 Quintile 5','England',62090
+2007,'POLAR3 Quintile 5','Northern Ireland',4385
+2007,'POLAR3 Quintile 5','Scotland',8165
+2007,'POLAR3 Quintile 5','Wales',3035
+2007,'Not assigned','England',1150
+2007,'Not assigned','Northern Ireland',65
+2007,'Not assigned','Scotland',85
+2007,'Not assigned','Wales',60
+2008,'POLAR3 Quintile 1','England',19630
+2008,'POLAR3 Quintile 1','Northern Ireland',600
+2008,'POLAR3 Quintile 1','Scotland',630
+2008,'POLAR3 Quintile 1','Wales',1415
+2008,'POLAR3 Quintile 2','England',29575
+2008,'POLAR3 Quintile 2','Northern Ireland',1000
+2008,'POLAR3 Quintile 2','Scotland',1625
+2008,'POLAR3 Quintile 2','Wales',2235
+2008,'POLAR3 Quintile 3','England',38650
+2008,'POLAR3 Quintile 3','Northern Ireland',1570
+2008,'POLAR3 Quintile 3','Scotland',2675
+2008,'POLAR3 Quintile 3','Wales',1905
+2008,'POLAR3 Quintile 4','England',48065
+2008,'POLAR3 Quintile 4','Northern Ireland',3185
+2008,'POLAR3 Quintile 4','Scotland',4295
+2008,'POLAR3 Quintile 4','Wales',2590
+2008,'POLAR3 Quintile 5','England',64465
+2008,'POLAR3 Quintile 5','Northern Ireland',4270
+2008,'POLAR3 Quintile 5','Scotland',8505
+2008,'POLAR3 Quintile 5','Wales',3020
+2008,'Not assigned','England',3205
+2008,'Not assigned','Northern Ireland',315
+2008,'Not assigned','Scotland',385
+2008,'Not assigned','Wales',255
+2009,'POLAR3 Quintile 1','England',21745
+2009,'POLAR3 Quintile 1','Northern Ireland',650
+2009,'POLAR3 Quintile 1','Scotland',625
+2009,'POLAR3 Quintile 1','Wales',1515
+2009,'POLAR3 Quintile 2','England',32060
+2009,'POLAR3 Quintile 2','Northern Ireland',1100
+2009,'POLAR3 Quintile 2','Scotland',1710
+2009,'POLAR3 Quintile 2','Wales',2510
+2009,'POLAR3 Quintile 3','England',41710
+2009,'POLAR3 Quintile 3','Northern Ireland',1735
+2009,'POLAR3 Quintile 3','Scotland',2760
+2009,'POLAR3 Quintile 3','Wales',2120
+2009,'POLAR3 Quintile 4','England',50700
+2009,'POLAR3 Quintile 4','Northern Ireland',3470
+2009,'POLAR3 Quintile 4','Scotland',4430
+2009,'POLAR3 Quintile 4','Wales',2770
+2009,'POLAR3 Quintile 5','England',67860
+2009,'POLAR3 Quintile 5','Northern Ireland',4595
+2009,'POLAR3 Quintile 5','Scotland',8595
+2009,'POLAR3 Quintile 5','Wales',3235
+2009,'Not assigned','England',720
+2009,'Not assigned','Northern Ireland',55
+2009,'Not assigned','Scotland',390
+2009,'Not assigned','Wales',40
+2010,'POLAR3 Quintile 1','England',24125
+2010,'POLAR3 Quintile 1','Northern Ireland',820
+2010,'POLAR3 Quintile 1','Scotland',845
+2010,'POLAR3 Quintile 1','Wales',1610
+2010,'POLAR3 Quintile 2','England',34135
+2010,'POLAR3 Quintile 2','Northern Ireland',1130
+2010,'POLAR3 Quintile 2','Scotland',2095
+2010,'POLAR3 Quintile 2','Wales',2425
+2010,'POLAR3 Quintile 3','England',44245
+2010,'POLAR3 Quintile 3','Northern Ireland',1890
+2010,'POLAR3 Quintile 3','Scotland',3160
+2010,'POLAR3 Quintile 3','Wales',2080
+2010,'POLAR3 Quintile 4','England',53290
+2010,'POLAR3 Quintile 4','Northern Ireland',3700
+2010,'POLAR3 Quintile 4','Scotland',4930
+2010,'POLAR3 Quintile 4','Wales',2765
+2010,'POLAR3 Quintile 5','England',69710
+2010,'POLAR3 Quintile 5','Northern Ireland',4510
+2010,'POLAR3 Quintile 5','Scotland',9120
+2010,'POLAR3 Quintile 5','Wales',3155
+2010,'Not assigned','England',485
+2010,'Not assigned','Northern Ireland',35
+2010,'Not assigned','Scotland',50
+2010,'Not assigned','Wales',25
+2011,'POLAR3 Quintile 1','England',24335
+2011,'POLAR3 Quintile 1','Northern Ireland',740
+2011,'POLAR3 Quintile 1','Scotland',750
+2011,'POLAR3 Quintile 1','Wales',1610
+2011,'POLAR3 Quintile 2','England',34525
+2011,'POLAR3 Quintile 2','Northern Ireland',1240
+2011,'POLAR3 Quintile 2','Scotland',2055
+2011,'POLAR3 Quintile 2','Wales',2370
+2011,'POLAR3 Quintile 3','England',44125
+2011,'POLAR3 Quintile 3','Northern Ireland',1785
+2011,'POLAR3 Quintile 3','Scotland',3040
+2011,'POLAR3 Quintile 3','Wales',2010
+2011,'POLAR3 Quintile 4','England',52915
+2011,'POLAR3 Quintile 4','Northern Ireland',3625
+2011,'POLAR3 Quintile 4','Scotland',4695
+2011,'POLAR3 Quintile 4','Wales',2665
+2011,'POLAR3 Quintile 5','England',69590
+2011,'POLAR3 Quintile 5','Northern Ireland',4550
+2011,'POLAR3 Quintile 5','Scotland',8965
+2011,'POLAR3 Quintile 5','Wales',3060
+2011,'Not assigned','England',445
+2011,'Not assigned','Northern Ireland',35
+2011,'Not assigned','Scotland',50
+2011,'Not assigned','Wales',20
+2012,'POLAR3 Quintile 1','England',23360
+2012,'POLAR3 Quintile 1','Northern Ireland',760
+2012,'POLAR3 Quintile 1','Scotland',790
+2012,'POLAR3 Quintile 1','Wales',1620
+2012,'POLAR3 Quintile 2','England',33235
+2012,'POLAR3 Quintile 2','Northern Ireland',1155
+2012,'POLAR3 Quintile 2','Scotland',1950
+2012,'POLAR3 Quintile 2','Wales',2390
+2012,'POLAR3 Quintile 3','England',42775
+2012,'POLAR3 Quintile 3','Northern Ireland',1780
+2012,'POLAR3 Quintile 3','Scotland',3160
+2012,'POLAR3 Quintile 3','Wales',2020
+2012,'POLAR3 Quintile 4','England',50715
+2012,'POLAR3 Quintile 4','Northern Ireland',3515
+2012,'POLAR3 Quintile 4','Scotland',4655
+2012,'POLAR3 Quintile 4','Wales',2540
+2012,'POLAR3 Quintile 5','England',67045
+2012,'POLAR3 Quintile 5','Northern Ireland',4485
+2012,'POLAR3 Quintile 5','Scotland',8865
+2012,'POLAR3 Quintile 5','Wales',3020
+2012,'Not assigned','England',430
+2012,'Not assigned','Northern Ireland',20
+2012,'Not assigned','Scotland',45
+2012,'Not assigned','Wales',30
+2013,'POLAR3 Quintile 1','England',24105
+2013,'POLAR3 Quintile 1','Northern Ireland',760
+2013,'POLAR3 Quintile 1','Scotland',815
+2013,'POLAR3 Quintile 1','Wales',1550
+2013,'POLAR3 Quintile 2','England',34115
+2013,'POLAR3 Quintile 2','Northern Ireland',1150
+2013,'POLAR3 Quintile 2','Scotland',2000
+2013,'POLAR3 Quintile 2','Wales',2330
+2013,'POLAR3 Quintile 3','England',43725
+2013,'POLAR3 Quintile 3','Northern Ireland',1825
+2013,'POLAR3 Quintile 3','Scotland',3090
+2013,'POLAR3 Quintile 3','Wales',1915
+2013,'POLAR3 Quintile 4','England',51485
+2013,'POLAR3 Quintile 4','Northern Ireland',3430
+2013,'POLAR3 Quintile 4','Scotland',4635
+2013,'POLAR3 Quintile 4','Wales',2475
+2013,'POLAR3 Quintile 5','England',66570
+2013,'POLAR3 Quintile 5','Northern Ireland',4530
+2013,'POLAR3 Quintile 5','Scotland',8835
+2013,'POLAR3 Quintile 5','Wales',3025
+2013,'Not assigned','England',385
+2013,'Not assigned','Northern Ireland',25
+2013,'Not assigned','Scotland',45
+2013,'Not assigned','Wales',25
+2014,'POLAR3 Quintile 1','England',25820
+2014,'POLAR3 Quintile 1','Northern Ireland',770
+2014,'POLAR3 Quintile 1','Scotland',915
+2014,'POLAR3 Quintile 1','Wales',1780
+2014,'POLAR3 Quintile 2','England',35650
+2014,'POLAR3 Quintile 2','Northern Ireland',1190
+2014,'POLAR3 Quintile 2','Scotland',2085
+2014,'POLAR3 Quintile 2','Wales',2335
+2014,'POLAR3 Quintile 3','England',44940
+2014,'POLAR3 Quintile 3','Northern Ireland',1795
+2014,'POLAR3 Quintile 3','Scotland',3065
+2014,'POLAR3 Quintile 3','Wales',2040
+2014,'POLAR3 Quintile 4','England',51645
+2014,'POLAR3 Quintile 4','Northern Ireland',3450
+2014,'POLAR3 Quintile 4','Scotland',4665
+2014,'POLAR3 Quintile 4','Wales',2525
+2014,'POLAR3 Quintile 5','England',67635
+2014,'POLAR3 Quintile 5','Northern Ireland',4290
+2014,'POLAR3 Quintile 5','Scotland',8645
+2014,'POLAR3 Quintile 5','Wales',3020
+2014,'Not assigned','England',430
+2014,'Not assigned','Northern Ireland',20
+2014,'Not assigned','Scotland',45
+2014,'Not assigned','Wales',20
+2015,'POLAR3 Quintile 1','England',26910
+2015,'POLAR3 Quintile 1','Northern Ireland',855
+2015,'POLAR3 Quintile 1','Scotland',930
+2015,'POLAR3 Quintile 1','Wales',1790
+2015,'POLAR3 Quintile 2','England',37240
+2015,'POLAR3 Quintile 2','Northern Ireland',1200
+2015,'POLAR3 Quintile 2','Scotland',2240
+2015,'POLAR3 Quintile 2','Wales',2525
+2015,'POLAR3 Quintile 3','England',46835
+2015,'POLAR3 Quintile 3','Northern Ireland',1900
+2015,'POLAR3 Quintile 3','Scotland',3185
+2015,'POLAR3 Quintile 3','Wales',2050
+2015,'POLAR3 Quintile 4','England',53925
+2015,'POLAR3 Quintile 4','Northern Ireland',3580
+2015,'POLAR3 Quintile 4','Scotland',4845
+2015,'POLAR3 Quintile 4','Wales',2715
+2015,'POLAR3 Quintile 5','England',69710
+2015,'POLAR3 Quintile 5','Northern Ireland',4440
+2015,'POLAR3 Quintile 5','Scotland',8755
+2015,'POLAR3 Quintile 5','Wales',3040
+2015,'Not assigned','England',605
+2015,'Not assigned','Northern Ireland',20
+2015,'Not assigned','Scotland',45
+2015,'Not assigned','Wales',30

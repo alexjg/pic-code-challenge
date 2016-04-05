@@ -1,0 +1,22 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Holds A Level Qualification , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_032_05.pdf"
+ 
+Cycle Year,Holds A Level Qualification,Number of Acceptances,
+2008,'A Level qualification identified',256190
+2008,'A Level qualification not identified',112420
+2009,'A Level qualification identified',266155
+2009,'A Level qualification not identified',127560
+2010,'A Level qualification identified',267525
+2010,'A Level qualification not identified',136595
+2011,'A Level qualification identified',276800
+2011,'A Level qualification not identified',136600
+2012,'A Level qualification identified',253170
+2012,'A Level qualification not identified',129460
+2013,'A Level qualification identified',266425
+2013,'A Level qualification not identified',139080
+2014,'A Level qualification identified',268360
+2014,'A Level qualification not identified',151210
+2015,'A Level qualification identified',275380
+2015,'A Level qualification not identified',156395

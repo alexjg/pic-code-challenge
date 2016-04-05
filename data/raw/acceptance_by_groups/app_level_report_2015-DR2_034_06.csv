@@ -1,0 +1,22 @@
+"Statistic:   Number of Applicants"
+"Variables:   Holds SQA Qualification , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_034_06.pdf"
+ 
+Cycle Year,Holds SQA Qualification,Number of Applicants,
+2008,'SQA qualification identified',28335
+2008,'SQA qualification not identified',431740
+2009,'SQA qualification identified',29840
+2009,'SQA qualification not identified',474635
+2010,'SQA qualification identified',34065
+2010,'SQA qualification not identified',525175
+2011,'SQA qualification identified',34755
+2011,'SQA qualification not identified',529260
+2012,'SQA qualification identified',34820
+2012,'SQA qualification not identified',479060
+2013,'SQA qualification identified',35445
+2013,'SQA qualification not identified',492195
+2014,'SQA qualification identified',36400
+2014,'SQA qualification not identified',508115
+2015,'SQA qualification identified',39965
+2015,'SQA qualification not identified',513550

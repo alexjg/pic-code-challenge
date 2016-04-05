@@ -1,0 +1,126 @@
+"Statistic:   Number of Applicants"
+"Variables:   POLAR3 Quintile , Sex , Cycle Year"
+"Coverage:   UK domiciled 18 year olds"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_039_04.pdf"
+ 
+Cycle Year,POLAR3 Quintile , Sex,Number of Applicants,
+2006,'POLAR3 Quintile 1','Men',8310
+2006,'POLAR3 Quintile 1','Women',12135
+2006,'POLAR3 Quintile 2','Men',13605
+2006,'POLAR3 Quintile 2','Women',18655
+2006,'POLAR3 Quintile 3','Men',18735
+2006,'POLAR3 Quintile 3','Women',24255
+2006,'POLAR3 Quintile 4','Men',24490
+2006,'POLAR3 Quintile 4','Women',30555
+2006,'POLAR3 Quintile 5','Men',36395
+2006,'POLAR3 Quintile 5','Women',41105
+2006,'Not assigned','Men',770
+2006,'Not assigned','Women',925
+2007,'POLAR3 Quintile 1','Men',8615
+2007,'POLAR3 Quintile 1','Women',12095
+2007,'POLAR3 Quintile 2','Men',13645
+2007,'POLAR3 Quintile 2','Women',18815
+2007,'POLAR3 Quintile 3','Men',18375
+2007,'POLAR3 Quintile 3','Women',24750
+2007,'POLAR3 Quintile 4','Men',25040
+2007,'POLAR3 Quintile 4','Women',30905
+2007,'POLAR3 Quintile 5','Men',36245
+2007,'POLAR3 Quintile 5','Women',41425
+2007,'Not assigned','Men',615
+2007,'Not assigned','Women',745
+2008,'POLAR3 Quintile 1','Men',8905
+2008,'POLAR3 Quintile 1','Women',13375
+2008,'POLAR3 Quintile 2','Men',14345
+2008,'POLAR3 Quintile 2','Women',20090
+2008,'POLAR3 Quintile 3','Men',18970
+2008,'POLAR3 Quintile 3','Women',25835
+2008,'POLAR3 Quintile 4','Men',25785
+2008,'POLAR3 Quintile 4','Women',32355
+2008,'POLAR3 Quintile 5','Men',37295
+2008,'POLAR3 Quintile 5','Women',42965
+2008,'Not assigned','Men',1830
+2008,'Not assigned','Women',2330
+2009,'POLAR3 Quintile 1','Men',10090
+2009,'POLAR3 Quintile 1','Women',14440
+2009,'POLAR3 Quintile 2','Men',15755
+2009,'POLAR3 Quintile 2','Women',21625
+2009,'POLAR3 Quintile 3','Men',20815
+2009,'POLAR3 Quintile 3','Women',27510
+2009,'POLAR3 Quintile 4','Men',27580
+2009,'POLAR3 Quintile 4','Women',33790
+2009,'POLAR3 Quintile 5','Men',39310
+2009,'POLAR3 Quintile 5','Women',44970
+2009,'Not assigned','Men',590
+2009,'Not assigned','Women',615
+2010,'POLAR3 Quintile 1','Men',11370
+2010,'POLAR3 Quintile 1','Women',16035
+2010,'POLAR3 Quintile 2','Men',16815
+2010,'POLAR3 Quintile 2','Women',22970
+2010,'POLAR3 Quintile 3','Men',22500
+2010,'POLAR3 Quintile 3','Women',28875
+2010,'POLAR3 Quintile 4','Men',28845
+2010,'POLAR3 Quintile 4','Women',35845
+2010,'POLAR3 Quintile 5','Men',40670
+2010,'POLAR3 Quintile 5','Women',45825
+2010,'Not assigned','Men',280
+2010,'Not assigned','Women',320
+2011,'POLAR3 Quintile 1','Men',11225
+2011,'POLAR3 Quintile 1','Women',16215
+2011,'POLAR3 Quintile 2','Men',17075
+2011,'POLAR3 Quintile 2','Women',23115
+2011,'POLAR3 Quintile 3','Men',22215
+2011,'POLAR3 Quintile 3','Women',28740
+2011,'POLAR3 Quintile 4','Men',28750
+2011,'POLAR3 Quintile 4','Women',35150
+2011,'POLAR3 Quintile 5','Men',40440
+2011,'POLAR3 Quintile 5','Women',45725
+2011,'Not assigned','Men',245
+2011,'Not assigned','Women',305
+2012,'POLAR3 Quintile 1','Men',10745
+2012,'POLAR3 Quintile 1','Women',15785
+2012,'POLAR3 Quintile 2','Men',16140
+2012,'POLAR3 Quintile 2','Women',22585
+2012,'POLAR3 Quintile 3','Men',21530
+2012,'POLAR3 Quintile 3','Women',28205
+2012,'POLAR3 Quintile 4','Men',27395
+2012,'POLAR3 Quintile 4','Women',34030
+2012,'POLAR3 Quintile 5','Men',38695
+2012,'POLAR3 Quintile 5','Women',44725
+2012,'Not assigned','Men',250
+2012,'Not assigned','Women',275
+2013,'POLAR3 Quintile 1','Men',11265
+2013,'POLAR3 Quintile 1','Women',15965
+2013,'POLAR3 Quintile 2','Men',16640
+2013,'POLAR3 Quintile 2','Women',22950
+2013,'POLAR3 Quintile 3','Men',21830
+2013,'POLAR3 Quintile 3','Women',28725
+2013,'POLAR3 Quintile 4','Men',27550
+2013,'POLAR3 Quintile 4','Women',34480
+2013,'POLAR3 Quintile 5','Men',38765
+2013,'POLAR3 Quintile 5','Women',44195
+2013,'Not assigned','Men',230
+2013,'Not assigned','Women',250
+2014,'POLAR3 Quintile 1','Men',12020
+2014,'POLAR3 Quintile 1','Women',17270
+2014,'POLAR3 Quintile 2','Men',17245
+2014,'POLAR3 Quintile 2','Women',24015
+2014,'POLAR3 Quintile 3','Men',22610
+2014,'POLAR3 Quintile 3','Women',29225
+2014,'POLAR3 Quintile 4','Men',27775
+2014,'POLAR3 Quintile 4','Women',34510
+2014,'POLAR3 Quintile 5','Men',39030
+2014,'POLAR3 Quintile 5','Women',44560
+2014,'Not assigned','Men',250
+2014,'Not assigned','Women',260
+2015,'POLAR3 Quintile 1','Men',12220
+2015,'POLAR3 Quintile 1','Women',18260
+2015,'POLAR3 Quintile 2','Men',17870
+2015,'POLAR3 Quintile 2','Women',25335
+2015,'POLAR3 Quintile 3','Men',23095
+2015,'POLAR3 Quintile 3','Women',30870
+2015,'POLAR3 Quintile 4','Men',28620
+2015,'POLAR3 Quintile 4','Women',36445
+2015,'POLAR3 Quintile 5','Men',39615
+2015,'POLAR3 Quintile 5','Women',46335
+2015,'Not assigned','Men',305
+2015,'Not assigned','Women',395

@@ -1,0 +1,156 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Age Band , Applicant Domicile (UK / EU / Not EU) , Cycle Year"
+"Coverage:   Applied before June deadline                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_012_05.pdf"
+ 
+Cycle Year,Age Band , Applicant Domicile (UK / EU / Not EU),Number of Acceptances,
+2006,'17 and under','UK',1800
+2006,'17 and under','EU (excluding UK)',1230
+2006,'17 and under','Not EU',1215
+2006,'18','UK',191105
+2006,'18','EU (excluding UK)',4245
+2006,'18','Not EU',6265
+2006,'19','UK',52895
+2006,'19','EU (excluding UK)',3345
+2006,'19','Not EU',6005
+2006,'20','UK',19000
+2006,'20','EU (excluding UK)',2335
+2006,'20','Not EU',3375
+2006,'21 and over','UK',52090
+2006,'21 and over','EU (excluding UK)',5370
+2006,'21 and over','Not EU',6855
+2007,'17 and under','UK',1840
+2007,'17 and under','EU (excluding UK)',1430
+2007,'17 and under','Not EU',1250
+2007,'18','UK',191535
+2007,'18','EU (excluding UK)',4840
+2007,'18','Not EU',6745
+2007,'19','UK',64715
+2007,'19','EU (excluding UK)',4285
+2007,'19','Not EU',6325
+2007,'20','UK',20640
+2007,'20','EU (excluding UK)',2695
+2007,'20','Not EU',3500
+2007,'21 and over','UK',55410
+2007,'21 and over','EU (excluding UK)',5550
+2007,'21 and over','Not EU',6525
+2008,'17 and under','UK',1810
+2008,'17 and under','EU (excluding UK)',1305
+2008,'17 and under','Not EU',1405
+2008,'18','UK',203630
+2008,'18','EU (excluding UK)',5420
+2008,'18','Not EU',7180
+2008,'19','UK',70400
+2008,'19','EU (excluding UK)',4760
+2008,'19','Not EU',6950
+2008,'20','UK',25450
+2008,'20','EU (excluding UK)',2705
+2008,'20','Not EU',3820
+2008,'21 and over','UK',67325
+2008,'21 and over','EU (excluding UK)',5105
+2008,'21 and over','Not EU',6425
+2009,'17 and under','UK',1760
+2009,'17 and under','EU (excluding UK)',1485
+2009,'17 and under','Not EU',1545
+2009,'18','UK',211290
+2009,'18','EU (excluding UK)',6005
+2009,'18','Not EU',7630
+2009,'19','UK',75875
+2009,'19','EU (excluding UK)',5830
+2009,'19','Not EU',7270
+2009,'20','UK',26885
+2009,'20','EU (excluding UK)',3105
+2009,'20','Not EU',4095
+2009,'21 and over','UK',77900
+2009,'21 and over','EU (excluding UK)',5385
+2009,'21 and over','Not EU',6080
+2010,'17 and under','UK',1505
+2010,'17 and under','EU (excluding UK)',1380
+2010,'17 and under','Not EU',1615
+2010,'18','UK',211495
+2010,'18','EU (excluding UK)',6910
+2010,'18','Not EU',8075
+2010,'19','UK',81255
+2010,'19','EU (excluding UK)',6835
+2010,'19','Not EU',7790
+2010,'20','UK',28010
+2010,'20','EU (excluding UK)',3175
+2010,'20','Not EU',4605
+2010,'21 and over','UK',81850
+2010,'21 and over','EU (excluding UK)',5415
+2010,'21 and over','Not EU',6430
+2011,'17 and under','UK',1375
+2011,'17 and under','EU (excluding UK)',1465
+2011,'17 and under','Not EU',1660
+2011,'18','UK',216270
+2011,'18','EU (excluding UK)',7395
+2011,'18','Not EU',8805
+2011,'19','UK',85830
+2011,'19','EU (excluding UK)',7915
+2011,'19','Not EU',8150
+2011,'20','UK',29300
+2011,'20','EU (excluding UK)',3375
+2011,'20','Not EU',4615
+2011,'21 and over','UK',80625
+2011,'21 and over','EU (excluding UK)',5360
+2011,'21 and over','Not EU',6335
+2012,'17 and under','UK',1160
+2012,'17 and under','EU (excluding UK)',1470
+2012,'17 and under','Not EU',1970
+2012,'18','UK',209540
+2012,'18','EU (excluding UK)',7285
+2012,'18','Not EU',9480
+2012,'19','UK',72540
+2012,'19','EU (excluding UK)',6755
+2012,'19','Not EU',8400
+2012,'20','UK',26325
+2012,'20','EU (excluding UK)',2605
+2012,'20','Not EU',4725
+2012,'21 and over','UK',73065
+2012,'21 and over','EU (excluding UK)',3785
+2012,'21 and over','Not EU',6040
+2013,'17 and under','UK',1075
+2013,'17 and under','EU (excluding UK)',1595
+2013,'17 and under','Not EU',2205
+2013,'18','UK',216310
+2013,'18','EU (excluding UK)',7630
+2013,'18','Not EU',10660
+2013,'19','UK',83440
+2013,'19','EU (excluding UK)',7300
+2013,'19','Not EU',8880
+2013,'20','UK',27940
+2013,'20','EU (excluding UK)',2855
+2013,'20','Not EU',5090
+2013,'21 and over','UK',76745
+2013,'21 and over','EU (excluding UK)',3920
+2013,'21 and over','Not EU',6060
+2014,'17 and under','UK',1080
+2014,'17 and under','EU (excluding UK)',1855
+2014,'17 and under','Not EU',2510
+2014,'18','UK',222160
+2014,'18','EU (excluding UK)',8525
+2014,'18','Not EU',11210
+2014,'19','UK',85205
+2014,'19','EU (excluding UK)',7715
+2014,'19','Not EU',9300
+2014,'20','UK',29795
+2014,'20','EU (excluding UK)',3210
+2014,'20','Not EU',5260
+2014,'21 and over','UK',81330
+2014,'21 and over','EU (excluding UK)',3945
+2014,'21 and over','Not EU',5685
+2015,'17 and under','UK',1175
+2015,'17 and under','EU (excluding UK)',2165
+2015,'17 and under','Not EU',2500
+2015,'18','UK',232285
+2015,'18','EU (excluding UK)',9795
+2015,'18','Not EU',12400
+2015,'19','UK',86775
+2015,'19','EU (excluding UK)',8490
+2015,'19','Not EU',9405
+2015,'20','UK',28690
+2015,'20','EU (excluding UK)',3325
+2015,'20','Not EU',5035
+2015,'21 and over','UK',82845
+2015,'21 and over','EU (excluding UK)',4145
+2015,'21 and over','Not EU',5715

@@ -1,0 +1,86 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Sex , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   UK domiciled                                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_016_01.pdf"
+ 
+Cycle Year,Sex , Applicant Domicile (High Level),Number of Acceptances,
+2006,'Men','England',131260
+2006,'Men','Northern Ireland',5475
+2006,'Men','Scotland',12245
+2006,'Men','Wales',7335
+2006,'Women','England',156765
+2006,'Women','Northern Ireland',6910
+2006,'Women','Scotland',14560
+2006,'Women','Wales',9815
+2007,'Men','England',138490
+2007,'Men','Northern Ireland',5610
+2007,'Men','Scotland',12335
+2007,'Men','Wales',7565
+2007,'Women','England',167295
+2007,'Women','Northern Ireland',7390
+2007,'Women','Scotland',14885
+2007,'Women','Wales',9805
+2008,'Men','England',150690
+2008,'Men','Northern Ireland',5795
+2008,'Men','Scotland',13360
+2008,'Men','Wales',7935
+2008,'Women','England',191750
+2008,'Women','Northern Ireland',7635
+2008,'Women','Scotland',16030
+2008,'Women','Wales',10660
+2009,'Men','England',159510
+2009,'Men','Northern Ireland',6090
+2009,'Men','Scotland',14410
+2009,'Men','Wales',8885
+2009,'Women','England',199615
+2009,'Women','Northern Ireland',7510
+2009,'Women','Scotland',16620
+2009,'Women','Wales',11310
+2010,'Men','England',160365
+2010,'Men','Northern Ireland',6120
+2010,'Men','Scotland',13845
+2010,'Men','Wales',8185
+2010,'Women','England',198635
+2010,'Women','Northern Ireland',7385
+2010,'Women','Scotland',18405
+2010,'Women','Wales',10485
+2011,'Men','England',165010
+2011,'Men','Northern Ireland',6320
+2011,'Men','Scotland',13190
+2011,'Men','Wales',7945
+2011,'Women','England',202140
+2011,'Women','Northern Ireland',7475
+2011,'Women','Scotland',17610
+2011,'Women','Wales',10385
+2012,'Men','England',152740
+2012,'Men','Northern Ireland',6030
+2012,'Men','Scotland',13280
+2012,'Men','Wales',8380
+2012,'Women','England',190010
+2012,'Women','Northern Ireland',7255
+2012,'Women','Scotland',17615
+2012,'Women','Wales',10925
+2013,'Men','England',164375
+2013,'Men','Northern Ireland',6645
+2013,'Men','Scotland',13530
+2013,'Men','Wales',8485
+2013,'Women','England',203525
+2013,'Women','Northern Ireland',7910
+2013,'Women','Scotland',17970
+2013,'Women','Wales',11180
+2014,'Men','England',169585
+2014,'Men','Northern Ireland',6595
+2014,'Men','Scotland',12690
+2014,'Men','Wales',8550
+2014,'Women','England',212930
+2014,'Women','Northern Ireland',7860
+2014,'Women','Scotland',17625
+2014,'Women','Wales',11615
+2015,'Men','England',172985
+2015,'Men','Northern Ireland',6235
+2015,'Men','Scotland',14165
+2015,'Men','Wales',8580
+2015,'Women','England',221400
+2015,'Women','Northern Ireland',7815
+2015,'Women','Scotland',20610
+2015,'Women','Wales',11930

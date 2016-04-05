@@ -1,0 +1,156 @@
+"Statistic:   Number of Applicants"
+"Variables:   Ethnic Group (Summary Level) , Ethnic Group (Detailed Level) , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_024_06.pdf"
+ 
+Cycle Year,Ethnic Group (Summary Level) , Ethnic Group (Detailed Level),Number of Applicants,
+2006,'Asian','Asian - Bangladeshi',3760
+2006,'Asian','Asian - Chinese',3815
+2006,'Asian','Asian - Indian',16230
+2006,'Asian','Asian - Other Asian background',4945
+2006,'Asian','Asian - Pakistani',10980
+2006,'Black','Black - African',14715
+2006,'Black','Black - Caribbean',5880
+2006,'Black','Black - Other Black background',1345
+2006,'Mixed','Mixed - Other mixed background',3655
+2006,'Mixed','Mixed - White and Asian',3640
+2006,'Mixed','Mixed - White and Black African',1220
+2006,'Mixed','Mixed - White and Black Caribbean',2700
+2006,'White','White',316465
+2006,'Other','Other ethnic background',4350
+2006,'Unknown','Unknown',5650
+2007,'Asian','Asian - Bangladeshi',3795
+2007,'Asian','Asian - Chinese',3965
+2007,'Asian','Asian - Indian',15805
+2007,'Asian','Asian - Other Asian background',5200
+2007,'Asian','Asian - Pakistani',11225
+2007,'Black','Black - African',16620
+2007,'Black','Black - Caribbean',6270
+2007,'Black','Black - Other Black background',1370
+2007,'Mixed','Mixed - Other mixed background',4070
+2007,'Mixed','Mixed - White and Asian',4045
+2007,'Mixed','Mixed - White and Black African',1365
+2007,'Mixed','Mixed - White and Black Caribbean',3250
+2007,'White','White',331605
+2007,'Other','Other ethnic background',4780
+2007,'Unknown','Unknown',5945
+2008,'Asian','Asian - Bangladeshi',4400
+2008,'Asian','Asian - Chinese',4150
+2008,'Asian','Asian - Indian',16385
+2008,'Asian','Asian - Other Asian background',6630
+2008,'Asian','Asian - Pakistani',12395
+2008,'Black','Black - African',20885
+2008,'Black','Black - Caribbean',7560
+2008,'Black','Black - Other Black background',1435
+2008,'Mixed','Mixed - Other mixed background',4475
+2008,'Mixed','Mixed - White and Asian',4545
+2008,'Mixed','Mixed - White and Black African',1625
+2008,'Mixed','Mixed - White and Black Caribbean',3995
+2008,'White','White',361125
+2008,'Other','Other ethnic background',4820
+2008,'Unknown','Unknown',5645
+2009,'Asian','Asian - Bangladeshi',4955
+2009,'Asian','Asian - Chinese',4100
+2009,'Asian','Asian - Indian',17315
+2009,'Asian','Asian - Other Asian background',7820
+2009,'Asian','Asian - Pakistani',13615
+2009,'Black','Black - African',25220
+2009,'Black','Black - Caribbean',8505
+2009,'Black','Black - Other Black background',1555
+2009,'Mixed','Mixed - Other mixed background',4845
+2009,'Mixed','Mixed - White and Asian',5065
+2009,'Mixed','Mixed - White and Black African',2010
+2009,'Mixed','Mixed - White and Black Caribbean',4670
+2009,'White','White',395450
+2009,'Other','Other ethnic background',5220
+2009,'Unknown','Unknown',4130
+2010,'Asian','Asian - Bangladeshi',5515
+2010,'Asian','Asian - Chinese',4345
+2010,'Asian','Asian - Indian',18190
+2010,'Asian','Asian - Other Asian background',9255
+2010,'Asian','Asian - Pakistani',15735
+2010,'Black','Black - African',30250
+2010,'Black','Black - Caribbean',9590
+2010,'Black','Black - Other Black background',1815
+2010,'Mixed','Mixed - Other mixed background',5480
+2010,'Mixed','Mixed - White and Asian',5755
+2010,'Mixed','Mixed - White and Black African',2175
+2010,'Mixed','Mixed - White and Black Caribbean',5560
+2010,'White','White',435250
+2010,'Other','Other ethnic background',5955
+2010,'Unknown','Unknown',4380
+2011,'Asian','Asian - Bangladeshi',5925
+2011,'Asian','Asian - Chinese',4410
+2011,'Asian','Asian - Indian',18795
+2011,'Asian','Asian - Other Asian background',10035
+2011,'Asian','Asian - Pakistani',17005
+2011,'Black','Black - African',33095
+2011,'Black','Black - Caribbean',9570
+2011,'Black','Black - Other Black background',1835
+2011,'Mixed','Mixed - Other mixed background',5850
+2011,'Mixed','Mixed - White and Asian',6035
+2011,'Mixed','Mixed - White and Black African',2435
+2011,'Mixed','Mixed - White and Black Caribbean',5790
+2011,'White','White',432635
+2011,'Other','Other ethnic background',6300
+2011,'Unknown','Unknown',4295
+2012,'Asian','Asian - Bangladeshi',5840
+2012,'Asian','Asian - Chinese',4000
+2012,'Asian','Asian - Indian',17175
+2012,'Asian','Asian - Other Asian background',9350
+2012,'Asian','Asian - Pakistani',16640
+2012,'Black','Black - African',31870
+2012,'Black','Black - Caribbean',8465
+2012,'Black','Black - Other Black background',1910
+2012,'Mixed','Mixed - Other mixed background',5165
+2012,'Mixed','Mixed - White and Asian',5650
+2012,'Mixed','Mixed - White and Black African',2260
+2012,'Mixed','Mixed - White and Black Caribbean',5365
+2012,'White','White',389320
+2012,'Other','Other ethnic background',7325
+2012,'Unknown','Unknown',3535
+2013,'Asian','Asian - Bangladeshi',6415
+2013,'Asian','Asian - Chinese',3925
+2013,'Asian','Asian - Indian',17325
+2013,'Asian','Asian - Other Asian background',9955
+2013,'Asian','Asian - Pakistani',17150
+2013,'Black','Black - African',31500
+2013,'Black','Black - Caribbean',8670
+2013,'Black','Black - Other Black background',1995
+2013,'Mixed','Mixed - Other mixed background',5370
+2013,'Mixed','Mixed - White and Asian',6030
+2013,'Mixed','Mixed - White and Black African',2420
+2013,'Mixed','Mixed - White and Black Caribbean',5655
+2013,'White','White',400240
+2013,'Other','Other ethnic background',7415
+2013,'Unknown','Unknown',3565
+2014,'Asian','Asian - Bangladeshi',7190
+2014,'Asian','Asian - Chinese',4135
+2014,'Asian','Asian - Indian',17180
+2014,'Asian','Asian - Other Asian background',11050
+2014,'Asian','Asian - Pakistani',18195
+2014,'Black','Black - African',33130
+2014,'Black','Black - Caribbean',9060
+2014,'Black','Black - Other Black background',2105
+2014,'Mixed','Mixed - Other mixed background',5685
+2014,'Mixed','Mixed - White and Asian',6450
+2014,'Mixed','Mixed - White and Black African',2665
+2014,'Mixed','Mixed - White and Black Caribbean',6320
+2014,'White','White',409610
+2014,'Other','Other ethnic background',8210
+2014,'Unknown','Unknown',3535
+2015,'Asian','Asian - Bangladeshi',8025
+2015,'Asian','Asian - Chinese',3965
+2015,'Asian','Asian - Indian',17525
+2015,'Asian','Asian - Other Asian background',11735
+2015,'Asian','Asian - Pakistani',19275
+2015,'Black','Black - African',34520
+2015,'Black','Black - Caribbean',8730
+2015,'Black','Black - Other Black background',2240
+2015,'Mixed','Mixed - Other mixed background',6130
+2015,'Mixed','Mixed - White and Asian',6805
+2015,'Mixed','Mixed - White and Black African',2930
+2015,'Mixed','Mixed - White and Black Caribbean',6655
+2015,'White','White',411730
+2015,'Other','Other ethnic background',8705
+2015,'Unknown','Unknown',4545

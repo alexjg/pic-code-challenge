@@ -1,0 +1,46 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   UK domiciled                                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_003_01.pdf"
+ 
+Cycle Year,Applicant Domicile (High Level),Number of Acceptances,
+2006,'England',288030
+2006,'Northern Ireland',12385
+2006,'Scotland',26800
+2006,'Wales',17150
+2007,'England',305785
+2007,'Northern Ireland',13000
+2007,'Scotland',27220
+2007,'Wales',17365
+2008,'England',342440
+2008,'Northern Ireland',13430
+2008,'Scotland',29390
+2008,'Wales',18595
+2009,'England',359125
+2009,'Northern Ireland',13600
+2009,'Scotland',31030
+2009,'Wales',20195
+2010,'England',359005
+2010,'Northern Ireland',13505
+2010,'Scotland',32250
+2010,'Wales',18670
+2011,'England',367150
+2011,'Northern Ireland',13790
+2011,'Scotland',30800
+2011,'Wales',18325
+2012,'England',342755
+2012,'Northern Ireland',13285
+2012,'Scotland',30900
+2012,'Wales',19305
+2013,'England',367900
+2013,'Northern Ireland',14555
+2013,'Scotland',31495
+2013,'Wales',19665
+2014,'England',382515
+2014,'Northern Ireland',14455
+2014,'Scotland',30315
+2014,'Wales',20165
+2015,'England',394380
+2015,'Northern Ireland',14050
+2015,'Scotland',34775
+2015,'Wales',20510

@@ -1,0 +1,22 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Holds BTEC Qualification , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_033_05.pdf"
+ 
+Cycle Year,Holds BTEC Qualification,Number of Acceptances,
+2008,'BTEC qualification identified',49250
+2008,'BTEC qualification not identified',319360
+2009,'BTEC qualification identified',61690
+2009,'BTEC qualification not identified',332020
+2010,'BTEC qualification identified',71645
+2010,'BTEC qualification not identified',332480
+2011,'BTEC qualification identified',78365
+2011,'BTEC qualification not identified',335035
+2012,'BTEC qualification identified',75075
+2012,'BTEC qualification not identified',307555
+2013,'BTEC qualification identified',86115
+2013,'BTEC qualification not identified',319390
+2014,'BTEC qualification identified',98230
+2014,'BTEC qualification not identified',321340
+2015,'BTEC qualification identified',104970
+2015,'BTEC qualification not identified',326805

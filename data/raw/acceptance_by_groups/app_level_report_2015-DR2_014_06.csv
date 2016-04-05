@@ -1,0 +1,26 @@
+"Statistic:   Number of Applicants"
+"Variables:   Sex , Cycle Year"
+"Coverage:   Applied before June deadline                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_014_06.pdf"
+ 
+Cycle Year,Sex,Number of Applicants,
+2006,'Men',208025
+2006,'Women',259170
+2007,'Men',218910
+2007,'Women',273825
+2008,'Men',234000
+2008,'Women',304105
+2009,'Men',259065
+2009,'Women',331110
+2010,'Men',286335
+2010,'Women',371610
+2011,'Men',290860
+2011,'Women',377090
+2012,'Men',265900
+2012,'Women',350615
+2013,'Men',274565
+2013,'Women',361205
+2014,'Men',282070
+2014,'Women',376805
+2015,'Men',286170
+2015,'Women',386715

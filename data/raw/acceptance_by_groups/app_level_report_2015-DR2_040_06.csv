@@ -1,0 +1,162 @@
+"Statistic:   Number of Applicants"
+"Variables:   Number of Choices , Applicant Domicile (UK / EU / Not EU) , Cycle Year"
+"Coverage:   Applied before June deadline"
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_040_06.pdf"
+ 
+Cycle Year,Number of Choices , Applicant Domicile (UK / EU / Not EU),Number of Applicants,
+2006,'1 choice','UK',48770
+2006,'1 choice','EU (excluding UK)',4835
+2006,'1 choice','Not EU',4685
+2006,'2 choices','UK',19200
+2006,'2 choices','EU (excluding UK)',1280
+2006,'2 choices','Not EU',1450
+2006,'3 choices','UK',27170
+2006,'3 choices','EU (excluding UK)',1605
+2006,'3 choices','Not EU',2445
+2006,'4 choices','UK',34225
+2006,'4 choices','EU (excluding UK)',2360
+2006,'4 choices','Not EU',3000
+2006,'5 choices','UK',32040
+2006,'5 choices','EU (excluding UK)',1505
+2006,'5 choices','Not EU',2200
+2006,'6 choices','UK',237950
+2006,'6 choices','EU (excluding UK)',16170
+2006,'6 choices','Not EU',26300
+2007,'1 choice','UK',49340
+2007,'1 choice','EU (excluding UK)',4995
+2007,'1 choice','Not EU',5045
+2007,'2 choices','UK',19745
+2007,'2 choices','EU (excluding UK)',1540
+2007,'2 choices','Not EU',1555
+2007,'3 choices','UK',27665
+2007,'3 choices','EU (excluding UK)',1715
+2007,'3 choices','Not EU',2530
+2007,'4 choices','UK',34830
+2007,'4 choices','EU (excluding UK)',2425
+2007,'4 choices','Not EU',3045
+2007,'5 choices','UK',32830
+2007,'5 choices','EU (excluding UK)',1645
+2007,'5 choices','Not EU',2275
+2007,'6 choices','UK',254895
+2007,'6 choices','EU (excluding UK)',18985
+2007,'6 choices','Not EU',27665
+2008,'1 choice','UK',59300
+2008,'1 choice','EU (excluding UK)',5035
+2008,'1 choice','Not EU',5750
+2008,'2 choices','UK',24030
+2008,'2 choices','EU (excluding UK)',1570
+2008,'2 choices','Not EU',1905
+2008,'3 choices','UK',34305
+2008,'3 choices','EU (excluding UK)',1900
+2008,'3 choices','Not EU',3420
+2008,'4 choices','UK',46150
+2008,'4 choices','EU (excluding UK)',2865
+2008,'4 choices','Not EU',3820
+2008,'5 choices','UK',296295
+2008,'5 choices','EU (excluding UK)',20545
+2008,'5 choices','Not EU',31220
+2009,'1 choice','UK',69965
+2009,'1 choice','EU (excluding UK)',5635
+2009,'1 choice','Not EU',5570
+2009,'2 choices','UK',27580
+2009,'2 choices','EU (excluding UK)',1755
+2009,'2 choices','Not EU',1940
+2009,'3 choices','UK',37870
+2009,'3 choices','EU (excluding UK)',2245
+2009,'3 choices','Not EU',3585
+2009,'4 choices','UK',50325
+2009,'4 choices','EU (excluding UK)',3155
+2009,'4 choices','Not EU',4095
+2009,'5 choices','UK',318730
+2009,'5 choices','EU (excluding UK)',24090
+2009,'5 choices','Not EU',33635
+2010,'1 choice','UK',70345
+2010,'1 choice','EU (excluding UK)',5800
+2010,'1 choice','Not EU',6090
+2010,'2 choices','UK',28010
+2010,'2 choices','EU (excluding UK)',2135
+2010,'2 choices','Not EU',2025
+2010,'3 choices','UK',34225
+2010,'3 choices','EU (excluding UK)',2315
+2010,'3 choices','Not EU',3310
+2010,'4 choices','UK',55750
+2010,'4 choices','EU (excluding UK)',4080
+2010,'4 choices','Not EU',4290
+2010,'5 choices','UK',370915
+2010,'5 choices','EU (excluding UK)',30580
+2010,'5 choices','Not EU',38080
+2011,'1 choice','UK',58720
+2011,'1 choice','EU (excluding UK)',5125
+2011,'1 choice','Not EU',5635
+2011,'2 choices','UK',24270
+2011,'2 choices','EU (excluding UK)',1865
+2011,'2 choices','Not EU',2085
+2011,'3 choices','UK',29735
+2011,'3 choices','EU (excluding UK)',2140
+2011,'3 choices','Not EU',3455
+2011,'4 choices','UK',51120
+2011,'4 choices','EU (excluding UK)',3980
+2011,'4 choices','Not EU',4415
+2011,'5 choices','UK',400175
+2011,'5 choices','EU (excluding UK)',34425
+2011,'5 choices','Not EU',40810
+2012,'1 choice','UK',52960
+2012,'1 choice','EU (excluding UK)',4200
+2012,'1 choice','Not EU',5815
+2012,'2 choices','UK',21350
+2012,'2 choices','EU (excluding UK)',1635
+2012,'2 choices','Not EU',2155
+2012,'3 choices','UK',26640
+2012,'3 choices','EU (excluding UK)',1815
+2012,'3 choices','Not EU',3680
+2012,'4 choices','UK',46435
+2012,'4 choices','EU (excluding UK)',3455
+2012,'4 choices','Not EU',4885
+2012,'5 choices','UK',366495
+2012,'5 choices','EU (excluding UK)',30340
+2012,'5 choices','Not EU',44660
+2013,'1 choice','UK',56200
+2013,'1 choice','EU (excluding UK)',4250
+2013,'1 choice','Not EU',5915
+2013,'2 choices','UK',21935
+2013,'2 choices','EU (excluding UK)',1700
+2013,'2 choices','Not EU',2215
+2013,'3 choices','UK',28145
+2013,'3 choices','EU (excluding UK)',1925
+2013,'3 choices','Not EU',3550
+2013,'4 choices','UK',48205
+2013,'4 choices','EU (excluding UK)',3535
+2013,'4 choices','Not EU',5040
+2013,'5 choices','UK',373150
+2013,'5 choices','EU (excluding UK)',31865
+2013,'5 choices','Not EU',48150
+2014,'1 choice','UK',56490
+2014,'1 choice','EU (excluding UK)',4240
+2014,'1 choice','Not EU',5835
+2014,'2 choices','UK',22020
+2014,'2 choices','EU (excluding UK)',1640
+2014,'2 choices','Not EU',2320
+2014,'3 choices','UK',28460
+2014,'3 choices','EU (excluding UK)',1890
+2014,'3 choices','Not EU',3740
+2014,'4 choices','UK',48790
+2014,'4 choices','EU (excluding UK)',3475
+2014,'4 choices','Not EU',5235
+2014,'5 choices','UK',388745
+2014,'5 choices','EU (excluding UK)',34110
+2014,'5 choices','Not EU',51880
+2015,'1 choice','UK',56160
+2015,'1 choice','EU (excluding UK)',4240
+2015,'1 choice','Not EU',5920
+2015,'2 choices','UK',22465
+2015,'2 choices','EU (excluding UK)',1745
+2015,'2 choices','Not EU',2270
+2015,'3 choices','UK',29335
+2015,'3 choices','EU (excluding UK)',2135
+2015,'3 choices','Not EU',3730
+2015,'4 choices','UK',49390
+2015,'4 choices','EU (excluding UK)',3680
+2015,'4 choices','Not EU',5200
+2015,'5 choices','UK',396165
+2015,'5 choices','EU (excluding UK)',37100
+2015,'5 choices','Not EU',53350

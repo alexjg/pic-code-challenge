@@ -1,0 +1,18 @@
+"Statistic:   Number of Applicants"
+"Variables:   Disability Indicator , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_025_06.pdf"
+ 
+Cycle Year,Disability Indicator,Number of Applicants,
+2010,'Disability declared',36980
+2010,'No disability declared',522265
+2011,'Disability declared',39180
+2011,'No disability declared',524835
+2012,'Disability declared',38055
+2012,'No disability declared',475825
+2013,'Disability declared',41925
+2013,'No disability declared',485715
+2014,'Disability declared',47055
+2014,'No disability declared',497460
+2015,'Disability declared',51640
+2015,'No disability declared',501875

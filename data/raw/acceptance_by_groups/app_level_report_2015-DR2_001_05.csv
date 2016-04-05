@@ -1,0 +1,36 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Applicant Domicile (UK / EU / Not EU) , Cycle Year"
+"Coverage:   Applied before June deadline                                                                                                                                                                            "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_001_05.pdf"
+ 
+Cycle Year,Applicant Domicile (UK / EU / Not EU),Number of Acceptances,
+2006,'UK',316885
+2006,'EU (excluding UK)',16525
+2006,'Not EU',23715
+2007,'UK',334135
+2007,'EU (excluding UK)',18800
+2007,'Not EU',24345
+2008,'UK',368610
+2008,'EU (excluding UK)',19295
+2008,'Not EU',25785
+2009,'UK',393710
+2009,'EU (excluding UK)',21810
+2009,'Not EU',26620
+2010,'UK',404125
+2010,'EU (excluding UK)',23710
+2010,'Not EU',28510
+2011,'UK',413400
+2011,'EU (excluding UK)',25505
+2011,'Not EU',29565
+2012,'UK',382630
+2012,'EU (excluding UK)',21900
+2012,'Not EU',30615
+2013,'UK',405510
+2013,'EU (excluding UK)',23295
+2013,'Not EU',32895
+2014,'UK',419570
+2014,'EU (excluding UK)',25250
+2014,'Not EU',33965
+2015,'UK',431775
+2015,'EU (excluding UK)',27925
+2015,'Not EU',35055

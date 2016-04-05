@@ -1,0 +1,233 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Acceptance Route , Applicant Domicile (High Level) , Cycle Year"
+"Coverage:   Applied before June deadline and UK domiciled                                                                                                                                                           "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_010_05.pdf"
+ 
+Cycle Year,Acceptance Route , Applicant Domicile (High Level),Number of Acceptances,
+2006,'Firm choice','England',214695
+2006,'Firm choice','Northern Ireland',9385
+2006,'Firm choice','Scotland',20705
+2006,'Firm choice','Wales',12905
+2006,'Insurance choice','England',15550
+2006,'Insurance choice','Northern Ireland',1440
+2006,'Insurance choice','Scotland',1405
+2006,'Insurance choice','Wales',735
+2006,'Other main scheme choice','England',9880
+2006,'Other main scheme choice','Northern Ireland',200
+2006,'Other main scheme choice','Scotland',1015
+2006,'Other main scheme choice','Wales',550
+2006,'Extra','England',2515
+2006,'Extra','Northern Ireland',100
+2006,'Extra','Scotland',135
+2006,'Extra','Wales',170
+2006,'Main scheme Clearing','England',21855
+2006,'Main scheme Clearing','Northern Ireland',990
+2006,'Main scheme Clearing','Scotland',1550
+2006,'Main scheme Clearing','Wales',1100
+2007,'Firm choice','England',227160
+2007,'Firm choice','Northern Ireland',10230
+2007,'Firm choice','Scotland',20955
+2007,'Firm choice','Wales',13245
+2007,'Insurance choice','England',17160
+2007,'Insurance choice','Northern Ireland',1245
+2007,'Insurance choice','Scotland',1405
+2007,'Insurance choice','Wales',805
+2007,'Other main scheme choice','England',10380
+2007,'Other main scheme choice','Northern Ireland',225
+2007,'Other main scheme choice','Scotland',995
+2007,'Other main scheme choice','Wales',525
+2007,'Extra','England',2940
+2007,'Extra','Northern Ireland',145
+2007,'Extra','Scotland',140
+2007,'Extra','Wales',160
+2007,'Main scheme Clearing','England',23015
+2007,'Main scheme Clearing','Northern Ireland',890
+2007,'Main scheme Clearing','Scotland',1490
+2007,'Main scheme Clearing','Wales',1035
+2008,'Firm choice','England',251115
+2008,'Firm choice','Northern Ireland',10780
+2008,'Firm choice','Scotland',21345
+2008,'Firm choice','Wales',13960
+2008,'Insurance choice','England',20160
+2008,'Insurance choice','Northern Ireland',1090
+2008,'Insurance choice','Scotland',1510
+2008,'Insurance choice','Wales',840
+2008,'Other main scheme choice','England',11585
+2008,'Other main scheme choice','Northern Ireland',195
+2008,'Other main scheme choice','Scotland',1035
+2008,'Other main scheme choice','Wales',540
+2008,'Extra','England',4255
+2008,'Extra','Northern Ireland',150
+2008,'Extra','Scotland',200
+2008,'Extra','Wales',210
+2008,'Main scheme Clearing','England',26140
+2008,'Main scheme Clearing','Northern Ireland',865
+2008,'Main scheme Clearing','Scotland',1520
+2008,'Main scheme Clearing','Wales',1110
+2009,'Firm choice','England',260745
+2009,'Firm choice','Northern Ireland',10575
+2009,'Firm choice','Scotland',22440
+2009,'Firm choice','Wales',14820
+2009,'Insurance choice','England',25030
+2009,'Insurance choice','Northern Ireland',1470
+2009,'Insurance choice','Scotland',1695
+2009,'Insurance choice','Wales',1190
+2009,'Other main scheme choice','England',15260
+2009,'Other main scheme choice','Northern Ireland',250
+2009,'Other main scheme choice','Scotland',1130
+2009,'Other main scheme choice','Wales',845
+2009,'Extra','England',4480
+2009,'Extra','Northern Ireland',140
+2009,'Extra','Scotland',175
+2009,'Extra','Wales',205
+2009,'Adjustment','England',290
+2009,'Adjustment','Northern Ireland',25
+2009,'Adjustment','Scotland',5
+2009,'Adjustment','Wales',15
+2009,'Main scheme Clearing','England',28940
+2009,'Main scheme Clearing','Northern Ireland',860
+2009,'Main scheme Clearing','Scotland',1805
+2009,'Main scheme Clearing','Wales',1315
+2010,'Firm choice','England',270070
+2010,'Firm choice','Northern Ireland',10650
+2010,'Firm choice','Scotland',24540
+2010,'Firm choice','Wales',14350
+2010,'Insurance choice','England',28260
+2010,'Insurance choice','Northern Ireland',1595
+2010,'Insurance choice','Scotland',1945
+2010,'Insurance choice','Wales',1155
+2010,'Other main scheme choice','England',8750
+2010,'Other main scheme choice','Northern Ireland',155
+2010,'Other main scheme choice','Scotland',770
+2010,'Other main scheme choice','Wales',385
+2010,'Extra','England',5550
+2010,'Extra','Northern Ireland',190
+2010,'Extra','Scotland',290
+2010,'Extra','Wales',255
+2010,'Adjustment','England',280
+2010,'Adjustment','Northern Ireland',25
+2010,'Adjustment','Wales',15
+2010,'Main scheme Clearing','England',31065
+2010,'Main scheme Clearing','Northern Ireland',745
+2010,'Main scheme Clearing','Scotland',1700
+2010,'Main scheme Clearing','Wales',1385
+2011,'Firm choice','England',269900
+2011,'Firm choice','Northern Ireland',10830
+2011,'Firm choice','Scotland',24340
+2011,'Firm choice','Wales',14105
+2011,'Insurance choice','England',30935
+2011,'Insurance choice','Northern Ireland',1655
+2011,'Insurance choice','Scotland',1805
+2011,'Insurance choice','Wales',1155
+2011,'Other main scheme choice','England',9135
+2011,'Other main scheme choice','Northern Ireland',155
+2011,'Other main scheme choice','Scotland',710
+2011,'Other main scheme choice','Wales',375
+2011,'Extra','England',7785
+2011,'Extra','Northern Ireland',180
+2011,'Extra','Scotland',360
+2011,'Extra','Wales',320
+2011,'Adjustment','England',470
+2011,'Adjustment','Northern Ireland',20
+2011,'Adjustment','Scotland',5
+2011,'Adjustment','Wales',10
+2011,'Main scheme Clearing','England',35590
+2011,'Main scheme Clearing','Northern Ireland',830
+2011,'Main scheme Clearing','Scotland',1220
+2011,'Main scheme Clearing','Wales',1505
+2012,'Firm choice','England',252135
+2012,'Firm choice','Northern Ireland',10405
+2012,'Firm choice','Scotland',24465
+2012,'Firm choice','Wales',14575
+2012,'Insurance choice','England',21450
+2012,'Insurance choice','Northern Ireland',1425
+2012,'Insurance choice','Scotland',1760
+2012,'Insurance choice','Wales',930
+2012,'Other main scheme choice','England',7070
+2012,'Other main scheme choice','Northern Ireland',120
+2012,'Other main scheme choice','Scotland',615
+2012,'Other main scheme choice','Wales',325
+2012,'Extra','England',6370
+2012,'Extra','Northern Ireland',160
+2012,'Extra','Scotland',265
+2012,'Extra','Wales',300
+2012,'Adjustment','England',1160
+2012,'Adjustment','Northern Ireland',25
+2012,'Adjustment','Scotland',15
+2012,'Adjustment','Wales',30
+2012,'Main scheme Clearing','England',34920
+2012,'Main scheme Clearing','Northern Ireland',980
+2012,'Main scheme Clearing','Scotland',1420
+2012,'Main scheme Clearing','Wales',1705
+2013,'Firm choice','England',269420
+2013,'Firm choice','Northern Ireland',11455
+2013,'Firm choice','Scotland',25255
+2013,'Firm choice','Wales',14855
+2013,'Insurance choice','England',23770
+2013,'Insurance choice','Northern Ireland',1575
+2013,'Insurance choice','Scotland',1580
+2013,'Insurance choice','Wales',970
+2013,'Other main scheme choice','England',9475
+2013,'Other main scheme choice','Northern Ireland',125
+2013,'Other main scheme choice','Scotland',495
+2013,'Other main scheme choice','Wales',395
+2013,'Extra','England',6190
+2013,'Extra','Northern Ireland',215
+2013,'Extra','Scotland',340
+2013,'Extra','Wales',295
+2013,'Adjustment','England',1055
+2013,'Adjustment','Northern Ireland',30
+2013,'Adjustment','Scotland',10
+2013,'Adjustment','Wales',25
+2013,'Main scheme Clearing','England',34320
+2013,'Main scheme Clearing','Northern Ireland',955
+2013,'Main scheme Clearing','Scotland',1320
+2013,'Main scheme Clearing','Wales',1380
+2014,'Firm choice','England',274540
+2014,'Firm choice','Northern Ireland',11335
+2014,'Firm choice','Scotland',26055
+2014,'Firm choice','Wales',15420
+2014,'Insurance choice','England',27155
+2014,'Insurance choice','Northern Ireland',1535
+2014,'Insurance choice','Scotland',1665
+2014,'Insurance choice','Wales',1050
+2014,'Other main scheme choice','England',9230
+2014,'Other main scheme choice','Northern Ireland',115
+2014,'Other main scheme choice','Scotland',490
+2014,'Other main scheme choice','Wales',450
+2014,'Extra','England',5985
+2014,'Extra','Northern Ireland',185
+2014,'Extra','Scotland',355
+2014,'Extra','Wales',285
+2014,'Adjustment','England',975
+2014,'Adjustment','Northern Ireland',30
+2014,'Adjustment','Scotland',10
+2014,'Adjustment','Wales',30
+2014,'Main scheme Clearing','England',38980
+2014,'Main scheme Clearing','Northern Ireland',1055
+2014,'Main scheme Clearing','Scotland',1135
+2014,'Main scheme Clearing','Wales',1510
+2015,'Firm choice','England',280930
+2015,'Firm choice','Northern Ireland',10930
+2015,'Firm choice','Scotland',28295
+2015,'Firm choice','Wales',15545
+2015,'Insurance choice','England',29095
+2015,'Insurance choice','Northern Ireland',1680
+2015,'Insurance choice','Scotland',1665
+2015,'Insurance choice','Wales',1215
+2015,'Other main scheme choice','England',9240
+2015,'Other main scheme choice','Northern Ireland',90
+2015,'Other main scheme choice','Scotland',520
+2015,'Other main scheme choice','Wales',455
+2015,'Extra','England',5815
+2015,'Extra','Northern Ireland',175
+2015,'Extra','Scotland',415
+2015,'Extra','Wales',265
+2015,'Adjustment','England',960
+2015,'Adjustment','Northern Ireland',35
+2015,'Adjustment','Scotland',5
+2015,'Adjustment','Wales',25
+2015,'Main scheme Clearing','England',40425
+2015,'Main scheme Clearing','Northern Ireland',980
+2015,'Main scheme Clearing','Scotland',1440
+2015,'Main scheme Clearing','Wales',1580

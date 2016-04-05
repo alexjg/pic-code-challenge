@@ -1,0 +1,26 @@
+"Statistic:   Number of Acceptances"
+"Variables:   Sex , Cycle Year"
+"Coverage:   All                                                                                                                                                                                                     "
+"For a list of key definitions and descriptions please refer to the PDF file provided - EOC_data_resource_2015-DR2_014_01.pdf"
+ 
+Cycle Year,Sex,Number of Acceptances,
+2006,'Men',180555
+2006,'Women',210335
+2007,'Men',189685
+2007,'Women',223745
+2008,'Men',204695
+2008,'Women',251930
+2009,'Men',218185
+2009,'Women',263670
+2010,'Men',220085
+2010,'Women',267245
+2011,'Men',221875
+2011,'Women',270155
+2012,'Men',208285
+2012,'Women',256625
+2013,'Men',222070
+2013,'Women',273530
+2014,'Men',227290
+2014,'Women',285080
+2015,'Men',232715
+2015,'Women',299550
