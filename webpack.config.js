@@ -10,7 +10,7 @@ var syntax = require("postcss-scss");
 module.exports = {
     entry: {
         maincss: [path.join(__dirname, '/assets/sass/main.scss')],
-        mainjs: ['babel-polyfill', path.join(__dirname, '/assets/js/index.js')]
+        mainjs: [path.join(__dirname, '/assets/js/index.js')]
     },
     output: {
         path: './build/',
