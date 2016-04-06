@@ -48,7 +48,7 @@ class App extends Component {
             probability = null
         }
         return <div className="max-size-column">
-            <AppBar />
+            <AppBar showMenuIconButton={false} title="University Acceptance Rates By Ethnicity And Sex"/>
             <div className="cards">
                 <ChoiceCard
                     choices={ethnicities}
