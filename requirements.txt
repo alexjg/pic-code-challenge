@@ -4,3 +4,4 @@ Flask-Webpack==0.1.0
 marshmallow==2.7.0
 whitenoise==3.0
 gunicorn==19.4.5
+pandas==0.18.0
