@@ -6,7 +6,8 @@
   "scripts": {
     "watch": "webpack -d --config webpack.config.js --watch",
     "test": "mocha --compilers js:babel-register --require ./assets/js/tests/tests_helper.js --require ./assets/js/tests/null-compiler.js './assets/js/tests/**/*.@(js|jsx)'",
-    "test:watch": "npm run test -- --watch --watch-extensions jsx"
+    "test:watch": "npm run test -- --watch --watch-extensions jsx",
+    "heroku-postbuild": "./node_modules/.bin/webpack --config webpack.config.js"
   },
   "author": "Alex Good",
   "license": "ISC",
