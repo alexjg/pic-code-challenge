@@ -3,7 +3,7 @@ import Paper from "material-ui/lib/paper"
 
 
 export default function Probability({probability, loading}){
-    let text = `${probability * 100}%`
+    let text = `${(probability * 100).toPrecision(4)}%`
     if (loading) {
         text = "Loading"
     }

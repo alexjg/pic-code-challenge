@@ -12,6 +12,8 @@ class App extends Component {
         ethnicities: React.PropTypes.array,
         sexes: React.PropTypes.array,
         fetchAcceptanceProbability: React.PropTypes.func,
+        loading: React.PropTypes.bool,
+        acceptanceProbability: React.PropTypes.number,
     }
     onChangeEthnicity = (ethnicity) => {
         this.setState(
