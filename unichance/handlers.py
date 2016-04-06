@@ -1,5 +1,6 @@
 import flask
 from flask_webpack import Webpack
+import json
 
 webpack = Webpack()
 
@@ -17,3 +18,9 @@ def home():
         "base.html",
     )
 
+@app.route("/acceptance_probability")
+def acceptance_probability():
+    return flask.Response(
+        json.dumps({"value": 0.1234}),
+        mimetype="application/json",
+    )

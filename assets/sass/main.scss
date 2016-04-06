@@ -1,0 +1,67 @@
+html {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    font-size: 62.5%;
+
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: white;
+    font-size: rem(16);
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.max-size-column {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#container {
+    @extend .max-size-column;
+}
+
+
+.cards {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.probability {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    &--paper {
+        height: 100px;
+        width: 100px;
+        margin: 20px;
+        text-align: center;
+        display: inline-block;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    text-align: center;
+    p {
+        font-size: 20px;
+        font-family: Roboto,sans-serif
+    }
+}
+
+.probability-container {
+    display: flex;
+    flex-direct: row;
+    justify-content: center;
+    margin-top:50px;
+}
